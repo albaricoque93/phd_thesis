@@ -1,0 +1,9 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {british}{}
+\defcounter {refsection}{0}\relax 
+\vspace {-\cftbeforepartskip }
+\babel@toc {american}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\numberline {i}{General introduction}}{1}{part.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\numberline {ii}{Network analysis: a potential tool for biosecurity intervention}}{3}{part.2}%
