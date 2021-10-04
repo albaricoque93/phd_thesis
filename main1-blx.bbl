@@ -1,0 +1,641 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{box2011statistical}{book}{}
+    \name{author}{3}{}{%
+      {{hash=BGE}{%
+         family={Box},
+         familyi={B\bibinitperiod},
+         given={George\bibnamedelima EP},
+         giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Luce{\~n}o},
+         familyi={L\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=dCPQM}{%
+         prefix={del},
+         prefixi={d\bibinitperiod},
+         family={Carmen Paniagua-Quinones},
+         familyi={C\bibinitperiod\bibinitdelim P\bibinithyphendelim
+  Q\bibinitperiod},
+         given={Maria},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley \& Sons}%
+    }
+    \strng{namehash}{BGELACPQMd1}
+    \strng{fullhash}{BGELACPQMd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Statistical control by monitoring and adjustment}
+    \field{volume}{700}
+    \field{year}{2011}
+  \endentry
+
+  \entry{capdevila2021reconciling}{misc}{}
+    \name{author}{8}{}{%
+      {{hash=CP}{%
+         family={Capdevila},
+         familyi={C\bibinitperiod},
+         given={Pol},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Stott},
+         familyi={S\bibinitperiod},
+         given={Iain},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=OMI}{%
+         family={Oliveras\bibnamedelima Menor},
+         familyi={O\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={Imma},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=SDB}{%
+         family={Stouffer},
+         familyi={S\bibinitperiod},
+         given={Daniel\bibnamedelima B},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=RRL}{%
+         family={Raimundo},
+         familyi={R\bibinitperiod},
+         given={Rafael\bibnamedelima LG},
+         giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=WH}{%
+         family={White},
+         familyi={W\bibinitperiod},
+         given={Hannah},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Barbour},
+         familyi={B\bibinitperiod},
+         given={Matthew},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SGR}{%
+         family={Salguero-G{\'o}mez},
+         familyi={S\bibinithyphendelim G\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{CP+1}
+    \strng{fullhash}{CPSIOMISDBRRLWHBMSGR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{9}
+    \field{pages}{3102\bibrangedash 3113}
+    \field{title}{Reconciling resilience across ecological systems, species and
+  subdisciplines}
+    \field{volume}{109}
+    \field{journaltitle}{Journal of Ecology}
+    \field{year}{2021}
+  \endentry
+
+  \entry{chase2009ecological}{book}{}
+    \name{author}{2}{}{%
+      {{hash=CJM}{%
+         family={Chase},
+         familyi={C\bibinitperiod},
+         given={Jonathan\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=LMA}{%
+         family={Leibold},
+         familyi={L\bibinitperiod},
+         given={Mathew\bibnamedelima A},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Chicago Press}%
+    }
+    \strng{namehash}{CJMLMA1}
+    \strng{fullhash}{CJMLMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Ecological niches}
+    \field{year}{2009}
+  \endentry
+
+  \entry{chesson2000mechanisms}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CP}{%
+         family={Chesson},
+         familyi={C\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Annual Reviews}%
+    }
+    \strng{namehash}{CP1}
+    \strng{fullhash}{CP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1}
+    \field{pages}{343\bibrangedash 366}
+    \field{title}{Mechanisms of maintenance of species diversity}
+    \field{volume}{31}
+    \field{journaltitle}{Annual review of Ecology and Systematics}
+    \field{year}{2000}
+  \endentry
+
+  \entry{gause_experimental_1934}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GGF}{%
+         family={Gause},
+         familyi={G\bibinitperiod},
+         given={Georgii\bibnamedelima Frantsevitch},
+         giveni={G\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GGF1}
+    \strng{fullhash}{GGF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1934}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{2036}
+    \field{pages}{16\bibrangedash 17}
+    \field{title}{Experimental analysis of Vito Volterra’s mathematical
+  theory of the struggle for existence}
+    \field{volume}{79}
+    \verb{file}
+    \verb Full Text:/Users/AlbaCL/Zotero/storage/VVFYGP7T/Gause - 1934 - Experi
+    \verb mental analysis of Vito Volterra’s mathemati.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Science}
+    \field{year}{1934}
+  \endentry
+
+  \entry{godoy2020excess}{article}{}
+    \name{author}{5}{}{%
+      {{hash=GO}{%
+         family={Godoy},
+         familyi={G\bibinitperiod},
+         given={Oscar},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=GAL}{%
+         family={G{\'o}mez-Aparicio},
+         familyi={G\bibinithyphendelim A\bibinitperiod},
+         given={Lorena},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Mat{\'\i}as},
+         familyi={M\bibinitperiod},
+         given={Luis},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=PRIM}{%
+         family={P{\'e}rez-Ramos},
+         familyi={P\bibinithyphendelim R\bibinitperiod},
+         given={Ignacio\bibnamedelima M},
+         giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=AE}{%
+         family={Allan},
+         familyi={A\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{GO+1}
+    \strng{fullhash}{GOGALMLPRIMAE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 10}
+    \field{title}{An excess of niche differences maximizes ecosystem
+  functioning}
+    \field{volume}{11}
+    \field{journaltitle}{Nature communications}
+    \field{year}{2020}
+  \endentry
+
+  \entry{hillerislambers2012rethinking}{article}{}
+    \name{author}{5}{}{%
+      {{hash=HJ}{%
+         family={HilleRisLambers},
+         familyi={H\bibinitperiod},
+         given={Janneke},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=APB}{%
+         family={Adler},
+         familyi={A\bibinitperiod},
+         given={Peter\bibnamedelima B},
+         giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=HWS}{%
+         family={Harpole},
+         familyi={H\bibinitperiod},
+         given={W\bibnamedelima Stanley},
+         giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=LJM}{%
+         family={Levine},
+         familyi={L\bibinitperiod},
+         given={Jonathan\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MMM}{%
+         family={Mayfield},
+         familyi={M\bibinitperiod},
+         given={Margaret\bibnamedelima M},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Annual Reviews}%
+    }
+    \strng{namehash}{HJ+1}
+    \strng{fullhash}{HJAPBHWSLJMMMM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{pages}{227\bibrangedash 248}
+    \field{title}{Rethinking community assembly through the lens of coexistence
+  theory}
+    \field{volume}{43}
+    \field{journaltitle}{Annual review of ecology, evolution, and systematics}
+    \field{year}{2012}
+  \endentry
+
+  \entry{lawton1999there}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LJH}{%
+         family={Lawton},
+         familyi={L\bibinitperiod},
+         given={John\bibnamedelima H},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {JSTOR}%
+    }
+    \strng{namehash}{LJH1}
+    \strng{fullhash}{LJH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{pages}{177\bibrangedash 192}
+    \field{title}{Are there general laws in ecology?}
+    \field{journaltitle}{Oikos}
+    \field{year}{1999}
+  \endentry
+
+  \entry{macarthur1967limiting}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MR}{%
+         family={MacArthur},
+         familyi={M\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LR}{%
+         family={Levins},
+         familyi={L\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Science Press}%
+    }
+    \strng{namehash}{MRLR1}
+    \strng{fullhash}{MRLR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1967}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{921}
+    \field{pages}{377\bibrangedash 385}
+    \field{title}{The limiting similarity, convergence, and divergence of
+  coexisting species}
+    \field{volume}{101}
+    \field{journaltitle}{The american naturalist}
+    \field{year}{1967}
+  \endentry
+
+  \entry{may1972will}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MRM}{%
+         family={May},
+         familyi={M\bibinitperiod},
+         given={Robert\bibnamedelima M},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{MRM1}
+    \strng{fullhash}{MRM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1972}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{5364}
+    \field{pages}{413\bibrangedash 414}
+    \field{title}{Will a large complex system be stable?}
+    \field{volume}{238}
+    \field{journaltitle}{Nature}
+    \field{year}{1972}
+  \endentry
+
+  \entry{maynard1978models}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MSJ}{%
+         family={Maynard-Smith},
+         familyi={M\bibinithyphendelim S\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {CUP Archive}%
+    }
+    \strng{namehash}{MSJ1}
+    \strng{fullhash}{MSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1978}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Models in ecology}
+    \field{year}{1978}
+  \endentry
+
+  \entry{saavedra2017structural}{article}{}
+    \name{author}{6}{}{%
+      {{hash=SS}{%
+         family={Saavedra},
+         familyi={S\bibinitperiod},
+         given={Serguei},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=RRP}{%
+         family={Rohr},
+         familyi={R\bibinitperiod},
+         given={Rudolf\bibnamedelima P},
+         giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bascompte},
+         familyi={B\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GO}{%
+         family={Godoy},
+         familyi={G\bibinitperiod},
+         given={Oscar},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=KNJ}{%
+         family={Kraft},
+         familyi={K\bibinitperiod},
+         given={Nathan\bibnamedelima JB},
+         giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=LJM}{%
+         family={Levine},
+         familyi={L\bibinitperiod},
+         given={Jonathan\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{SS+1}
+    \strng{fullhash}{SSRRPBJGOKNJLJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{470\bibrangedash 486}
+    \field{title}{A structural approach for understanding multispecies
+  coexistence}
+    \field{volume}{87}
+    \field{journaltitle}{Ecological Monographs}
+    \field{year}{2017}
+  \endentry
+
+  \entry{song2018will}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SC}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Chuliang},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Saavedra},
+         familyi={S\bibinitperiod},
+         given={Serguei},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{SCSS1}
+    \strng{fullhash}{SCSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{743\bibrangedash 751}
+    \field{title}{Will a small randomly assembled community be feasible and
+  stable?}
+    \field{volume}{99}
+    \field{journaltitle}{Ecology}
+    \field{year}{2018}
+  \endentry
+
+  \entry{thompson1999evolution}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TJN}{%
+         family={Thompson},
+         familyi={T\bibinitperiod},
+         given={John\bibnamedelima N},
+         giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Association for the Advancement of Science}%
+    }
+    \strng{namehash}{TJN1}
+    \strng{fullhash}{TJN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{5423}
+    \field{pages}{2116\bibrangedash 2118}
+    \field{title}{The evolution of species interactions}
+    \field{volume}{284}
+    \field{journaltitle}{Science}
+    \field{year}{1999}
+  \endentry
+
+  \entry{turnbull2013coexistence}{article}{}
+    \name{author}{4}{}{%
+      {{hash=TLA}{%
+         family={Turnbull},
+         familyi={T\bibinitperiod},
+         given={Lindsay\bibnamedelima Ann},
+         giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LJM}{%
+         family={Levine},
+         familyi={L\bibinitperiod},
+         given={Jonathan\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Loreau},
+         familyi={L\bibinitperiod},
+         given={Michel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Hector},
+         familyi={H\bibinitperiod},
+         given={Andy},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{TLA+1}
+    \strng{fullhash}{TLALJMLMHA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{pages}{116\bibrangedash 127}
+    \field{title}{Coexistence, niches and biodiversity effects on ecosystem
+  functioning}
+    \field{volume}{16}
+    \field{journaltitle}{Ecology letters}
+    \field{year}{2013}
+  \endentry
+
+  \entry{wootton2016many}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WK}{%
+         family={Wootton},
+         familyi={W\bibinitperiod},
+         given={KL},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Stouffer},
+         familyi={S\bibinitperiod},
+         given={DB},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{WKSD1}
+    \strng{fullhash}{WKSD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{2}
+    \field{pages}{185\bibrangedash 195}
+    \field{title}{Many weak interactions and few strong; food-web feasibility
+  depends on the combination of the strength of species’ interactions and
+  their correct arrangement}
+    \field{volume}{9}
+    \field{journaltitle}{Theoretical Ecology}
+    \field{year}{2016}
+  \endentry
+\enddatalist
+\endinput
