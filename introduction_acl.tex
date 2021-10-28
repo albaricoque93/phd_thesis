@@ -1,0 +1,136 @@
+\RequirePackage[]{lineno}
+\documentclass[12pt]{article}
+\usepackage{caption}
+\usepackage{times}
+\usepackage{setspace}
+\usepackage{longtable}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{mathpazo}
+\usepackage{times}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usepackage[hmargin=2.25cm, vmargin=2cm, headheight=15.5pt]{geometry}
+\usepackage{multirow}
+\usepackage{tcolorbox}
+\usepackage{multicol}
+\usepackage{tabularx}
+\usepackage{rotating}
+\usepackage{pdflscape}
+
+
+\captionsetup[figure]{font=small}
+\captionsetup[table]{font=small}
+
+\usetikzlibrary{arrows,calc}
+\geometry{margin=1in}
+
+%\captionsetup{font=doublespacing, size= footnotesize}% Double-spaced float captions
+\doublespacing
+\DeclareCaptionJustification{double}{\DoubleSpacing}
+% Reasonable page setup
+
+
+\usepackage[]{natbib}
+\bibpunct[; ]{(}{)}{;}{a}{,}{;}
+
+% to avoid things being lost to overleaf comment bubbles
+\long\def\authornote#1{%
+    \leavevmode\unskip\raisebox{-3.5pt}{\rlap{$\scriptstyle\dagger$}}%
+    \marginpar{\raggedright\hbadness=10000
+        \def\baselinestretch{0.8}\tiny
+        \it #1\par}}
+\newcommand{\DBS}[1]{\authornote{DBS: #1}}
+\newcommand{\ACL}[1]{\authornote{ACL: #1}}
+
+\usepackage{authblk}
+\renewcommand\Affilfont{\small}
+
+\newenvironment{abox}[1]{
+  \begin{tcolorbox}[float,title=#1, colback=blue!4]
+  \fontsize{9}{10}\selectfont
+  \begin{multicols}{2}
+}{
+  \end{multicols}
+  \end{tcolorbox}
+}
+
+
+\newenvironment{ecolettcover}{\maketitle}{\clearpage}
+\newenvironment{ecolettabstract}{\clearpage\section*{Abstract}}{\clearpage}
+\tikzset{
+	%Define standard arrow tip
+	>=stealth',
+	%Define style for different line styles
+	help lines/.style={dashed, thick},
+	axis/.style={<->},
+	important line/.style={thick},
+	connection/.style={thick, dotted},
+}
+
+%\title{The structural sensitivity of competition models: how model formulation changes our predictions of species coexistence}
+\title{Introduction}
+\author[1]{Alba Cervantes-Loreto}
+
+
+% Include the date command, but leave its argument blank.
+\date{}
+
+%%%%%%%%%%%%%%%%% END OF PREAMBLE %%%%%%%%%%%%%%%%
+\let\oldequation\equation
+\let\oldendequation\endequation
+
+\renewenvironment{equation}
+  {\linenomathNonumbers\oldequation}
+  {\oldendequation\endlinenomath}
+
+% \pagestyle{empty}
+
+\begin{document}
+\linenumbers
+% Double-space the manuscript.
+\baselineskip30pt
+\maketitle
+
+
+Interactions between organisms underpin the persistence of almost all life forms on Earth \citep{lawton1999there}. Furthermore, large body of work has shown that biotic interactions determine emergent properties of natural systems, such as stability \citep{may1972will, wootton2016many,song2018will}, resilience \citep{capdevila2021reconciling}, ecosystem functioning \citep{turnbull2013coexistence,godoy2020excess}, and the coexistence of multiple species \citep{chesson2000mechanisms,saavedra2017structural}. Unsurprisingly, numerous ecological and evolutionary concepts revolve around the reciprocal forces that organisms exert on each other \citep{gause_experimental_1934,macarthur1967limiting,thompson1999evolution, hillerislambers2012rethinking, chase2009ecological}.
+%concepts: competitive exclusion, limiting similarity, community assembly, ecological niche, co-evolution
+
+The study of biotic interactions often requires the use of mathematical models to represent them \citep{maynard1978models}. Mathematical descriptions of interactions are ``useful fictions'' \citep{box2011statistical} in a twofold manner. First, they create a description of how organisms that coincide in space and time reciprocally affect each other. Almost all known types of interactions can be described in the form of mathematical expressions that reproduce the observed data faithfully \citep{volterra1926fluctuations,holling1959some,holt1977predation,adler2018competition,wood1999super,holland2002population,vazquez2005interaction,stouffer2021hidden} . For example, the effect neighboring plants have on each other can be accurately described in various natural systems with functions that only include the densities of the interacting species as well as a form of negative density dependence \citep{adler2018competition,hart2018quantify}. Second, models that describe the effect of biotic interactions are pactical tools with which to make predictions beyond the phenomena they describe. For instance, models that describe competitive interactions between plants can be used  to make predictions such as changes of biomass in the system \citep{fox2003long,godoy2020excess}, or whether or not species can coexist \citep{levine2009importance,godoy_phylogenetic_2014}.
+
+
+However useful, models that capture the effect of biotic interactions are abstractions of reality. It is rare that we know the exact equations governing a system or the full set of biotic and abiotic factors (song). Our abstractions always reflect choices.  A common assumption in ecological en evolutionary models, is that in order to achieve general insight, we should favour simple models. Indeed there is a general belief in ecology and evolution that a good model should include as little as possible.
+
+
+The simplifying assumptions made to represent biotic interactions necessarily imply the omission of important heterogenities at various levels. These omissions
+
+Despite the proven ability of models of biotic interactions to accurately fit data and to provide general insights into various ecological phenomna
+
+Thus, When is relaxing the simplifying assumptions in models of  of biotic interactions necessary? Theoretical studies typically make two critical assumptions that do not hold in real communities, thus limiting their applicability.
+
+
+One of the impediments in comparing more complex models to simpler ones comes from the fact that there is no mathematical framework to incude complexity.
+
+
+A
+
+%The first issue encountered in the development of a model is that all models are abstractions; it is obviously impossible to include every aspect of the real world in any model. Once a modeller recognizes that they cannot include all variables in a model, they have to make decisions about which to retain in the model and which to omit [6]. Such decisions will modify the outcomes achieved by a model and the process should be guided by the modellers’ objectives
+
+%Species interactions do not present themselves to us. We often choose to represent them as parameters in a model, and so they become abstractions of reality. Our abstractions always reflect choices. It is rare that we know the exact equations governing a system or the full set of biotic and abiotic factors (song), therefore our approach to study species interactions and their consequences
+%But organisms do not react to the environment as a whole, rather they react to some aspect of the environment
+%\printbibliography
+
+
+\section*{Concluding remarks}
+The individual chapters of this thesis are thematically broad but all address in a different way the consequences of increasing complexity in models of biotic interactions. With the exception of  I explore the consequences in terms of the coexistence of organisms. Through out this thesis I explored different ecological systems, with different types of interactions and species in them. However, the fundamental questions remains : what happens when add biological, environmental and mathematical complexity to the study of species interactions? Do they change our predictions?
+
+ As scientists, narrative reasoning allows us to explore, at a high level, the possible trajectories that evolution may take.
+
+
+
+\clearpage
+\bibliographystyle{ecology_letters}
+\bibliography{Bibliography.bib}
+
+\end{document}
