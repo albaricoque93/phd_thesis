@@ -1,4 +1,4 @@
-\begin{thebibliography}{28}
+\begin{thebibliography}{35}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Adler \emph{et~al.}(2018)Adler, Smull, Beard, Choi, Furniss,
@@ -8,6 +8,13 @@ Adler, P.B., Smull, D., Beard, K.H., Choi, R.T., Furniss, T., Kulmatiski, A.,
 \newblock Competition and coexistence in plant communities: intraspecific
   competition is stronger than interspecific competition.
 \newblock \emph{Ecology letters}, 21, 1319--1329.
+
+\bibitem[{Bimler \emph{et~al.}(2018)Bimler, Stouffer, Lai \&
+  Mayfield}]{bimler_accurate_2018}
+Bimler, M.D., Stouffer, D.B., Lai, H.R. \& Mayfield, M.M. (2018).
+\newblock Accurate predictions of coexistence in natural systems require the
+  inclusion of facilitative interactions and environmental dependency.
+\newblock \emph{Journal of Ecology}, 106, 1839--1852.
 
 \bibitem[{Box \emph{et~al.}(2011)Box, Luce{\~n}o \& del Carmen
   Paniagua-Quinones}]{box2011statistical}
@@ -34,11 +41,18 @@ Chesson, P. (2000).
 \newblock Mechanisms of maintenance of species diversity.
 \newblock \emph{Annual review of Ecology and Systematics}, 31, 343--366.
 
-\bibitem[{Fox(2003)}]{fox2003long}
-Fox, J.W. (2003).
-\newblock The long-term relationship between plant diversity and total plant
-  biomass depends on the mechanism maintaining diversity.
-\newblock \emph{Oikos}, 102, 630--640.
+\bibitem[{Evans \emph{et~al.}(2013)Evans, Grimm, Johst, Knuuttila, De~Langhe,
+  Lessells, Merz, O’Malley, Orzack, Weisberg \emph{et~al.}}]{evans2013simple}
+Evans, M.R., Grimm, V., Johst, K., Knuuttila, T., De~Langhe, R., Lessells,
+  C.M., Merz, M., O’Malley, M.A., Orzack, S.H., Weisberg, M. \emph{et~al.}
+  (2013).
+\newblock Do simple models lead to generality in ecology?
+\newblock \emph{Trends in ecology \& evolution}, 28, 578--583.
+
+\bibitem[{Evans \emph{et~al.}(2012)Evans, Norris \&
+  Benton}]{evans2012predictive}
+Evans, M.R., Norris, K.J. \& Benton, T.G. (2012).
+\newblock Predictive ecology: systems approaches.
 
 \bibitem[{Gause(1934)}]{gause_experimental_1934}
 Gause, G.F. (1934).
@@ -59,6 +73,12 @@ Godoy, O., Kraft, N.J.B. \& Levine, J.M. (2014).
 \newblock Phylogenetic relatedness and the determinants of competitive
   outcomes.
 \newblock \emph{Ecology Letters}, 17, 836--844.
+
+\bibitem[{Godoy \& Levine(2014)}]{godoy_phenology_2014}
+Godoy, O. \& Levine, J.M. (2014).
+\newblock Phenology effects on invasion success: insights from coupling field
+  experiments to coexistence theory.
+\newblock \emph{Ecology}, 95, 726--736.
 
 \bibitem[{Hart \emph{et~al.}(2018)Hart, Freckleton \&
   Levine}]{hart2018quantify}
@@ -102,6 +122,11 @@ Levine, J.M. \& HilleRisLambers, J. (2009).
 \newblock The importance of niches for the maintenance of species diversity.
 \newblock \emph{Nature}, 461, 254--257.
 
+\bibitem[{Levins(2006)}]{levins2006strategies}
+Levins, R. (2006).
+\newblock Strategies of abstraction.
+\newblock \emph{Biology and Philosophy}, 21, 741--755.
+
 \bibitem[{MacArthur \& Levins(1967)}]{macarthur1967limiting}
 MacArthur, R. \& Levins, R. (1967).
 \newblock The limiting similarity, convergence, and divergence of coexisting
@@ -118,6 +143,13 @@ Maynard-Smith, J. (1978).
 \newblock \emph{Models in ecology}.
 \newblock CUP Archive.
 
+\bibitem[{Orzack(2012)}]{orzack2012philosophy}
+Orzack, S.H. (2012).
+\newblock The philosophy of modelling or does the philosophy of biology have
+  any use?
+\newblock \emph{Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, 367, 170--180.
+
 \bibitem[{Saavedra \emph{et~al.}(2017)Saavedra, Rohr, Bascompte, Godoy, Kraft
   \& Levine}]{saavedra2017structural}
 Saavedra, S., Rohr, R.P., Bascompte, J., Godoy, O., Kraft, N.J. \& Levine, J.M.
@@ -130,10 +162,22 @@ Song, C. \& Saavedra, S. (2018).
 \newblock Will a small randomly assembled community be feasible and stable?
 \newblock \emph{Ecology}, 99, 743--751.
 
+\bibitem[{Stouffer(2019)}]{stouffer2019all}
+Stouffer, D.B. (2019).
+\newblock All ecological models are wrong, but some are useful.
+\newblock \emph{Journal of Animal Ecology}, 88, 192--195.
+
 \bibitem[{Stouffer \& Novak(2021)}]{stouffer2021hidden}
 Stouffer, D.B. \& Novak, M. (2021).
 \newblock Hidden layers of density dependence in consumer feeding rates.
 \newblock \emph{Ecology Letters}, 24, 520--532.
+
+\bibitem[{Stouffer \emph{et~al.}(2018)Stouffer, Wainwright, Flanagan \&
+  Mayfield}]{stouffer2018cyclic}
+Stouffer, D.B., Wainwright, C.E., Flanagan, T. \& Mayfield, M.M. (2018).
+\newblock Cyclic population dynamics and density-dependent intransitivity as
+  pathways to coexistence between co-occurring annual plants.
+\newblock \emph{Journal of Ecology}, 106, 838--851.
 
 \bibitem[{Thompson(1999)}]{thompson1999evolution}
 Thompson, J.N. (1999).
