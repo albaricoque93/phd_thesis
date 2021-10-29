@@ -1,4 +1,4 @@
-\begin{thebibliography}{35}
+\begin{thebibliography}{39}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Adler \emph{et~al.}(2018)Adler, Smull, Beard, Choi, Furniss,
@@ -8,6 +8,19 @@ Adler, P.B., Smull, D., Beard, K.H., Choi, R.T., Furniss, T., Kulmatiski, A.,
 \newblock Competition and coexistence in plant communities: intraspecific
   competition is stronger than interspecific competition.
 \newblock \emph{Ecology letters}, 21, 1319--1329.
+
+\bibitem[{AlAdwani \& Saavedra(2019)}]{aladwani2019addition}
+AlAdwani, M. \& Saavedra, S. (2019).
+\newblock Is the addition of higher-order interactions in ecological models
+  increasing the understanding of ecological dynamics?
+\newblock \emph{Mathematical Biosciences}, 315, 108222.
+
+\bibitem[{Bascompte \emph{et~al.}(2006)Bascompte, Jordano \&
+  Olesen}]{bascompte2006response}
+Bascompte, J., Jordano, P. \& Olesen, J.M. (2006).
+\newblock Response to comment on" asymmetric coevolutionary networks facilitate
+  biodiversity maintenance".
+\newblock \emph{Science}, 313, 1887--1887.
 
 \bibitem[{Bimler \emph{et~al.}(2018)Bimler, Stouffer, Lai \&
   Mayfield}]{bimler_accurate_2018}
@@ -101,6 +114,13 @@ Holland, J.N., DeAngelis, D.L. \& Bronstein, J.L. (2002).
   and costs.
 \newblock \emph{The American Naturalist}, 159, 231--244.
 
+\bibitem[{Holland \emph{et~al.}(2006)Holland, Okuyama \&
+  DeAngelis}]{holland2006comment}
+Holland, J.N., Okuyama, T. \& DeAngelis, D.L. (2006).
+\newblock Comment on" asymmetric coevolutionary networks facilitate
+  biodiversity maintenance".
+\newblock \emph{Science}, 313, 1887--1887.
+
 \bibitem[{Holling(1959)}]{holling1959some}
 Holling, C.S. (1959).
 \newblock Some characteristics of simple types of predation and parasitism1.
@@ -132,6 +152,15 @@ MacArthur, R. \& Levins, R. (1967).
 \newblock The limiting similarity, convergence, and divergence of coexisting
   species.
 \newblock \emph{The american naturalist}, 101, 377--385.
+
+\bibitem[{Martyn \emph{et~al.}(2021)Martyn, Stouffer, Godoy, Bartomeus, Pastore
+  \& Mayfield}]{martyn2021identifying}
+Martyn, T.E., Stouffer, D.B., Godoy, O., Bartomeus, I., Pastore, A.I. \&
+  Mayfield, M.M. (2021).
+\newblock Identifying “useful” fitness models: Balancing the benefits of
+  added complexity with realistic data requirements in models of individual
+  plant fitness.
+\newblock \emph{The American Naturalist}, 197, 415--433.
 
 \bibitem[{May(1972)}]{may1972will}
 May, R.M. (1972).
