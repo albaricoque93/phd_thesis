@@ -1,4 +1,4 @@
-\begin{thebibliography}{39}
+\begin{thebibliography}{46}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Adler \emph{et~al.}(2018)Adler, Smull, Beard, Choi, Furniss,
@@ -21,6 +21,14 @@ Bascompte, J., Jordano, P. \& Olesen, J.M. (2006).
 \newblock Response to comment on" asymmetric coevolutionary networks facilitate
   biodiversity maintenance".
 \newblock \emph{Science}, 313, 1887--1887.
+
+\bibitem[{Bastolla \emph{et~al.}(2009)Bastolla, Fortuna, Pascual-Garc{\'\i}a,
+  Ferrera, Luque \& Bascompte}]{bastolla2009architecture}
+Bastolla, U., Fortuna, M.A., Pascual-Garc{\'\i}a, A., Ferrera, A., Luque, B. \&
+  Bascompte, J. (2009).
+\newblock The architecture of mutualistic networks minimizes competition and
+  increases biodiversity.
+\newblock \emph{Nature}, 458, 1018--1020.
 
 \bibitem[{Bimler \emph{et~al.}(2018)Bimler, Stouffer, Lai \&
   Mayfield}]{bimler_accurate_2018}
@@ -66,6 +74,12 @@ Evans, M.R., Grimm, V., Johst, K., Knuuttila, T., De~Langhe, R., Lessells,
   Benton}]{evans2012predictive}
 Evans, M.R., Norris, K.J. \& Benton, T.G. (2012).
 \newblock Predictive ecology: systems approaches.
+
+\bibitem[{Freckleton \& Watkinson(2001)}]{freckleton2001predicting}
+Freckleton, R. \& Watkinson, A. (2001).
+\newblock Predicting competition coefficients for plant mixtures: reciprocity,
+  transitivity and correlations with life-history traits.
+\newblock \emph{Ecology Letters}, 4, 348--357.
 
 \bibitem[{Gause(1934)}]{gause_experimental_1934}
 Gause, G.F. (1934).
@@ -132,6 +146,20 @@ Holt, R.D. (1977).
   communities.
 \newblock \emph{Theoretical population biology}, 12, 197--229.
 
+\bibitem[{Kraft \emph{et~al.}(2015)Kraft, Godoy \& Levine}]{kraft2015plant}
+Kraft, N.J., Godoy, O. \& Levine, J.M. (2015).
+\newblock Plant functional traits and the multidimensional nature of species
+  coexistence.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 112,
+  797--802.
+
+\bibitem[{Lai \emph{et~al.}(2021)Lai, Chong, Yee, Mayfield \&
+  Stouffer}]{lai2021non}
+Lai, H.R., Chong, K.Y., Yee, A.T.K., Mayfield, M.M. \& Stouffer, D.B. (2021).
+\newblock Non-additive biotic interactions improve predictions of tropical tree
+  growth and impact community size structure.
+\newblock \emph{bioRxiv}, pp. 2020--09.
+
 \bibitem[{Lawton(1999)}]{lawton1999there}
 Lawton, J.H. (1999).
 \newblock Are there general laws in ecology?
@@ -167,6 +195,12 @@ May, R.M. (1972).
 \newblock Will a large complex system be stable?
 \newblock \emph{Nature}, 238, 413--414.
 
+\bibitem[{Mayfield \& Stouffer(2017)}]{mayfield2017higher}
+Mayfield, M.M. \& Stouffer, D.B. (2017).
+\newblock Higher-order interactions capture unexplained complexity in diverse
+  communities.
+\newblock \emph{Nature ecology \& evolution}, 1, 1--7.
+
 \bibitem[{Maynard-Smith(1978)}]{maynard1978models}
 Maynard-Smith, J. (1978).
 \newblock \emph{Models in ecology}.
@@ -185,6 +219,12 @@ Saavedra, S., Rohr, R.P., Bascompte, J., Godoy, O., Kraft, N.J. \& Levine, J.M.
   (2017).
 \newblock A structural approach for understanding multispecies coexistence.
 \newblock \emph{Ecological Monographs}, 87, 470--486.
+
+\bibitem[{Schoener(1974)}]{schoener1974some}
+Schoener, T.W. (1974).
+\newblock Some methods for calculating competition coefficients from
+  resource-utilization spectra.
+\newblock \emph{The American Naturalist}, 108, 332--340.
 
 \bibitem[{Song \& Saavedra(2018)}]{song2018will}
 Song, C. \& Saavedra, S. (2018).
@@ -207,6 +247,12 @@ Stouffer, D.B., Wainwright, C.E., Flanagan, T. \& Mayfield, M.M. (2018).
 \newblock Cyclic population dynamics and density-dependent intransitivity as
   pathways to coexistence between co-occurring annual plants.
 \newblock \emph{Journal of Ecology}, 106, 838--851.
+
+\bibitem[{Sutherland(2006)}]{sutherland2006predicting}
+Sutherland, W.J. (2006).
+\newblock Predicting the ecological consequences of environmental change: a
+  review of the methods.
+\newblock \emph{Journal of Applied Ecology}, 43, 599--616.
 
 \bibitem[{Thompson(1999)}]{thompson1999evolution}
 Thompson, J.N. (1999).
