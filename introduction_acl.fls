@@ -209,6 +209,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1phv.fd
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1phv.fd
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvr7t.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplri7t.tfm
 OUTPUT introduction_acl.pdf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplr7t.vf
@@ -218,14 +220,12 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/helvetic/phvr7t.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplr7t.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplb7t.vf
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplr7t.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplri7t.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/adobe/palatino/pplb7t.vf
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
 INPUT introduction_acl.bbl
 INPUT introduction_acl.bbl
 INPUT introduction_acl.aux

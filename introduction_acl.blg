@@ -4,45 +4,45 @@ The top-level auxiliary file: introduction_acl.aux
 The style file: ecology_letters.bst
 Database file #1: Bibliography.bib
 Warning--empty journal in gause_experimental_1934
-You've used 46 entries,
+You've used 56 entries,
             2997 wiz_defined-function locations,
-            919 strings with 13026 characters,
-and the built_in function-call counts, 27021 in all, are:
-= -- 2263
-> -- 1180
-< -- 28
-+ -- 468
-- -- 408
-* -- 2082
-:= -- 4416
-add.period$ -- 137
-call.type$ -- 46
-change.case$ -- 362
-chr.to.int$ -- 46
-cite$ -- 47
-duplicate$ -- 1814
-empty$ -- 1879
-format.name$ -- 540
-if$ -- 5151
+            974 strings with 14608 characters,
+and the built_in function-call counts, 32077 in all, are:
+= -- 2710
+> -- 1336
+< -- 37
++ -- 531
+- -- 459
+* -- 2429
+:= -- 5257
+add.period$ -- 167
+call.type$ -- 56
+change.case$ -- 428
+chr.to.int$ -- 56
+cite$ -- 57
+duplicate$ -- 2171
+empty$ -- 2263
+format.name$ -- 615
+if$ -- 6125
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 403
-newline$ -- 233
-num.names$ -- 184
-pop$ -- 674
+missing$ -- 478
+newline$ -- 283
+num.names$ -- 224
+pop$ -- 788
 preamble$ -- 1
-purify$ -- 319
+purify$ -- 376
 quote$ -- 0
-skip$ -- 555
+skip$ -- 670
 stack$ -- 0
-substring$ -- 1575
-swap$ -- 985
+substring$ -- 1905
+swap$ -- 1163
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 405
+type$ -- 495
 warning$ -- 1
-while$ -- 221
+while$ -- 268
 width$ -- 0
-write$ -- 593
+write$ -- 723
 (There was 1 warning)

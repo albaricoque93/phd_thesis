@@ -1,5 +1,16 @@
-\begin{thebibliography}{46}
+\begin{thebibliography}{56}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Abrams(1983)}]{abrams1983arguments}
+Abrams, P.A. (1983).
+\newblock Arguments in favor of higher order interactions.
+\newblock \emph{The American Naturalist}, 121, 887--891.
+
+\bibitem[{Abrams(2001)}]{abrams2001describing}
+Abrams, P.A. (2001).
+\newblock Describing and quantifying interspecific interactions: a commentary
+  on recent approaches.
+\newblock \emph{Oikos}, 94, 209--218.
 
 \bibitem[{Adler \emph{et~al.}(2018)Adler, Smull, Beard, Choi, Furniss,
   Kulmatiski, Meiners, Tredennick \& Veblen}]{adler2018competition}
@@ -22,14 +33,6 @@ Bascompte, J., Jordano, P. \& Olesen, J.M. (2006).
   biodiversity maintenance".
 \newblock \emph{Science}, 313, 1887--1887.
 
-\bibitem[{Bastolla \emph{et~al.}(2009)Bastolla, Fortuna, Pascual-Garc{\'\i}a,
-  Ferrera, Luque \& Bascompte}]{bastolla2009architecture}
-Bastolla, U., Fortuna, M.A., Pascual-Garc{\'\i}a, A., Ferrera, A., Luque, B. \&
-  Bascompte, J. (2009).
-\newblock The architecture of mutualistic networks minimizes competition and
-  increases biodiversity.
-\newblock \emph{Nature}, 458, 1018--1020.
-
 \bibitem[{Bimler \emph{et~al.}(2018)Bimler, Stouffer, Lai \&
   Mayfield}]{bimler_accurate_2018}
 Bimler, M.D., Stouffer, D.B., Lai, H.R. \& Mayfield, M.M. (2018).
@@ -43,6 +46,19 @@ Box, G.E., Luce{\~n}o, A. \& del Carmen Paniagua-Quinones, M. (2011).
 \newblock \emph{Statistical control by monitoring and adjustment}.
 \newblock vol. 700.
 \newblock John Wiley \& Sons.
+
+\bibitem[{Briggs(2016)}]{briggs_competitive_2016}
+Briggs, H.M. (2016).
+\newblock \emph{Competitive context drives pollinator behavior: linking
+  foraging plasticity, natural pollen deposition, and plant reproduction}.
+\newblock Ph.D. thesis, UC Santa Cruz.
+
+\bibitem[{Brosi \& Briggs(2013)}]{brosi_single_2013}
+Brosi, B.J. \& Briggs, H.M. (2013).
+\newblock Single pollinator species losses reduce floral fidelity and plant
+  reproductive function.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 110,
+  13044--13048.
 
 \bibitem[{Capdevila \emph{et~al.}(2021)Capdevila, Stott, Oliveras~Menor,
   Stouffer, Raimundo, White, Barbour \&
@@ -146,6 +162,18 @@ Holt, R.D. (1977).
   communities.
 \newblock \emph{Theoretical population biology}, 12, 197--229.
 
+\bibitem[{Inouye(1978)}]{inouye_resource_1978}
+Inouye, D.W. (1978).
+\newblock Resource {Partitioning} in {Bumblebees}: {Experimental} {Studies} of
+  {Foraging} {Behavior}.
+\newblock \emph{Ecology}, 59, 672--678.
+
+\bibitem[{Kokko \& L{\'o}pez-Sepulcre(2007)}]{kokko2007ecogenetic}
+Kokko, H. \& L{\'o}pez-Sepulcre, A. (2007).
+\newblock The ecogenetic link between demography and evolution: can we bridge
+  the gap between theory and data?
+\newblock \emph{Ecology Letters}, 10, 773--782.
+
 \bibitem[{Kraft \emph{et~al.}(2015)Kraft, Godoy \& Levine}]{kraft2015plant}
 Kraft, N.J., Godoy, O. \& Levine, J.M. (2015).
 \newblock Plant functional traits and the multidimensional nature of species
@@ -181,6 +209,12 @@ MacArthur, R. \& Levins, R. (1967).
   species.
 \newblock \emph{The american naturalist}, 101, 377--385.
 
+\bibitem[{MacArthur(1962)}]{macarthur1962some}
+MacArthur, R.H. (1962).
+\newblock Some generalized theorems of natural selection.
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 48, 1893.
+
 \bibitem[{Martyn \emph{et~al.}(2021)Martyn, Stouffer, Godoy, Bartomeus, Pastore
   \& Mayfield}]{martyn2021identifying}
 Martyn, T.E., Stouffer, D.B., Godoy, O., Bartomeus, I., Pastore, A.I. \&
@@ -206,12 +240,25 @@ Maynard-Smith, J. (1978).
 \newblock \emph{Models in ecology}.
 \newblock CUP Archive.
 
+\bibitem[{Morse(1977)}]{morse_resource_1977}
+Morse, D.H. (1977).
+\newblock Resource {Partitioning} in {Bumble} {Bees}: {The} {Role} of
+  {Behavioral} {Factors}.
+\newblock \emph{Science}, 197, 678--680.
+
 \bibitem[{Orzack(2012)}]{orzack2012philosophy}
 Orzack, S.H. (2012).
 \newblock The philosophy of modelling or does the philosophy of biology have
   any use?
 \newblock \emph{Philosophical Transactions of the Royal Society B: Biological
   Sciences}, 367, 170--180.
+
+\bibitem[{Rossberg \emph{et~al.}(2019)Rossberg, Barab{\'a}s, Possingham,
+  Pascual, Marquet, Hui, Evans \& Mesz{\'e}na}]{rossberg2019let}
+Rossberg, A.G., Barab{\'a}s, G., Possingham, H.P., Pascual, M., Marquet, P.A.,
+  Hui, C., Evans, M.R. \& Mesz{\'e}na, G. (2019).
+\newblock Let’s train more theoretical ecologists--here is why.
+\newblock \emph{Trends in ecology \& evolution}, 34, 759--762.
 
 \bibitem[{Saavedra \emph{et~al.}(2017)Saavedra, Rohr, Bascompte, Godoy, Kraft
   \& Levine}]{saavedra2017structural}
@@ -254,10 +301,22 @@ Sutherland, W.J. (2006).
   review of the methods.
 \newblock \emph{Journal of Applied Ecology}, 43, 599--616.
 
+\bibitem[{Thompson \emph{et~al.}(2006)Thompson, Nisbet \&
+  Schmitt}]{thompson_dynamics_2006}
+Thompson, A.R., Nisbet, R.M. \& Schmitt, R.J. (2006).
+\newblock Dynamics of mutualist populations that are demographically open.
+\newblock \emph{Journal of Animal Ecology}, 75, 1239--1251.
+
 \bibitem[{Thompson(1999)}]{thompson1999evolution}
 Thompson, J.N. (1999).
 \newblock The evolution of species interactions.
 \newblock \emph{Science}, 284, 2116--2118.
+
+\bibitem[{Thomson \& Page(2020)}]{thomson_importance_2020}
+Thomson, D.M. \& Page, M.L. (2020).
+\newblock The importance of competition between insect pollinators in the
+  {Anthropocene}.
+\newblock \emph{Current Opinion in Insect Science}, 38, 55--62.
 
 \bibitem[{Turnbull \emph{et~al.}(2013)Turnbull, Levine, Loreau \&
   Hector}]{turnbull2013coexistence}
