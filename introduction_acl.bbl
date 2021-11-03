@@ -1,4 +1,4 @@
-\begin{thebibliography}{56}
+\begin{thebibliography}{67}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Abrams(1983)}]{abrams1983arguments}
@@ -25,6 +25,13 @@ AlAdwani, M. \& Saavedra, S. (2019).
 \newblock Is the addition of higher-order interactions in ecological models
   increasing the understanding of ecological dynamics?
 \newblock \emph{Mathematical Biosciences}, 315, 108222.
+
+\bibitem[{{Aldebert Clement} \& {Stouffer Daniel
+  B.}(2018)}]{aldebert_clement_community_2018}
+{Aldebert Clement} \& {Stouffer Daniel B.} (2018).
+\newblock Community dynamics and sensitivity to model structure: towards a
+  probabilistic view of process-based model predictions.
+\newblock \emph{Journal of The Royal Society Interface}, 15, 20180741.
 
 \bibitem[{Bascompte \emph{et~al.}(2006)Bascompte, Jordano \&
   Olesen}]{bascompte2006response}
@@ -53,6 +60,12 @@ Briggs, H.M. (2016).
   foraging plasticity, natural pollen deposition, and plant reproduction}.
 \newblock Ph.D. thesis, UC Santa Cruz.
 
+\bibitem[{Briggs \emph{et~al.}(2018)Briggs, Graham, Switzer \&
+  Hopkins}]{briggs2018variation}
+Briggs, H.M., Graham, S., Switzer, C.M. \& Hopkins, R. (2018).
+\newblock Variation in context-dependent foraging behavior across pollinators.
+\newblock \emph{Ecology and evolution}, 8, 7964--7973.
+
 \bibitem[{Brosi \& Briggs(2013)}]{brosi_single_2013}
 Brosi, B.J. \& Briggs, H.M. (2013).
 \newblock Single pollinator species losses reduce floral fidelity and plant
@@ -78,6 +91,35 @@ Chesson, P. (2000).
 \newblock Mechanisms of maintenance of species diversity.
 \newblock \emph{Annual review of Ecology and Systematics}, 31, 343--366.
 
+\bibitem[{Classen \emph{et~al.}(2020)Classen, Eardley, Hemp, Peters, Peters,
+  Ssymank \& Steffan-Dewenter}]{classen2020specialization}
+Classen, A., Eardley, C.D., Hemp, A., Peters, M.K., Peters, R.S., Ssymank, A.
+  \& Steffan-Dewenter, I. (2020).
+\newblock Specialization of plant--pollinator interactions increases with
+  temperature at mt. kilimanjaro.
+\newblock \emph{Ecology and evolution}, 10, 2182--2195.
+
+\bibitem[{Cnaani \emph{et~al.}(2006)Cnaani, Thomson \&
+  Papaj}]{cnaani_flower_2006}
+Cnaani, J., Thomson, J.D. \& Papaj, D.R. (2006).
+\newblock Flower {Choice} and {Learning} in {Foraging} {Bumblebees}: {Effects}
+  of {Variation} in {Nectar} {Volume} and {Concentration}.
+\newblock \emph{Ethology}, 112, 278--285.
+
+\bibitem[{Connallon \& Clark(2012)}]{connallon2012general}
+Connallon, T. \& Clark, A.G. (2012).
+\newblock A general population genetic framework for antagonistic selection
+  that accounts for demography and recurrent mutation.
+\newblock \emph{Genetics}, 190, 1477--1489.
+
+\bibitem[{Connallon \emph{et~al.}(2019)Connallon, Sharma \&
+  Olito}]{connallon_evolutionary_2019}
+Connallon, T., Sharma, S. \& Olito, C. (2019).
+\newblock Evolutionary {Consequences} of {Sex}-{Specific} {Selection} in
+  {Variable} {Environments}: {Four} {Simple} {Models} {Reveal} {Diverse}
+  {Evolutionary} {Outcomes}.
+\newblock \emph{The American Naturalist}, 193, 93--105.
+
 \bibitem[{Evans \emph{et~al.}(2013)Evans, Grimm, Johst, Knuuttila, De~Langhe,
   Lessells, Merz, O’Malley, Orzack, Weisberg \emph{et~al.}}]{evans2013simple}
 Evans, M.R., Grimm, V., Johst, K., Knuuttila, T., De~Langhe, R., Lessells,
@@ -90,6 +132,12 @@ Evans, M.R., Grimm, V., Johst, K., Knuuttila, T., De~Langhe, R., Lessells,
   Benton}]{evans2012predictive}
 Evans, M.R., Norris, K.J. \& Benton, T.G. (2012).
 \newblock Predictive ecology: systems approaches.
+
+\bibitem[{Flora \emph{et~al.}(2011)Flora, David, Mathias, Andrew \&
+  Jean-Christophe}]{flora_structural_2011}
+Flora, C., David, N., Mathias, G., Andrew, M. \& Jean-Christophe, P. (2011).
+\newblock Structural sensitivity of biological models revisited.
+\newblock \emph{Journal of Theoretical Biology}, 283, 82--91.
 
 \bibitem[{Freckleton \& Watkinson(2001)}]{freckleton2001predicting}
 Freckleton, R. \& Watkinson, A. (2001).
@@ -123,11 +171,11 @@ Godoy, O. \& Levine, J.M. (2014).
   experiments to coexistence theory.
 \newblock \emph{Ecology}, 95, 726--736.
 
-\bibitem[{Hart \emph{et~al.}(2018)Hart, Freckleton \&
-  Levine}]{hart2018quantify}
-Hart, S.P., Freckleton, R.P. \& Levine, J.M. (2018).
-\newblock How to quantify competitive ability.
-\newblock \emph{Journal of Ecology}, 106, 1902--1909.
+\bibitem[{Heinrich(1976)}]{heinrich_resource_1976}
+Heinrich, B. (1976).
+\newblock Resource {Partitioning} {Among} {Some} {Eusocial} {Insects}:
+  {Bumblebees}.
+\newblock \emph{Ecology}, 57, 874--889.
 
 \bibitem[{HilleRisLambers \emph{et~al.}(2012)HilleRisLambers, Adler, Harpole,
   Levine \& Mayfield}]{hillerislambers2012rethinking}
@@ -167,6 +215,19 @@ Inouye, D.W. (1978).
 \newblock Resource {Partitioning} in {Bumblebees}: {Experimental} {Studies} of
   {Foraging} {Behavior}.
 \newblock \emph{Ecology}, 59, 672--678.
+
+\bibitem[{Jordan \& Charlesworth(2012)}]{jordan2012potential}
+Jordan, C.Y. \& Charlesworth, D. (2012).
+\newblock The potential for sexually antagonistic polymorphism in different
+  genome regions.
+\newblock \emph{Evolution: International Journal of Organic Evolution}, 66,
+  505--516.
+
+\bibitem[{J{\o}rgensen \& Bendoricchio(2001)}]{jorgensen2001fundamentals}
+J{\o}rgensen, S.E. \& Bendoricchio, G. (2001).
+\newblock \emph{Fundamentals of Ecological Modelling}.
+\newblock vol.~21.
+\newblock Elsevier.
 
 \bibitem[{Kokko \& L{\'o}pez-Sepulcre(2007)}]{kokko2007ecogenetic}
 Kokko, H. \& L{\'o}pez-Sepulcre, A. (2007).
@@ -253,6 +314,13 @@ Orzack, S.H. (2012).
 \newblock \emph{Philosophical Transactions of the Royal Society B: Biological
   Sciences}, 367, 170--180.
 
+\bibitem[{Patten \emph{et~al.}(2010)Patten, Haig \& Ubeda}]{patten2010fitness}
+Patten, M.M., Haig, D. \& Ubeda, F. (2010).
+\newblock Fitness variation due to sexual antagonism and linkage
+  disequilibrium.
+\newblock \emph{Evolution: International Journal of Organic Evolution}, 64,
+  3638--3642.
+
 \bibitem[{Rossberg \emph{et~al.}(2019)Rossberg, Barab{\'a}s, Possingham,
   Pascual, Marquet, Hui, Evans \& Mesz{\'e}na}]{rossberg2019let}
 Rossberg, A.G., Barab{\'a}s, G., Possingham, H.P., Pascual, M., Marquet, P.A.,
@@ -288,13 +356,6 @@ Stouffer, D.B. \& Novak, M. (2021).
 \newblock Hidden layers of density dependence in consumer feeding rates.
 \newblock \emph{Ecology Letters}, 24, 520--532.
 
-\bibitem[{Stouffer \emph{et~al.}(2018)Stouffer, Wainwright, Flanagan \&
-  Mayfield}]{stouffer2018cyclic}
-Stouffer, D.B., Wainwright, C.E., Flanagan, T. \& Mayfield, M.M. (2018).
-\newblock Cyclic population dynamics and density-dependent intransitivity as
-  pathways to coexistence between co-occurring annual plants.
-\newblock \emph{Journal of Ecology}, 106, 838--851.
-
 \bibitem[{Sutherland(2006)}]{sutherland2006predicting}
 Sutherland, W.J. (2006).
 \newblock Predicting the ecological consequences of environmental change: a
@@ -318,6 +379,13 @@ Thomson, D.M. \& Page, M.L. (2020).
   {Anthropocene}.
 \newblock \emph{Current Opinion in Insect Science}, 38, 55--62.
 
+\bibitem[{Thomson \emph{et~al.}(1987)Thomson, Peterson \&
+  Harder}]{thomson_response_1987}
+Thomson, J.D., Peterson, S.C. \& Harder, L.D. (1987).
+\newblock Response of traplining bumble bees to competition experiments: shifts
+  in feeding location and efficiency.
+\newblock \emph{Oecologia}, 71, 295--300.
+
 \bibitem[{Turnbull \emph{et~al.}(2013)Turnbull, Levine, Loreau \&
   Hector}]{turnbull2013coexistence}
 Turnbull, L.A., Levine, J.M., Loreau, M. \& Hector, A. (2013).
@@ -336,6 +404,13 @@ V{\'a}zquez, D.P., Morris, W.F. \& Jordano, P. (2005).
 Volterra, V. (1926).
 \newblock Fluctuations in the abundance of a species considered mathematically.
 \newblock \emph{Nature}, 118, 558--560.
+
+\bibitem[{Westphal \emph{et~al.}(2006)Westphal, Steffan-Dewenter \&
+  Tscharntke}]{westphal_bumblebees_2006}
+Westphal, C., Steffan-Dewenter, I. \& Tscharntke, T. (2006).
+\newblock Bumblebees experience landscapes at different spatial scales:
+  possible implications for coexistence.
+\newblock \emph{Oecologia}, 149, 289--300.
 
 \bibitem[{Wood \& Thomas(1999)}]{wood1999super}
 Wood, S.N. \& Thomas, M.B. (1999).
