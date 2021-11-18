@@ -1,4 +1,4 @@
-\begin{thebibliography}{67}
+\begin{thebibliography}{81}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Abrams(1983)}]{abrams1983arguments}
@@ -20,22 +20,22 @@ Adler, P.B., Smull, D., Beard, K.H., Choi, R.T., Furniss, T., Kulmatiski, A.,
   competition is stronger than interspecific competition.
 \newblock \emph{Ecology letters}, 21, 1319--1329.
 
-\bibitem[{AlAdwani \& Saavedra(2019)}]{aladwani2019addition}
-AlAdwani, M. \& Saavedra, S. (2019).
-\newblock Is the addition of higher-order interactions in ecological models
-  increasing the understanding of ecological dynamics?
-\newblock \emph{Mathematical Biosciences}, 315, 108222.
-
-\bibitem[{{Aldebert Clement} \& {Stouffer Daniel
-  B.}(2018)}]{aldebert_clement_community_2018}
-{Aldebert Clement} \& {Stouffer Daniel B.} (2018).
+\bibitem[{Aldebert \& Stouffer(2018)}]{aldebert2018community}
+Aldebert, C. \& Stouffer, D.B. (2018).
 \newblock Community dynamics and sensitivity to model structure: towards a
   probabilistic view of process-based model predictions.
-\newblock \emph{Journal of The Royal Society Interface}, 15, 20180741.
+\newblock \emph{Journal of the Royal Society Interface}, 15, 20180741.
 
-\bibitem[{Bascompte \emph{et~al.}(2006)Bascompte, Jordano \&
+\bibitem[{Bascompte \emph{et~al.}(2006{\natexlab{a}})Bascompte, Jordano \&
+  Olesen}]{bascompte2006asymmetric}
+Bascompte, J., Jordano, P. \& Olesen, J.M. (2006{\natexlab{a}}).
+\newblock Asymmetric coevolutionary networks facilitate biodiversity
+  maintenance.
+\newblock \emph{Science}, 312, 431--433.
+
+\bibitem[{Bascompte \emph{et~al.}(2006{\natexlab{b}})Bascompte, Jordano \&
   Olesen}]{bascompte2006response}
-Bascompte, J., Jordano, P. \& Olesen, J.M. (2006).
+Bascompte, J., Jordano, P. \& Olesen, J.M. (2006{\natexlab{b}}).
 \newblock Response to comment on" asymmetric coevolutionary networks facilitate
   biodiversity maintenance".
 \newblock \emph{Science}, 313, 1887--1887.
@@ -120,6 +120,18 @@ Connallon, T., Sharma, S. \& Olito, C. (2019).
   {Evolutionary} {Outcomes}.
 \newblock \emph{The American Naturalist}, 193, 93--105.
 
+\bibitem[{Crick(1988)}]{crick1988mad}
+Crick, F. (1988).
+\newblock What mad pursuit: A personal view of scientific discovery. basic
+  books, new york.
+
+\bibitem[{D'Andrea \emph{et~al.}(2018)D'Andrea, Ostling \&
+  O'Dwyer}]{d2018translucent}
+D'Andrea, R., Ostling, A. \& O'Dwyer, J.P. (2018).
+\newblock Translucent windows: How uncertainty in competitive interactions
+  impacts detection of community pattern.
+\newblock \emph{Ecology Letters}, 21, 826--835.
+
 \bibitem[{Evans \emph{et~al.}(2013)Evans, Grimm, Johst, Knuuttila, De~Langhe,
   Lessells, Merz, O’Malley, Orzack, Weisberg \emph{et~al.}}]{evans2013simple}
 Evans, M.R., Grimm, V., Johst, K., Knuuttila, T., De~Langhe, R., Lessells,
@@ -127,11 +139,6 @@ Evans, M.R., Grimm, V., Johst, K., Knuuttila, T., De~Langhe, R., Lessells,
   (2013).
 \newblock Do simple models lead to generality in ecology?
 \newblock \emph{Trends in ecology \& evolution}, 28, 578--583.
-
-\bibitem[{Evans \emph{et~al.}(2012)Evans, Norris \&
-  Benton}]{evans2012predictive}
-Evans, M.R., Norris, K.J. \& Benton, T.G. (2012).
-\newblock Predictive ecology: systems approaches.
 
 \bibitem[{Flora \emph{et~al.}(2011)Flora, David, Mathias, Andrew \&
   Jean-Christophe}]{flora_structural_2011}
@@ -150,6 +157,13 @@ Gause, G.F. (1934).
 \newblock Experimental analysis of vito volterra’s mathematical theory of the
   struggle for existence.
 \newblock 79, 16--17.
+
+\bibitem[{Glaser-Schmitt \emph{et~al.}(2021)Glaser-Schmitt, Wittmann, Ramnarine
+  \& Parsch}]{glaser2021sexual}
+Glaser-Schmitt, A., Wittmann, M.J., Ramnarine, T.J. \& Parsch, J. (2021).
+\newblock Sexual antagonism, temporally fluctuating selection, and variable
+  dominance affect a regulatory polymorphism in drosophila melanogaster.
+\newblock \emph{Molecular Biology and Evolution}, 38, 4891--4907.
 
 \bibitem[{Godoy \emph{et~al.}(2020)Godoy, G{\'o}mez-Aparicio, Mat{\'\i}as,
   P{\'e}rez-Ramos \& Allan}]{godoy2020excess}
@@ -204,6 +218,11 @@ Holling, C.S. (1959).
 \newblock Some characteristics of simple types of predation and parasitism1.
 \newblock \emph{The Canadian Entomologist}, 91, 385--398.
 
+\bibitem[{Holling(1966)}]{holling1966strategy}
+Holling, C.S. (1966).
+\newblock The strategy of building models of complex ecological systems.
+\newblock \emph{Systems analysis in ecology}, pp. 195--214.
+
 \bibitem[{Holt(1977)}]{holt1977predation}
 Holt, R.D. (1977).
 \newblock Predation, apparent competition, and the structure of prey
@@ -215,13 +234,6 @@ Inouye, D.W. (1978).
 \newblock Resource {Partitioning} in {Bumblebees}: {Experimental} {Studies} of
   {Foraging} {Behavior}.
 \newblock \emph{Ecology}, 59, 672--678.
-
-\bibitem[{Jordan \& Charlesworth(2012)}]{jordan2012potential}
-Jordan, C.Y. \& Charlesworth, D. (2012).
-\newblock The potential for sexually antagonistic polymorphism in different
-  genome regions.
-\newblock \emph{Evolution: International Journal of Organic Evolution}, 66,
-  505--516.
 
 \bibitem[{J{\o}rgensen \& Bendoricchio(2001)}]{jorgensen2001fundamentals}
 J{\o}rgensen, S.E. \& Bendoricchio, G. (2001).
@@ -249,6 +261,12 @@ Lai, H.R., Chong, K.Y., Yee, A.T.K., Mayfield, M.M. \& Stouffer, D.B. (2021).
   growth and impact community size structure.
 \newblock \emph{bioRxiv}, pp. 2020--09.
 
+\bibitem[{L{\"a}ssig \emph{et~al.}(2017)L{\"a}ssig, Mustonen \&
+  Walczak}]{lassig2017predicting}
+L{\"a}ssig, M., Mustonen, V. \& Walczak, A.M. (2017).
+\newblock Predicting evolution.
+\newblock \emph{Nature ecology \& evolution}, 1, 1--9.
+
 \bibitem[{Lawton(1999)}]{lawton1999there}
 Lawton, J.H. (1999).
 \newblock Are there general laws in ecology?
@@ -259,10 +277,26 @@ Levine, J.M. \& HilleRisLambers, J. (2009).
 \newblock The importance of niches for the maintenance of species diversity.
 \newblock \emph{Nature}, 461, 254--257.
 
+\bibitem[{Levins(1966)}]{levins1966strategy}
+Levins, R. (1966).
+\newblock The strategy of model building in population biology.
+\newblock \emph{American scientist}, 54, 421--431.
+
+\bibitem[{Levins(1993)}]{levins1993response}
+Levins, R. (1993).
+\newblock A response to orzack and sober: formal analysis and the fluidity of
+  science.
+\newblock \emph{The Quarterly Review of Biology}, 68, 547--555.
+
 \bibitem[{Levins(2006)}]{levins2006strategies}
 Levins, R. (2006).
 \newblock Strategies of abstraction.
 \newblock \emph{Biology and Philosophy}, 21, 741--755.
+
+\bibitem[{Lewontin(1963)}]{lewontin1963models}
+Lewontin, R.C. (1963).
+\newblock Models, mathematics and metaphors.
+\newblock \emph{Synthese}, pp. 222--244.
 
 \bibitem[{MacArthur \& Levins(1967)}]{macarthur1967limiting}
 MacArthur, R. \& Levins, R. (1967).
@@ -275,6 +309,14 @@ MacArthur, R.H. (1962).
 \newblock Some generalized theorems of natural selection.
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
   States of America}, 48, 1893.
+
+\bibitem[{Marquet \emph{et~al.}(2014)Marquet, Allen, Brown, Dunne, Enquist,
+  Gillooly, Gowaty, Green, Harte, Hubbell \emph{et~al.}}]{marquet2014theory}
+Marquet, P.A., Allen, A.P., Brown, J.H., Dunne, J.A., Enquist, B.J., Gillooly,
+  J.F., Gowaty, P.A., Green, J.L., Harte, J., Hubbell, S.P. \emph{et~al.}
+  (2014).
+\newblock On theory in ecology.
+\newblock \emph{BioScience}, 64, 701--710.
 
 \bibitem[{Martyn \emph{et~al.}(2021)Martyn, Stouffer, Godoy, Bartomeus, Pastore
   \& Mayfield}]{martyn2021identifying}
@@ -289,6 +331,11 @@ Martyn, T.E., Stouffer, D.B., Godoy, O., Bartomeus, I., Pastore, A.I. \&
 May, R.M. (1972).
 \newblock Will a large complex system be stable?
 \newblock \emph{Nature}, 238, 413--414.
+
+\bibitem[{May(2019)}]{may2019stability}
+May, R.M. (2019).
+\newblock \emph{Stability and complexity in model ecosystems}.
+\newblock Princeton university press.
 
 \bibitem[{Mayfield \& Stouffer(2017)}]{mayfield2017higher}
 Mayfield, M.M. \& Stouffer, D.B. (2017).
@@ -307,19 +354,22 @@ Morse, D.H. (1977).
   {Behavioral} {Factors}.
 \newblock \emph{Science}, 197, 678--680.
 
-\bibitem[{Orzack(2012)}]{orzack2012philosophy}
-Orzack, S.H. (2012).
-\newblock The philosophy of modelling or does the philosophy of biology have
-  any use?
-\newblock \emph{Philosophical Transactions of the Royal Society B: Biological
-  Sciences}, 367, 170--180.
+\bibitem[{Odenbaugh(2005)}]{odenbaugh2005idealized}
+Odenbaugh, J. (2005).
+\newblock Idealized, inaccurate but successful: A pragmatic approach to
+  evaluating models in theoretical ecology.
+\newblock \emph{Biology and Philosophy}, 20, 231--255.
 
-\bibitem[{Patten \emph{et~al.}(2010)Patten, Haig \& Ubeda}]{patten2010fitness}
-Patten, M.M., Haig, D. \& Ubeda, F. (2010).
-\newblock Fitness variation due to sexual antagonism and linkage
-  disequilibrium.
-\newblock \emph{Evolution: International Journal of Organic Evolution}, 64,
-  3638--3642.
+\bibitem[{Orzack \& Sober(1993)}]{orzack1993critical}
+Orzack, S.H. \& Sober, E. (1993).
+\newblock A critical assessment of levins's the strategy of model building in
+  population biology (1966).
+\newblock \emph{The Quarterly Review of Biology}, 68, 533--546.
+
+\bibitem[{Pickett(1980)}]{pickett1980non}
+Pickett, S.T. (1980).
+\newblock Non-equilibrium coexistence of plants.
+\newblock \emph{Bulletin of the Torrey Botanical Club}, pp. 238--248.
 
 \bibitem[{Rossberg \emph{et~al.}(2019)Rossberg, Barab{\'a}s, Possingham,
   Pascual, Marquet, Hui, Evans \& Mesz{\'e}na}]{rossberg2019let}
@@ -327,6 +377,13 @@ Rossberg, A.G., Barab{\'a}s, G., Possingham, H.P., Pascual, M., Marquet, P.A.,
   Hui, C., Evans, M.R. \& Mesz{\'e}na, G. (2019).
 \newblock Let’s train more theoretical ecologists--here is why.
 \newblock \emph{Trends in ecology \& evolution}, 34, 759--762.
+
+\bibitem[{Roughgarden \emph{et~al.}(2018)Roughgarden, Bergman, Shafir \&
+  Taylor}]{roughgarden2018adaptive}
+Roughgarden, J., Bergman, A., Shafir, S. \& Taylor, C. (2018).
+\newblock Adaptive computation in ecology and.
+\newblock \emph{Adaptive Individuals In Evolving Populations: Models And
+  Algorithms}, p.~25.
 
 \bibitem[{Saavedra \emph{et~al.}(2017)Saavedra, Rohr, Bascompte, Godoy, Kraft
   \& Levine}]{saavedra2017structural}
@@ -340,6 +397,20 @@ Schoener, T.W. (1974).
 \newblock Some methods for calculating competition coefficients from
   resource-utilization spectra.
 \newblock \emph{The American Naturalist}, 108, 332--340.
+
+\bibitem[{Servedio \emph{et~al.}(2014)Servedio, Brandvain, Dhole, Fitzpatrick,
+  Goldberg, Stern, Van~Cleve \& Yeh}]{servedio2014not}
+Servedio, M.R., Brandvain, Y., Dhole, S., Fitzpatrick, C.L., Goldberg, E.E.,
+  Stern, C.A., Van~Cleve, J. \& Yeh, D.J. (2014).
+\newblock Not just a theory—the utility of mathematical models in
+  evolutionary biology.
+\newblock \emph{PLoS biology}, 12, e1002017.
+
+\bibitem[{Simberloff(2004)}]{simberloff2004community}
+Simberloff, D. (2004).
+\newblock Community ecology: Is it time to move on? (an american society of
+  naturalists presidential address).
+\newblock \emph{The American Naturalist}, 163, 787--799.
 
 \bibitem[{Song \& Saavedra(2018)}]{song2018will}
 Song, C. \& Saavedra, S. (2018).
@@ -373,6 +444,11 @@ Thompson, J.N. (1999).
 \newblock The evolution of species interactions.
 \newblock \emph{Science}, 284, 2116--2118.
 
+\bibitem[{Thompson(2014)}]{thompson2014interaction}
+Thompson, J.N. (2014).
+\newblock \emph{Interaction and coevolution}.
+\newblock University of Chicago Press.
+
 \bibitem[{Thomson \& Page(2020)}]{thomson_importance_2020}
 Thomson, D.M. \& Page, M.L. (2020).
 \newblock The importance of competition between insect pollinators in the
@@ -404,6 +480,12 @@ V{\'a}zquez, D.P., Morris, W.F. \& Jordano, P. (2005).
 Volterra, V. (1926).
 \newblock Fluctuations in the abundance of a species considered mathematically.
 \newblock \emph{Nature}, 118, 558--560.
+
+\bibitem[{Weisberg(2006)}]{weisberg2006forty}
+Weisberg, M. (2006).
+\newblock Forty years of ‘the strategy’: Levins on model building and
+  idealization.
+\newblock \emph{Biology and Philosophy}, 21, 623--645.
 
 \bibitem[{Westphal \emph{et~al.}(2006)Westphal, Steffan-Dewenter \&
   Tscharntke}]{westphal_bumblebees_2006}

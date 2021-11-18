@@ -3,46 +3,47 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: introduction_acl.aux
 The style file: ecology_letters.bst
 Database file #1: Bibliography.bib
+Warning--empty journal in crick1988mad
 Warning--empty journal in gause_experimental_1934
-You've used 67 entries,
+You've used 81 entries,
             2997 wiz_defined-function locations,
-            1037 strings with 16846 characters,
-and the built_in function-call counts, 38653 in all, are:
-= -- 3261
-> -- 1622
-< -- 43
-+ -- 645
-- -- 558
-* -- 2953
-:= -- 6320
-add.period$ -- 201
-call.type$ -- 67
-change.case$ -- 515
-chr.to.int$ -- 67
-cite$ -- 68
-duplicate$ -- 2613
-empty$ -- 2721
-format.name$ -- 753
-if$ -- 7376
-int.to.chr$ -- 1
+            1103 strings with 18851 characters,
+and the built_in function-call counts, 46717 in all, are:
+= -- 3931
+> -- 1954
+< -- 56
++ -- 778
+- -- 672
+* -- 3519
+:= -- 7640
+add.period$ -- 243
+call.type$ -- 81
+change.case$ -- 620
+chr.to.int$ -- 80
+cite$ -- 83
+duplicate$ -- 3177
+empty$ -- 3303
+format.name$ -- 887
+if$ -- 8952
+int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 578
-newline$ -- 339
-num.names$ -- 268
-pop$ -- 957
+missing$ -- 695
+newline$ -- 409
+num.names$ -- 324
+pop$ -- 1155
 preamble$ -- 1
-purify$ -- 453
+purify$ -- 546
 quote$ -- 0
-skip$ -- 794
+skip$ -- 1006
 stack$ -- 0
-substring$ -- 2288
-swap$ -- 1407
-text.length$ -- 4
+substring$ -- 2740
+swap$ -- 1706
+text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 591
-warning$ -- 1
-while$ -- 320
+type$ -- 711
+warning$ -- 2
+while$ -- 388
 width$ -- 0
-write$ -- 867
-(There was 1 warning)
+write$ -- 1047
+(There were 2 warnings)

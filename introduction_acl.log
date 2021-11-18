@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  16 NOV 2021 08:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  18 NOV 2021 13:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -827,10 +827,10 @@ LaTeX Warning: Font shape declaration has incorrect series value `mc'.
 
 ] [5
 
-] [6] [7] [8] [9] [10] [11] (./introduction_acl.bbl [12
+] [6] [7] [8] [9] [10] [11] [12] (./introduction_acl.bbl [13
 
-] [13]
-[14] [15] [16] [17] [18])
+]
+[14] [15] [16] [17] [18] [19] [20] [21])
 
 Package caption Warning: Unused \captionsetup[figure] on input line 23.
 See the caption package documentation for explanation.
@@ -839,24 +839,24 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[table] on input line 24.
 See the caption package documentation for explanation.
 
-[19] (./introduction_acl.aux) ) 
+[22] (./introduction_acl.aux) ) 
 Here is how much of TeX's memory you used:
- 17855 strings out of 480608
- 358823 string characters out of 5903631
- 576576 words of memory out of 5000000
- 33436 multiletter control sequences out of 15000+600000
+ 17898 strings out of 480608
+ 359896 string characters out of 5903631
+ 577274 words of memory out of 5000000
+ 33479 multiletter control sequences out of 15000+600000
  542588 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,5n,75p,2007b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,5n,75p,2079b,387s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dv
 ips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uh
 vr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pf
 b></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr
 /local/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on introduction_acl.pdf (19 pages, 92800 bytes).
+Output written on introduction_acl.pdf (22 pages, 97816 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
+ 95 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
