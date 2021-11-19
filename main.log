@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  4 OCT 2021 19:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  19 NOV 2021 15:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -515,4 +515,1201 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \mdfsubsubtitleheight=\skip137
 \c@mdfcountframes=\count277
 
-****** mdframed patching 
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count278
+\c@mdf@env@i=\count279
+\c@mdf@env@ii=\count280
+\c@mdf@zref@counter=\count281
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen154
+\ar@mcellbox=\box61
+\extrarowheight=\dimen155
+\NC@list=\toks23
+\extratabsurround=\skip138
+\backup@length=\skip139
+\ar@cellbox=\box62
+)
+\TX@col@width=\dimen156
+\TX@old@table=\dimen157
+\TX@old@col=\dimen158
+\TX@target=\dimen159
+\TX@delta=\dimen160
+\TX@cols=\count282
+\TX@ftn=\toks24
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/03/22 3.42 The Babel package
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/03/22 3.42 Babel switching mechanism
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel-english/american.ldf
+Language: american 2017/06/06 v3.3r English support from the babel system
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/03/22 3.42 Babel common definitions
+\babel@savecnt=\count283
+\U@D=\dimen161
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count284
+)
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel-english/british.ldf
+Language: british 2017/06/06 v3.3r English support from the babel system
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+)))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
+\csq@reset=\count285
+\csq@gtype=\count286
+\csq@glevel=\count287
+\csq@qlevel=\count288
+\csq@maxlvl=\count289
+\csq@tshold=\count290
+\csq@ltx@everypar=\toks25
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2019-12-06 v5.2j csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count291
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count292
+\c@listtotal=\count293
+\c@listcount=\count294
+\c@liststart=\count295
+\c@liststop=\count296
+\c@citecount=\count297
+\c@citetotal=\count298
+\c@multicitecount=\count299
+\c@multicitetotal=\count300
+\c@instcount=\count301
+\c@maxnames=\count302
+\c@minnames=\count303
+\c@maxitems=\count304
+\c@minitems=\count305
+\c@citecounter=\count306
+\c@maxcitecounter=\count307
+\c@savedcitecounter=\count308
+\c@uniquelist=\count309
+\c@uniquename=\count310
+\c@refsection=\count311
+\c@refsegment=\count312
+\c@maxextratitle=\count313
+\c@maxextratitleyear=\count314
+\c@maxextraname=\count315
+\c@maxextradate=\count316
+\c@maxextraalpha=\count317
+\c@abbrvpenalty=\count318
+\c@highnamepenalty=\count319
+\c@lownamepenalty=\count320
+\c@maxparens=\count321
+\c@parenlevel=\count322
+\blx@tempcnta=\count323
+\blx@tempcntb=\count324
+\blx@tempcntc=\count325
+\blx@maxsection=\count326
+\blx@maxsegment@0=\count327
+\blx@notetype=\count328
+\blx@parenlevel@text=\count329
+\blx@parenlevel@foot=\count330
+\blx@sectionciteorder@0=\count331
+\blx@entrysetcounter=\count332
+\labelnumberwidth=\skip140
+\labelalphawidth=\skip141
+\biblabelsep=\skip142
+\bibitemsep=\skip143
+\bibnamesep=\skip144
+\bibinitsep=\skip145
+\bibparsep=\skip146
+\bibhang=\skip147
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language86
+\c@mincomprange=\count333
+\c@maxcomprange=\count334
+\c@mincompwidth=\count335
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authoryear-comp.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count336
+\c@savedafterword=\count337
+\c@annotator=\count338
+\c@savedannotator=\count339
+\c@author=\count340
+\c@savedauthor=\count341
+\c@bookauthor=\count342
+\c@savedbookauthor=\count343
+\c@commentator=\count344
+\c@savedcommentator=\count345
+\c@editor=\count346
+\c@savededitor=\count347
+\c@editora=\count348
+\c@savededitora=\count349
+\c@editorb=\count350
+\c@savededitorb=\count351
+\c@editorc=\count352
+\c@savededitorc=\count353
+\c@foreword=\count354
+\c@savedforeword=\count355
+\c@holder=\count356
+\c@savedholder=\count357
+\c@introduction=\count358
+\c@savedintroduction=\count359
+\c@namea=\count360
+\c@savednamea=\count361
+\c@nameb=\count362
+\c@savednameb=\count363
+\c@namec=\count364
+\c@savednamec=\count365
+\c@translator=\count366
+\c@savedtranslator=\count367
+\c@shortauthor=\count368
+\c@savedshortauthor=\count369
+\c@shorteditor=\count370
+\c@savedshorteditor=\count371
+\c@labelname=\count372
+\c@savedlabelname=\count373
+\c@institution=\count374
+\c@savedinstitution=\count375
+\c@lista=\count376
+\c@savedlista=\count377
+\c@listb=\count378
+\c@savedlistb=\count379
+\c@listc=\count380
+\c@savedlistc=\count381
+\c@listd=\count382
+\c@savedlistd=\count383
+\c@liste=\count384
+\c@savedliste=\count385
+\c@listf=\count386
+\c@savedlistf=\count387
+\c@location=\count388
+\c@savedlocation=\count389
+\c@organization=\count390
+\c@savedorganization=\count391
+\c@origlocation=\count392
+\c@savedoriglocation=\count393
+\c@origpublisher=\count394
+\c@savedorigpublisher=\count395
+\c@publisher=\count396
+\c@savedpublisher=\count397
+\c@language=\count398
+\c@savedlanguage=\count399
+\c@origlanguage=\count400
+\c@savedoriglanguage=\count401
+\c@pageref=\count402
+\c@savedpageref=\count403
+\shorthandwidth=\skip148
+\shortjournalwidth=\skip149
+\shortserieswidth=\skip150
+\shorttitlewidth=\skip151
+\shortauthorwidth=\skip152
+\shorteditorwidth=\skip153
+\locallabelnumberwidth=\skip154
+\locallabelalphawidth=\skip155
+\localshorthandwidth=\skip156
+\localshortjournalwidth=\skip157
+\localshortserieswidth=\skip158
+\localshorttitlewidth=\skip159
+\localshortauthorwidth=\skip160
+\localshorteditorwidth=\skip161
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+File: blx-bibtex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+\c@textcitecount=\count404
+\c@textcitetotal=\count405
+\c@textcitemaxnames=\count406
+\c@biburlbigbreakpenalty=\count407
+\c@biburlbreakpenalty=\count408
+\c@biburlnumpenalty=\count409
+\c@biburlucpenalty=\count410
+\c@biburllcpenalty=\count411
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count412
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/blx-natbib.def
+File: blx-natbib.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+)
+Package biblatex Info: Trying to load bibliography style 'authoryear-comp'...
+Package biblatex Info: ... file 'authoryear-comp.bbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/authoryear-comp.bbx
+File: authoryear-comp.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count413
+\c@bbx:relatedtotal=\count414
+)))
+Package biblatex Info: Trying to load citation style 'authoryear-comp'...
+Package biblatex Info: ... file 'authoryear-comp.cbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/cbx/authoryear-comp.cbx
+File: authoryear-comp.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip162
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks26
+\ex@=\dimen162
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen163
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count415
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count416
+\leftroot@=\count417
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count418
+\DOTSCASE@=\count419
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box63
+\strutbox@=\box64
+\big@size=\dimen164
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count420
+\c@MaxMatrixCols=\count421
+\dotsspace@=\muskip21
+\c@parentequation=\count422
+\dspbrk@lvl=\count423
+\tag@help=\toks27
+\row@=\count424
+\column@=\count425
+\maxfields@=\count426
+\andhelp@=\toks28
+\eqnshift@=\dimen165
+\alignsep@=\dimen166
+\tagshift@=\dimen167
+\tagwidth@=\dimen168
+\totwidth@=\dimen169
+\lineht@=\dimen170
+\@envbody=\toks29
+\multlinegap=\skip163
+\multlinetaggap=\skip164
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrhack.sty
+Package: scrhack 2020/01/24 v3.29 KOMA-Script package (hacking other packages)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xpatch/xpatch.sty
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+)
+Package scrhack Info: hyperref hack deactivated because of
+(scrhack)             detection of hyperref version, that doesn't
+(scrhack)             need that hack, on input line 162.
+Package scrhack Info: loading float hack on input line 169.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/float.hak
+File: float.hak 2020/01/24 v3.29 KOMA-Script scrhack part (hacking package floa
+t)
+Package scrhack Info: redefining \newfloat on input line 163.
+Package scrhack Info: redefining \listof on input line 163.
+Package scrhack Info: undefining \float@addtolists on input line 163.
+)
+Package scrhack Info: loading setspace hack on input line 197.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/setspace.hak
+File: setspace.hak 2020/01/24 v3.29 KOMA-Script scrhack part (hacking package s
+etspace)
+)
+Package scrhack Info: loading lscape hack on input line 205.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/lscape.hak
+File: lscape.hak 2020/01/24 v3.29 KOMA-Script scrhack part (hacking package lsc
+ape)
+Package scrhack Info: \landscape patched to make \textheight change optional on
+ input line 90.
+\scrh@LT@textheight=\skip165
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/mparhack/mparhack.sty
+Package: mparhack 2005/04/17 v1.4 (T. Sgouros and S. Ulrich)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/acronym/acronym.sty
+Package: acronym 2020/03/13 v1.46 Support for acronyms (Tobias Oetiker)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/bigfoot/suffix.sty
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count427
+\decimalpart=\count428
+)
+Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\AC@clearlist=\toks31
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count429
+\cp@tempcnt=\count430
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen171
+\lightrulewidth=\dimen172
+\cmidrulewidth=\dimen173
+\belowrulesep=\dimen174
+\belowbottomsep=\dimen175
+\aboverulesep=\dimen176
+\abovetopsep=\dimen177
+\cmidrulesep=\dimen178
+\cmidrulekern=\dimen179
+\defaultaddspace=\dimen180
+\@cmidla=\count431
+\@cmidlb=\count432
+\@aboverulesep=\dimen181
+\@belowrulesep=\dimen182
+\@thisruleclass=\count433
+\@lastruleclass=\count434
+\@thisrulewidth=\dimen183
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip166
+\multirow@cntb=\count435
+\multirow@dima=\skip167
+\bigstrutjot=\dimen184
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count436
+\sf@farskip=\skip168
+\sf@captopadj=\dimen185
+\sf@capskip=\skip169
+\sf@nearskip=\skip170
+\c@subfigure=\count437
+\c@subfigure@save=\count438
+\c@lofdepth=\count439
+\c@subtable=\count440
+\c@subtable@save=\count441
+\c@lotdepth=\count442
+\sf@top=\skip171
+\sf@bottom=\skip172
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 222.
+Package hyperref Info: Option `linktocpage' set `true' on input line 222.
+Package hyperref Info: Option `breaklinks' set `true' on input line 222.
+Package hyperref Info: Option `pageanchor' set `true' on input line 222.
+Package hyperref Info: Option `plainpages' set `false' on input line 222.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 222.
+
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 222.
+Package hyperref Info: Option `hypertexnames' set `true' on input line 222.
+
+
+Package hyperref Warning: Option `pagecolor' is not available anymore.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/classicthesis/classicthesis.sty
+Package: classicthesis 2018/06/03 v4.6 Typographic style for a classic-looking 
+thesis
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/mathpazo.sty
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/bera/beramono.sty
+Package: beramono 2004/01/31 (WaS)
+)
+LaTeX Font Info:    Trying to load font information for U+eur on input line 202
+.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/ueur.fd
+File: ueur.fd 2013/01/14 v3.01 Euler Roman
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks32
+\MT@count=\count443
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen186
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count444
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip173
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+))
+Package classicthesis Info: B5 paper, Palatino or other on input line 236.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = areaset
+(typearea)             BCOR = 14.22636pt
+(typearea)             \paperwidth      = 500.76855pt
+(typearea)              \textwidth      = 311.0pt
+(typearea)              \evensidemargin = 44.75812pt
+(typearea)              \oddsidemargin  = 0.47043pt
+(typearea)             \paperheight     = 711.31897pt
+(typearea)              \textheight     = 529.97955pt
+(typearea)              \topmargin      = -50.16367pt
+(typearea)              \headheight     = 15.0pt
+(typearea)              \headsep        = 30.00613pt
+(typearea)              \topskip        = 10.0pt
+(typearea)              \footskip       = 70.01431pt
+(typearea)              \baselineskip   = 20.00409pt
+(typearea)              on input line 236.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+)
+Package classicthesis Info: Using microtype for character spacing.Make sure you
+r pdflatex is version 1.40 or higher. on input line 321.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrlayer-scrpage.sty
+Package: scrlayer-scrpage 2020/01/24 v3.29 KOMA-Script package (end user interf
+ace for scrlayer)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrlayer.sty
+Package: scrlayer 2020/01/24 v3.29 KOMA-Script package (defining layers and pag
+e styles)
+Package scrlayer Info: Using already defined \footheight
+(scrlayer)             hoping, that this is a length and
+(scrlayer)             not only a macro on input line 109.
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 210
+6.
+)
+Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
+(scrlayer-scrpage)             alias to `pageheadfoot' on input line 1244.
+Package scrlayer-scrpage Info: deactivating warning for font element
+(scrlayer-scrpage)             `pagefoot' on input line 1271.
+)
+Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
+
+1: section
+1: chapter
+1: chapter
+1: section
+(/usr/local/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box65
+\beforetitleunit=\skip174
+\aftertitleunit=\skip175
+\ttl@plus=\dimen187
+\ttl@minus=\dimen188
+\ttl@toksa=\toks33
+\titlewidth=\dimen189
+\titlewidthlast=\dimen190
+\titlewidthfirst=\dimen191
+
+
+Package titlesec Warning: Non standard sectioning command \section
+(titlesec)                detected. Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command \subsection
+(titlesec)                detected. Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command \subsubsection
+(titlesec)                detected. Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command \paragraph
+(titlesec)                detected. Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command \subparagraph
+(titlesec)                detected. Using default spacing and no format.
+
+)
+Class scrreprt Info: Unknown `titesec' release.
+(scrreprt)           Cross your fingers, that is compatible on input line 362.
+
+
+Class scrreprt Warning: Usage of package `tocloft' together
+(scrreprt)              with a KOMA-Script class is not recommended.
+(scrreprt)              I'd suggest to use options like `listof=entryprefix',
+(scrreprt)              commands like `\listoflofentryname' or
+(scrreprt)              `\listoflotentryname', and `\DeclareTOCStyleEntry' or
+(scrreprt)              `\RedeclareSectionCommand' instead of this package,
+(scrreprt)              because it breaks several KOMA-Script features of
+(scrreprt)              the list of figures, list of tables and table of
+(scrreprt)              contents, i.e., options like `listof=numbered',
+(scrreprt)              `listof=flat or `toc=flat', commands like
+(scrreprt)              `\BeforeTOCHead{...}' and `\AfterTOCHead{...}',
+(scrreprt)              `\BeforeStartingTOC{...}' and \AfterStartingTOC{...}',
+(scrreprt)              all features of `\DeclareTOCStyleEntry',
+(scrreprt)              and the ToC entry features of `\DeclareSecionCommand'
+(scrreprt)              and `\RedeclareSectionCommand' of levels
+(scrreprt)              `part', `section', `subsection',
+(scrreprt)              `subsubsection', `paragraph' and `subparagraph'.
+(scrreprt)              Nevertheless, using requested
+(scrreprt)              package `tocloft' on input line 416.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip176
+\cftbeforetoctitleskip=\skip177
+\cftaftertoctitleskip=\skip178
+\cftbeforepartskip=\skip179
+\cftpartnumwidth=\skip180
+\cftpartindent=\skip181
+\cftbeforechapskip=\skip182
+\cftchapindent=\skip183
+\cftchapnumwidth=\skip184
+\cftbeforesecskip=\skip185
+\cftsecindent=\skip186
+\cftsecnumwidth=\skip187
+\cftbeforesubsecskip=\skip188
+\cftsubsecindent=\skip189
+\cftsubsecnumwidth=\skip190
+\cftbeforesubsubsecskip=\skip191
+\cftsubsubsecindent=\skip192
+\cftsubsubsecnumwidth=\skip193
+\cftbeforeparaskip=\skip194
+\cftparaindent=\skip195
+\cftparanumwidth=\skip196
+\cftbeforesubparaskip=\skip197
+\cftsubparaindent=\skip198
+\cftsubparanumwidth=\skip199
+\cftbeforeloftitleskip=\skip256
+\cftafterloftitleskip=\skip257
+\cftbeforefigskip=\skip258
+\cftfigindent=\skip259
+\cftfignumwidth=\skip260
+\cftbeforelottitleskip=\skip261
+\cftafterlottitleskip=\skip262
+\cftbeforetabskip=\skip263
+\cfttabindent=\skip264
+\cfttabnumwidth=\skip265
+\cftbeforesubfigskip=\skip266
+\cftsubfigindent=\skip267
+\cftsubfignumwidth=\skip268
+\cftbeforesubtabskip=\skip269
+\cftsubtabindent=\skip270
+\cftsubtabnumwidth=\skip271
+)
+\newnumberwidth=\skip272
+\beforebibskip=\skip273
+\newchnumberwidth=\skip274
+\figurelabelwidth=\skip275
+\tablelabelwidth=\skip276
+
+Using KOMA-command "deffootnote" for footnote setup
+(/usr/local/texlive/2020/texmf-dist/tex/latex/koma-script/scrtime.sty
+Package: scrtime 2020/01/24 v3.29 KOMA-Script package (time of LaTeX run)
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 679.
+Package hyperref Info: Option `linktocpage' set `true' on input line 679.
+Package hyperref Info: Option `breaklinks' set `true' on input line 679.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/silence/silence.sty
+Package: silence 2012/07/02 v1.5b Selective filtering of warnings and error mes
+sages
+\sl@Save=\count445
+\sl@StateNumber=\count446
+\sl@MessageCount=\count447
+\sl@Casualties=\count448
+\sl@Filter=\toks34
+\sl@Message=\toks35
+\sl@UnexpandedMessage=\toks36
+\sl@Mess@ge=\toks37
+\sl@WarningCount=\count449
+\sl@WarningNumber=\count450
+\sl@WarningCasualties=\count451
+\sl@TempBOW=\toks38
+\sl@BankOfWarnings=\toks39
+LaTeX Info: Redefining \GenericWarning on input line 433.
+\sl@ErrorCount=\count452
+\sl@ErrorNumber=\count453
+\sl@ErrorCasualties=\count454
+\sl@TempBOE=\toks40
+\sl@BankOfErrors=\toks41
+LaTeX Info: Redefining \GenericError on input line 601.
+))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'british'.
+ (./main.aux (./FrontBackMatter/Titlepage.aux) (./FrontBackMatter/Titleback.aux
+)
+(./FrontBackMatter/Dedication.aux) (./Chapters/Introduction.aux)
+(./Chapters/Bee_foraging.aux) (./Chapters/Bayesian_competition.aux)
+(./Chapters/Coexistence_alleles.aux) (./Chapters/Discussion.aux)
+(./FrontBackMatter/Colophon.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Trying to load font information for T1+pplj on input line 6
+6.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/t1pplj.fd
+File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
+)
+Package scrbase Info: activating british \contentsname on input line 66.
+Package scrbase Info: activating british \listfigurename on input line 66.
+Package scrbase Info: activating british \listtablename on input line 66.
+\AtBeginShipoutBox=\box66
+Package hyperref Info: Link coloring ON on input line 66.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count455
+)
+LaTeX Info: Redefining \ref on input line 66.
+LaTeX Info: Redefining \pageref on input line 66.
+LaTeX Info: Redefining \nameref on input line 66.
+ (./main.out) (./main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+Class scrreprt Info: loading recommended package `bookmark'.
+(scrreprt)           Using `bookmark' together with `hyperref' is recommended,
+(scrreprt)           because of handling of possible bookmark level gaps.
+(scrreprt)           You can avoid loading `bookmark' with KOMA-Script option
+(scrreprt)           `bookmarkpackage=false' before \begin{document} and
+(scrreprt)           you can avoid this message adding:
+(scrreprt)             \usepackage{bookmark}
+(scrreprt)           before \begin{document} on input line 66.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2019/12/03 v1.28 PDF bookmarks (HO)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+File: bkm-pdftex.def 2019/12/03 v1.28 bookmark driver for pdfTeX (HO)
+Package auxhook Info: \AddLineBeginMainAux comes a little late,
+(auxhook)             because the main .aux file is already opened on input lin
+e 168.
+\BKM@id=\count456
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count457
+\scratchdimen=\dimen192
+\scratchbox=\box67
+\nofMPsegments=\count458
+\nofMParguments=\count459
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count460
+\MPscratchDim=\dimen193
+\MPnumerator=\count461
+\makeMPintoPDFobject=\count462
+\everyMPtoPDFconversion=\toks43
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package biblatex Info: Trying to load language 'british'...
+Package biblatex Info: ... file 'british.lbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/british.lbx
+File: british.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+))
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Data encoding 'ascii' specified.
+(biblatex)             No need to reencode data.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'ascii' specified.
+(biblatex)             No need to reencode data.
+\openout3 = `main-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+
+(./main.bbl)
+Package biblatex Info: ... file 'main1-blx.bbl' found.
+ (./main1-blx.bbl)
+Package biblatex Info: ... file 'main2-blx.bbl' found.
+ (./main2-blx.bbl)
+Package biblatex Info: ... file 'main3-blx.bbl' found.
+ (./main3-blx.bbl)
+Package biblatex Info: ... file 'main4-blx.bbl' found.
+
+(./main4-blx.bbl)
+Package biblatex Info: ... file 'main5-blx.bbl' found.
+ (./main5-blx.bbl)
+Package biblatex Info: Reference section=0 on input line 66.
+Package biblatex Info: Reference segment=0 on input line 66.
+LaTeX Info: Redefining \microtypecontext on input line 66.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+LaTeX Info: Redefining \showhyphens on input line 66.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-ppl.cfg
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+)
+\openout2 = `FrontBackMatter/Titlepage.aux'.
+
+
+(./FrontBackMatter/Titlepage.tex
+LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
+13.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1pplx.fd
+File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
+)
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
+13.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
+13.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
+13.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
+13.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `zplm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [1
+
+
+
+
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
+\openout2 = `FrontBackMatter/Titleback.aux'.
+
+
+(./FrontBackMatter/Titleback.tex
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+) [2
+
+
+]
+\openout2 = `FrontBackMatter/Dedication.aux'.
+
+ (./FrontBackMatter/Dedication.tex) [3
+
+
+
+
+] [4
+
+
+
+]
+\openout2 = `Chapters/Introduction.aux'.
+
+ (./Chapters/Introduction.tex
+\blx@maxsegment@1=\count463
+\blx@sectionciteorder@1=\count464
+Package biblatex Info: Reference section=1 on input line 1.
+\openout3 = `main1-blx.aux'.
+
+Package biblatex Info: Setting label 'refsection:1' on input line 1.
+
+Chapter 1.
+[1
+
+
+
+
+
+
+
+] [2]
+Overfull \hbox (4.62468pt too wide) in paragraph at lines 46--46
+\T1/pplj/m/n/10 (-20) Quinones (2011). \T1/pplj/m/it/10 (-20) Sta-tis-ti-cal co
+n-trol by mon-i-tor-ing and ad-just-ment\T1/pplj/m/n/10 (-20) . Vol. 700.
+ []
+
+[3
+
+
+]
+Package biblatex Info: Reference section=0 on input line 46.
+) [4]
+\openout2 = `Chapters/Bee_foraging.aux'.
+
+ (./Chapters/Bee_foraging.tex
+\blx@maxsegment@2=\count465
+\blx@sectionciteorder@2=\count466
+Package biblatex Info: Reference section=2 on input line 1.
+\openout3 = `main2-blx.aux'.
+
+Package biblatex Info: Setting label 'refsection:2' on input line 1.
+
+Chapter 2.
+Package biblatex Info: Reference section=0 on input line 7.
+) [5
+
+
+
+
+]
+\openout2 = `Chapters/Bayesian_competition.aux'.
+
+ (./Chapters/Bayesian_competition.tex
+\blx@maxsegment@3=\count467
+\blx@sectionciteorder@3=\count468
+Package biblatex Info: Reference section=3 on input line 1.
+\openout3 = `main3-blx.aux'.
+
+Package biblatex Info: Setting label 'refsection:3' on input line 1.
+
+Chapter 3.
+[6
+
+
+
+
+]
+Package biblatex Info: Reference section=0 on input line 7.
+) [7]
+\openout2 = `Chapters/Coexistence_alleles.aux'.
+
+ (./Chapters/Coexistence_alleles.tex
+\blx@maxsegment@4=\count469
+\blx@sectionciteorder@4=\count470
+Package biblatex Info: Reference section=4 on input line 1.
+\openout3 = `main4-blx.aux'.
+
+Package biblatex Info: Setting label 'refsection:4' on input line 1.
+
+Chapter 4.
+[8
+
+
+
+
+]
+Package biblatex Info: Reference section=0 on input line 7.
+) [9]
+\openout2 = `Chapters/Discussion.aux'.
+
+ (./Chapters/Discussion.tex
+\blx@maxsegment@5=\count471
+\blx@sectionciteorder@5=\count472
+Package biblatex Info: Reference section=5 on input line 1.
+\openout3 = `main5-blx.aux'.
+
+Package biblatex Info: Setting label 'refsection:5' on input line 1.
+
+Chapter 5.
+[10
+
+
+
+
+]
+LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
+(Font)              Font shape `T1/pplj/m/it' tried instead on input line 4.
+ [11] [12]
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/pplj/m/sc/10'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Trying to load font information for T1+fvm on input line 26
+.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/bera/t1fvm.fd
+File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+)
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 8.50006pt on input line 26.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fvm' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package biblatex Info: Reference section=0 on input line 27.
+)
+[13
+
+
+] [14
+
+
+
+]
+\openout2 = `FrontBackMatter/Colophon.aux'.
+
+ (./FrontBackMatter/Colophon.tex) [15
+
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
+ (./main.aux
+(./FrontBackMatter/Titlepage.aux) (./FrontBackMatter/Titleback.aux)
+(./FrontBackMatter/Dedication.aux) (./Chapters/Introduction.aux)
+(./Chapters/Bee_foraging.aux) (./Chapters/Bayesian_competition.aux)
+(./Chapters/Coexistence_alleles.aux) (./Chapters/Discussion.aux)
+(./FrontBackMatter/Colophon.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 156.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 156.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 156.
+ ) 
+Here is how much of TeX's memory you used:
+ 30099 strings out of 480608
+ 551419 string characters out of 5903631
+ 1239847 words of memory out of 5000000
+ 45099 multiletter control sequences out of 15000+600000
+ 632886 words of font info for 309 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 79i,21n,108p,10099b,2244s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
+exlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/local/texl
+ive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/te
+xlive/2020/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/
+texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/
+2020/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2020/tex
+mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist
+/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (19 pages, 99359 bytes).
+PDF statistics:
+ 198 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
+ 46 named destinations out of 1000 (max. 500000)
+ 72249 words of extra memory for PDF output out of 74296 (max. 10000000)
+

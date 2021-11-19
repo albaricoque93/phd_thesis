@@ -1,0 +1,194 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{levins2006strategies}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LR}{%
+         family={Levins},
+         familyi={L\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{LR1}
+    \strng{fullhash}{LR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{5}
+    \field{pages}{741\bibrangedash 755}
+    \field{title}{Strategies of abstraction}
+    \field{volume}{21}
+    \field{journaltitle}{Biology and Philosophy}
+    \field{year}{2006}
+  \endentry
+
+  \entry{vazquez2005interaction}{article}{}
+    \name{author}{3}{}{%
+      {{hash=VDP}{%
+         family={V{\'a}zquez},
+         familyi={V\bibinitperiod},
+         given={Diego\bibnamedelima P},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=MWF}{%
+         family={Morris},
+         familyi={M\bibinitperiod},
+         given={William\bibnamedelima F},
+         giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=JP}{%
+         family={Jordano},
+         familyi={J\bibinitperiod},
+         given={Pedro},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{VDPMWFJP1}
+    \strng{fullhash}{VDPMWFJP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{10}
+    \field{pages}{1088\bibrangedash 1094}
+    \field{title}{Interaction frequency as a surrogate for the total effect of
+  animal mutualists on plants}
+    \field{volume}{8}
+    \field{journaltitle}{Ecology letters}
+    \field{year}{2005}
+  \endentry
+
+  \entry{vazquez_strength_2012}{article}{}
+    \name{author}{7}{}{%
+      {{hash=VDP}{%
+         family={Vázquez},
+         familyi={V\bibinitperiod},
+         given={Diego\bibnamedelima P.},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=LSB}{%
+         family={Lomáscolo},
+         familyi={L\bibinitperiod},
+         given={Silvia\bibnamedelima B.},
+         giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=MMB}{%
+         family={Maldonado},
+         familyi={M\bibinitperiod},
+         given={M.\bibnamedelima Belén},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=CNP}{%
+         family={Chacoff},
+         familyi={C\bibinitperiod},
+         given={Natacha\bibnamedelima P.},
+         giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Dorado},
+         familyi={D\bibinitperiod},
+         given={Jimena},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SEL}{%
+         family={Stevani},
+         familyi={S\bibinitperiod},
+         given={Erica\bibnamedelima L.},
+         giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=VNL}{%
+         family={Vitale},
+         familyi={V\bibinitperiod},
+         given={Nydia\bibnamedelima L.},
+         giveni={N\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{asymmetry, ecological networks, interaction frequency, interaction
+  strength, Monte desert, mutualism, plant–pollinator interactions,
+  pollination, species impact}
+    \strng{namehash}{VDP+1}
+    \strng{fullhash}{VDPLSBMMBCNPDJSELVNL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{abstract}{%
+    Recent studies of plant–animal mutualistic networks have assumed that
+  interaction frequency between mutualists predicts species impacts
+  (population-level effects), and that field estimates of interaction strength
+  (per-interaction effects) are unnecessary. Although existing evidence
+  supports this assumption for the effect of animals on plants, no studies have
+  evaluated it for the reciprocal effect of plants on animals. We evaluate this
+  assumption using data on the reproductive effects of pollinators on plants
+  and the reciprocal reproductive effects of plants on pollinators. The
+  magnitude of species impacts of plants on pollinators, the reciprocal impacts
+  of pollinators on plants, and their asymmetry were well predicted by
+  interaction frequency. However, interaction strength was a key determinant of
+  the sign of species impacts. These results underscore the importance of
+  quantifying interaction strength in studies of mutualistic networks. We also
+  show that the distributions of interaction strengths and species impacts are
+  highly skewed, with few strong and many weak interactions. This skewed
+  distribution matches the pattern observed in food webs, suggesting that the
+  community-wide organization of species interactions is fundamentally similar
+  between mutualistic and antagonistic interactions. Our results have profound
+  ecological implications, given the key role of interaction strength for
+  community stability.%
+    }
+    \verb{doi}
+    \verb 10.1890/11-1356.1
+    \endverb
+    \field{issn}{1939-9170}
+    \field{number}{4}
+    \field{pages}{719\bibrangedash 725}
+    \field{title}{The strength of plant–pollinator interactions}
+    \verb{url}
+    \verb https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/11-1356.1
+    \endverb
+    \field{volume}{93}
+    \verb{file}
+    \verb Full Text PDF:/home/alba/Zotero/storage/USJ7UPZR/Vázquez et al. - 20
+    \verb 12 - The strength of plant–pollinator interactions.pdf:application/
+    \verb pdf;Snapshot:/home/alba/Zotero/storage/URTU8Z3R/11-1356.html:text/htm
+    \verb l
+    \endverb
+    \field{journaltitle}{Ecology}
+    \field{year}{2012}
+    \field{urlday}{14}
+    \field{urlmonth}{03}
+    \field{urlyear}{2019}
+  \endentry
+\enddatalist
+\endinput
