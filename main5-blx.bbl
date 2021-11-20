@@ -17,6 +17,190 @@
 \endgroup
 
 \datalist[entry]{nyt/global//global/global}
+  \entry{bimler_accurate_2018}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BMD}{%
+         family={Bimler},
+         familyi={B\bibinitperiod},
+         given={Malyon\bibnamedelima D.},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=SDB}{%
+         family={Stouffer},
+         familyi={S\bibinitperiod},
+         given={Daniel\bibnamedelima B.},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=LHR}{%
+         family={Lai},
+         familyi={L\bibinitperiod},
+         given={Hao\bibnamedelima Ran},
+         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=MMM}{%
+         family={Mayfield},
+         familyi={M\bibinitperiod},
+         given={Margaret\bibnamedelima M.},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{coexistence, competition, fitness differences, niche, annual plants,
+  competitive outcomes, environmental heterogeneity, facilitation}
+    \strng{namehash}{BMD+1}
+    \strng{fullhash}{BMDSDBLHRMMM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Coexistence between plant species is well known to depend on the outcomes
+  of species interactions within an environmental context. The incorporation of
+  environmental variation into empirical studies of coexistence are rare,
+  however, due to the complex experiments needed to do so and the lack of
+  feasible modelling approaches for determining how environmental factors alter
+  specific coexistence mechanisms. In this article, we present a simple
+  modelling framework for assessing how variation in species interactions
+  across environmental gradients impact on niche overlap and fitness
+  differences, two core determinants of coexistence. We use a novel formulation
+  of an annual plant population dynamics model that allows for competitive and
+  facilitative species interactions and for variation in the strength and
+  direction of these interactions across environmental gradients. Using this
+  framework, we examine outcomes of plant–plant interactions between four
+  commonly co-occurring annual plant species from Western Australian woodlands.
+  We then determine how niche overlap and fitness differences between these
+  species vary across three environmental gradients previously identified as
+  important for structuring diversity patterns in this system: soil phosphorus,
+  shade and water. We found facilitation to be a widespread phenomenon and that
+  interactions between most species pairs shift between competitive and
+  facilitative across multiple environmental gradients. Environmental
+  conditions also altered the strength, direction and relative variation of
+  both niche overlap and fitness differences in nonlinear and unpredictable
+  ways. Synthesis. We provide a simple framework for incorporating
+  environmental heterogeneity into explorations of coexistence mechanisms. Our
+  findings highlight the importance of the environment in determining the
+  outcome of species interactions and the potential for pairwise coexistence
+  between species. The prevalence of facilitation in our system indicates a
+  need to improve current theoretical frameworks of coexistence to include
+  noncompetitive interactions and ways of translating these effects into
+  explicit predictions of coexistence. Our study also suggests a need for
+  further research into determining which factors result in consistent
+  responses of niche overlap and fitness differences to environmental
+  variation. Such information will improve our ability to predict outcomes of
+  coexistence, invasion events and responses of whole communities to future
+  environmental change.%
+    }
+    \verb{doi}
+    \verb 10.1111/1365-2745.13030
+    \endverb
+    \field{issn}{1365-2745}
+    \field{number}{5}
+    \field{pages}{1839\bibrangedash 1852}
+    \field{title}{Accurate predictions of coexistence in natural systems
+  require the inclusion of facilitative interactions and environmental
+  dependency}
+    \verb{url}
+    \verb https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745
+    \verb .13030
+    \endverb
+    \field{volume}{106}
+    \verb{file}
+    \verb Snapshot:/home/alba/Zotero/storage/D6355FIW/1365-2745.html:text/html
+    \endverb
+    \field{journaltitle}{Journal of Ecology}
+    \field{annotation}{%
+    gradients%
+    }
+    \field{year}{2018}
+    \field{urlday}{14}
+    \field{urlmonth}{03}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{lanuza_opposing_2018}{article}{}
+    \name{author}{3}{}{%
+      {{hash=LJB}{%
+         family={Lanuza},
+         familyi={L\bibinitperiod},
+         given={Jose\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=BI}{%
+         family={Bartomeus},
+         familyi={B\bibinitperiod},
+         given={Ignasi},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=GO}{%
+         family={Godoy},
+         familyi={G\bibinitperiod},
+         given={Oscar},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{mutualism, Coexistence, community assembly, demography, fitness,
+  multitrophic interactions, niche, pollinators, salinity, spatial structure}
+    \strng{namehash}{LJBBIGO1}
+    \strng{fullhash}{LJBBIGO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{abstract}{%
+    Theory argues that both soil conditions and aboveground trophic
+  interactions have equivalent potential to limit or promote plant diversity.
+  However, it remains unexplored how they jointly modify the niche differences
+  stabilising species coexistence and the average fitness differences driving
+  competitive dominance. We conducted a field study in Mediterranean annual
+  grasslands to parameterise population models of six competing plant species.
+  Spatially explicit floral visitor assemblages and soil salinity variation
+  were characterised for each species. Both floral visitors and soil salinity
+  modified species population dynamics via direct changes in seed production
+  and indirect changes in competitive responses. Although the magnitude and
+  sign of these changes were species-specific, floral visitors promoted
+  coexistence at neighbourhood scales, while soil salinity did so over larger
+  scales by changing the superior competitors’ identity. Our results show how
+  below and aboveground interactions maintain diversity in heterogeneous
+  landscapes through their opposing effects on the determinants of competitive
+  outcomes.%
+    }
+    \verb{doi}
+    \verb 10.1111/ele.12954
+    \endverb
+    \field{issn}{1461-0248}
+    \field{number}{6}
+    \field{pages}{865\bibrangedash 874}
+    \field{title}{Opposing effects of floral visitors and soil conditions on
+  the determinants of competitive outcomes maintain species diversity in
+  heterogeneous landscapes}
+    \verb{url}
+    \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.12954
+    \endverb
+    \field{volume}{21}
+    \verb{file}
+    \verb Full Text PDF:/home/alba/Zotero/storage/6XWM4SKZ/Lanuza et al. - 2018
+    \verb  - Opposing effects of floral visitors and soil condi.pdf:application
+    \verb /pdf;Snapshot:/home/alba/Zotero/storage/SU7MGX8B/ele.html:text/html;F
+    \verb ull Text PDF:/home/alba/Zotero/storage/XXM2XM6H/Lanuza et al. - 2018
+    \verb - Opposing effects of floral visitors and soil condi.pdf:application/
+    \verb pdf;Snapshot:/home/alba/Zotero/storage/Z5WFKZY6/ele.html:text/html
+    \endverb
+    \field{journaltitle}{Ecology Letters}
+    \field{year}{2018}
+    \field{urlday}{09}
+    \field{urlmonth}{05}
+    \field{urlyear}{2019}
+  \endentry
+
   \entry{levins2006strategies}{article}{}
     \name{author}{1}{}{%
       {{hash=LR}{%
