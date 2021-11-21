@@ -17,6 +17,177 @@
 \endgroup
 
 \datalist[entry]{nyt/global//global/global}
+  \entry{abrams1983arguments}{article}{}
+    \name{author}{1}{}{%
+      {{hash=APA}{%
+         family={Abrams},
+         familyi={A\bibinitperiod},
+         given={Peter\bibnamedelima A},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Chicago Press}%
+    }
+    \strng{namehash}{APA1}
+    \strng{fullhash}{APA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1983}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{6}
+    \field{pages}{887\bibrangedash 891}
+    \field{title}{Arguments in favor of higher order interactions}
+    \field{volume}{121}
+    \field{journaltitle}{The American Naturalist}
+    \field{year}{1983}
+  \endentry
+
+  \entry{adler_general_1994}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AFR}{%
+         family={Adler},
+         familyi={A\bibinitperiod},
+         given={Frederick\bibnamedelima R.},
+         giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=MWF}{%
+         family={Morris},
+         familyi={M\bibinitperiod},
+         given={William\bibnamedelima F.},
+         giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{AFRMWF1}
+    \strng{fullhash}{AFRMWF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    How can measurements of population dynamics be used to deduce the
+  mechanisms of interaction in an assemblage of species? We present a technique
+  to use such measurements to distinguish among assemblages of species with no
+  direct interactions, sets of species influenced predominantly by pairwise
+  interactions, and communities with significant interaction modification. We
+  define the interaction coefficients and show that their dependence on the
+  population sizes of the various species reveals and pinpoints interactions.
+  Our technique distinguishes non-additivity in the statistical sense from
+  interaction modification in the biological sense.%
+    }
+    \verb{doi}
+    \verb 10.2307/1939616
+    \endverb
+    \field{issn}{00129658}
+    \field{number}{6}
+    \field{pages}{1552\bibrangedash 1559}
+    \field{title}{A {General} {Test} for {Interaction} {Modification}}
+    \verb{url}
+    \verb http://doi.wiley.com/10.2307/1939616
+    \endverb
+    \field{volume}{75}
+    \verb{file}
+    \verb Adler and Morris - 1994 - A General Test for Interaction Modification
+    \verb .pdf:/home/alba/Zotero/storage/APPH7FRQ/Adler and Morris - 1994 - A G
+    \verb eneral Test for Interaction Modification.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Ecology}
+    \field{month}{09}
+    \field{year}{1994}
+    \field{urlday}{12}
+    \field{urlmonth}{06}
+    \field{urlyear}{2020}
+  \endentry
+
+  \entry{billick_higher_1994}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BI}{%
+         family={Billick},
+         familyi={B\bibinitperiod},
+         given={Ian},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=CTJ}{%
+         family={Case},
+         familyi={C\bibinitperiod},
+         given={Ted\bibnamedelima J.},
+         giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{BICTJ1}
+    \strng{fullhash}{BICTJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    The detection and significance of higher order interactions (HOIs) between
+  species has been a matter of debate and experimentation in community ecology
+  for several decades. HOIs are considered potentially significant because
+  their presence is assumed to mean that the dynamic behavior of a full
+  community of species is unpredictable based on observations of interactions
+  between subsets of the species within the community. Despite such attention,
+  the causal mechanisms that produce HOIs have been inadequately discussed. We
+  discuss three different usages of the term HOIs and provide insight as to why
+  HOIs might be found within a given community. HOIs may be detected for three
+  reasons: inappropriate assumptions made concerning species interactions that
+  influence statistical tests, unmeasured parameters and variables, and
+  interaction modifications (i.e., a functional change in the interaction of
+  two species caused by a third species. This confusion concerning the defining
+  attributes of HOIs has made their detection problematic. While the
+  statistical tests being used in the ecological experiments to detect HOIs are
+  described in detail in most papers, the dynamic models underlying these tests
+  are often not made explicit. Additionally, we demonstrate the equivalency of
+  three different statistical tests: the Case and Bender (1981) test, analysis
+  of variance, and a multiplicative test (Wootton 1994). However, the choice of
+  a response variable (i.e., population densities, population growth rates,
+  per—capita growth rates, etc.) and different data transformations applied
+  to these response variables alter the underlying dynamics model that is being
+  tested. The result is that the statistical test applied does not always
+  perform the intended comparison but instead tests a different and sometimes
+  unjustified or even inappropriate dynamic model. Finally, we review the
+  relationship between indirect effects and HOIs. Whereas some researchers have
+  lumped HOIs and indirect effects, we argue that the two represent completely
+  unique and separate phenomena. Additionally, indirect effects can complicate
+  detection of HOIs, and we review several methods by which to separate the two
+  processes.%
+    }
+    \verb{doi}
+    \verb 10.2307/1939614
+    \endverb
+    \field{issn}{1939-9170}
+    \field{number}{6}
+    \field{pages}{1529\bibrangedash 1543}
+    \field{shorttitle}{Higher {Order} {Interactions} in {Ecological}
+  {Communities}}
+    \field{title}{Higher {Order} {Interactions} in {Ecological} {Communities}:
+  {What} {Are} {They} and {How} {Can} {They} be {Detected}?}
+    \verb{url}
+    \verb https://esajournals.onlinelibrary.wiley.com/doi/abs/10.2307/1939614
+    \endverb
+    \field{volume}{75}
+    \verb{file}
+    \verb Snapshot:/home/alba/Zotero/storage/RMU5CXRE/1939614.html:text/html
+    \endverb
+    \field{journaltitle}{Ecology}
+    \field{year}{1994}
+    \field{urlday}{14}
+    \field{urlmonth}{03}
+    \field{urlyear}{2019}
+  \endentry
+
   \entry{bimler_accurate_2018}{article}{}
     \name{author}{4}{}{%
       {{hash=BMD}{%
@@ -121,6 +292,203 @@
     \field{urlyear}{2019}
   \endentry
 
+  \entry{evans2013simple}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{10}{}{%
+      {{hash=EMR}{%
+         family={Evans},
+         familyi={E\bibinitperiod},
+         given={Matthew\bibnamedelima R},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=GV}{%
+         family={Grimm},
+         familyi={G\bibinitperiod},
+         given={Volker},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=JK}{%
+         family={Johst},
+         familyi={J\bibinitperiod},
+         given={Karin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Knuuttila},
+         familyi={K\bibinitperiod},
+         given={Tarja},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=DLR}{%
+         family={De\bibnamedelima Langhe},
+         familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+         given={Rogier},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LCM}{%
+         family={Lessells},
+         familyi={L\bibinitperiod},
+         given={Catherine\bibnamedelima M},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Merz},
+         familyi={M\bibinitperiod},
+         given={Martina},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=OMA}{%
+         family={O’Malley},
+         familyi={O\bibinitperiod},
+         given={Maureen\bibnamedelima A},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=OSH}{%
+         family={Orzack},
+         familyi={O\bibinitperiod},
+         given={Steve\bibnamedelima H},
+         giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Weisberg},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{EMR+1}
+    \strng{fullhash}{EMRGVJKKTDLRLCMMMOMAOSHWM+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{10}
+    \field{pages}{578\bibrangedash 583}
+    \field{title}{Do simple models lead to generality in ecology?}
+    \field{volume}{28}
+    \field{journaltitle}{Trends in ecology \& evolution}
+    \field{year}{2013}
+  \endentry
+
+  \entry{holling1966strategy}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HCS}{%
+         family={Holling},
+         familyi={H\bibinitperiod},
+         given={Crawford\bibnamedelima S},
+         giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Academic Press New York}%
+    }
+    \strng{namehash}{HCS1}
+    \strng{fullhash}{HCS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1966}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{pages}{195\bibrangedash 214}
+    \field{title}{The strategy of building models of complex ecological
+  systems}
+    \field{journaltitle}{Systems analysis in ecology}
+    \field{year}{1966}
+  \endentry
+
+  \entry{kleinhesselink2019mechanisms}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KAR}{%
+         family={Kleinhesselink},
+         familyi={K\bibinitperiod},
+         given={Andrew\bibnamedelima R},
+         giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=KNJ}{%
+         family={Kraft},
+         familyi={K\bibinitperiod},
+         given={Nathan\bibnamedelima JB},
+         giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=LJM}{%
+         family={Levine},
+         familyi={L\bibinitperiod},
+         given={Jonathan\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cold Spring Harbor Laboratory}%
+    }
+    \strng{namehash}{KARKNJLJM1}
+    \strng{fullhash}{KARKNJLJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{pages}{857920}
+    \field{title}{Mechanisms underlying higher order interactions: from
+  quantitative definitions to ecological processes}
+    \field{journaltitle}{bioRxiv}
+    \field{year}{2019}
+  \endentry
+
+  \entry{lai2020role}{article}{}
+    \name{author}{4}{}{%
+      {{hash=LHR}{%
+         family={Lai},
+         familyi={L\bibinitperiod},
+         given={Hao\bibnamedelima Ran},
+         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=CKY}{%
+         family={Chong},
+         familyi={C\bibinitperiod},
+         given={Kwek\bibnamedelima Yan},
+         giveni={K\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=MMM}{%
+         family={Mayfield},
+         familyi={M\bibinitperiod},
+         given={Margaret\bibnamedelima M},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SDB}{%
+         family={Stouffer},
+         familyi={S\bibinitperiod},
+         given={Daniel\bibnamedelima B},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cold Spring Harbor Laboratory}%
+    }
+    \strng{namehash}{LHR+1}
+    \strng{fullhash}{LHRCKYMMMSDB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{doi}
+    \verb https://doi.org/10.1101/2020.09.16.300616
+    \endverb
+    \field{title}{The role of higher-order biotic interactions on tropical tree
+  growth}
+    \field{journaltitle}{bioRxiv}
+    \field{year}{2020}
+  \endentry
+
   \entry{lanuza_opposing_2018}{article}{}
     \name{author}{3}{}{%
       {{hash=LJB}{%
@@ -201,6 +569,187 @@
     \field{urlyear}{2019}
   \endentry
 
+  \entry{letten_mechanistic_2019}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LAD}{%
+         family={Letten},
+         familyi={L\bibinitperiod},
+         given={Andrew\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=SDB}{%
+         family={Stouffer},
+         familyi={S\bibinitperiod},
+         given={Daniel\bibnamedelima B.},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{mechanistic models, Coexistence, higher-order interactions,
+  Lotka–Volterra, non-additivity, resource competition}
+    \strng{namehash}{LADSDB1}
+    \strng{fullhash}{LADSDB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{abstract}{%
+    Motivated by both analytical tractability and empirical practicality,
+  community ecologists have long treated the species pair as the fundamental
+  unit of study. This notwithstanding, the challenge of understanding more
+  complex systems has repeatedly generated interest in the role of so-called
+  higher-order interactions (HOIs) imposed by species beyond the focal pair.
+  Here we argue that HOIs – defined as non-additive effects of density on per
+  capita growth – are best interpreted as emergent properties of
+  phenomenological models (e.g. Lotka–Volterra competition) rather than as
+  distinct ‘ecological processes’ in their own right. Using simulations of
+  consumer-resource models, we explore the mechanisms and system properties
+  that give rise to HOIs in observational data. We demonstrate that HOIs emerge
+  under all but the most restrictive of assumptions, and that incorporating
+  non-additivity into phenomenological models improves the quantitative and
+  qualitative accuracy of model predictions. Notably, we also observe that HOIs
+  derive primarily from mechanisms and system properties that apply equally to
+  single-species or pairwise systems as they do to more diverse communities.
+  Consequently, there exists a strong mandate for further recognition of
+  non-additive effects in both theoretical and empirical research.%
+    }
+    \verb{doi}
+    \verb 10.1111/ele.13211
+    \endverb
+    \field{issn}{1461-0248}
+    \field{number}{3}
+    \field{pages}{423\bibrangedash 436}
+    \field{title}{The mechanistic basis for higher-order interactions and
+  non-additivity in competitive communities}
+    \verb{url}
+    \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13211
+    \endverb
+    \field{volume}{22}
+    \verb{file}
+    \verb Full Text PDF:/home/alba/Zotero/storage/49F9J42A/Letten and Stouffer
+    \verb - 2019 - The mechanistic basis for higher-order interaction.pdf:appli
+    \verb cation/pdf;Snapshot:/home/alba/Zotero/storage/DADYWQYN/ele.html:text/
+    \verb html
+    \endverb
+    \field{journaltitle}{Ecology Letters}
+    \field{year}{2019}
+    \field{urlday}{14}
+    \field{urlmonth}{03}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{levine_beyond_2017}{article}{}
+    \name{author}{4}{}{%
+      {{hash=LJM}{%
+         family={Levine},
+         familyi={L\bibinitperiod},
+         given={Jonathan\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bascompte},
+         familyi={B\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=APB}{%
+         family={Adler},
+         familyi={A\bibinitperiod},
+         given={Peter\bibnamedelima B.},
+         giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Allesina},
+         familyi={A\bibinitperiod},
+         given={Stefano},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{LJM+1}
+    \strng{fullhash}{LJMBJAPBAS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{abstract}{%
+    The tremendous diversity of species in ecological communities has motivated
+  a century of research into the mechanisms that maintain biodiversity.
+  However, much of this work examines the coexistence of just pairs of
+  competitors. This approach ignores those mechanisms of coexistence that
+  emerge only in diverse competitive networks. Despite the potential for these
+  mechanisms to create conditions under which the loss of one competitor
+  triggers the loss of others, we lack the knowledge needed to judge their
+  importance for coexistence in nature. Progress requires borrowing insight
+  from the study of multitrophic interaction networks, and coupling empirical
+  data to models of competition.%
+    }
+    \verb{doi}
+    \verb 10.1038/nature22898
+    \endverb
+    \field{issn}{1476-4687}
+    \field{number}{7656}
+    \field{pages}{56\bibrangedash 64}
+    \field{title}{Beyond pairwise mechanisms of species coexistence in complex
+  communities}
+    \verb{url}
+    \verb https://www.nature.com/articles/nature22898
+    \endverb
+    \field{volume}{546}
+    \verb{file}
+    \verb Versión enviada:/home/alba/Zotero/storage/9TP3HPK7/Levine et al. - 2
+    \verb 017 - Beyond pairwise mechanisms of species coexistence .pdf:applicat
+    \verb ion/pdf;Snapshot:/home/alba/Zotero/storage/8NXRHFFI/nature22898.html:
+    \verb text/html
+    \endverb
+    \field{journaltitle}{Nature}
+    \field{annotation}{%
+    communities%
+    }
+    \field{month}{06}
+    \field{year}{2017}
+    \field{urlday}{14}
+    \field{urlmonth}{03}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{levins1993response}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LR}{%
+         family={Levins},
+         familyi={L\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Chicago Press}%
+    }
+    \strng{namehash}{LR1}
+    \strng{fullhash}{LR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{4}
+    \field{pages}{547\bibrangedash 555}
+    \field{title}{A response to Orzack and Sober: formal analysis and the
+  fluidity of science}
+    \field{volume}{68}
+    \field{journaltitle}{The Quarterly Review of Biology}
+    \field{year}{1993}
+  \endentry
+
   \entry{levins2006strategies}{article}{}
     \name{author}{1}{}{%
       {{hash=LR}{%
@@ -227,6 +776,235 @@
     \field{volume}{21}
     \field{journaltitle}{Biology and Philosophy}
     \field{year}{2006}
+  \endentry
+
+  \entry{martyn2021identifying}{article}{}
+    \name{author}{6}{}{%
+      {{hash=MTE}{%
+         family={Martyn},
+         familyi={M\bibinitperiod},
+         given={Trace\bibnamedelima E},
+         giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=SDB}{%
+         family={Stouffer},
+         familyi={S\bibinitperiod},
+         given={Daniel\bibnamedelima B},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=GO}{%
+         family={Godoy},
+         familyi={G\bibinitperiod},
+         given={Oscar},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=BI}{%
+         family={Bartomeus},
+         familyi={B\bibinitperiod},
+         given={Ignasi},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=PAI}{%
+         family={Pastore},
+         familyi={P\bibinitperiod},
+         given={Abigail\bibnamedelima I},
+         giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=MMM}{%
+         family={Mayfield},
+         familyi={M\bibinitperiod},
+         given={Margaret\bibnamedelima M},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The University of Chicago Press Chicago, IL}%
+    }
+    \strng{namehash}{MTE+1}
+    \strng{fullhash}{MTESDBGOBIPAIMMM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{4}
+    \field{pages}{415\bibrangedash 433}
+    \field{title}{Identifying “Useful” Fitness Models: Balancing the
+  Benefits of Added Complexity with Realistic Data Requirements in Models of
+  Individual Plant Fitness}
+    \field{volume}{197}
+    \field{journaltitle}{The American Naturalist}
+    \field{year}{2021}
+  \endentry
+
+  \entry{may2019stability}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MRM}{%
+         family={May},
+         familyi={M\bibinitperiod},
+         given={Robert\bibnamedelima M},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Princeton university press}%
+    }
+    \strng{namehash}{MRM1}
+    \strng{fullhash}{MRM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Stability and complexity in model ecosystems}
+    \field{year}{2019}
+  \endentry
+
+  \entry{mayfield2017higher}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MMM}{%
+         family={Mayfield},
+         familyi={M\bibinitperiod},
+         given={Margaret\bibnamedelima M},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SDB}{%
+         family={Stouffer},
+         familyi={S\bibinitperiod},
+         given={Daniel\bibnamedelima B},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{MMMSDB1}
+    \strng{fullhash}{MMMSDB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{1\bibrangedash 7}
+    \field{title}{Higher-order interactions capture unexplained complexity in
+  diverse communities}
+    \field{volume}{1}
+    \field{journaltitle}{Nature ecology \& evolution}
+    \field{year}{2017}
+  \endentry
+
+  \entry{orzack2012philosophy}{article}{}
+    \name{author}{1}{}{%
+      {{hash=OSH}{%
+         family={Orzack},
+         familyi={O\bibinitperiod},
+         given={Steven\bibnamedelima Hecht},
+         giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The Royal Society}%
+    }
+    \strng{namehash}{OSH1}
+    \strng{fullhash}{OSH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{number}{1586}
+    \field{pages}{170\bibrangedash 180}
+    \field{title}{The philosophy of modelling or does the philosophy of biology
+  have any use?}
+    \field{volume}{367}
+    \field{journaltitle}{Philosophical Transactions of the Royal Society B:
+  Biological Sciences}
+    \field{year}{2012}
+  \endentry
+
+  \entry{orzack1993critical}{article}{}
+    \name{author}{2}{}{%
+      {{hash=OSH}{%
+         family={Orzack},
+         familyi={O\bibinitperiod},
+         given={Steven\bibnamedelima Hecht},
+         giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Sober},
+         familyi={S\bibinitperiod},
+         given={Elliott},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Chicago Press}%
+    }
+    \strng{namehash}{OSHSE1}
+    \strng{fullhash}{OSHSE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1993}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{number}{4}
+    \field{pages}{533\bibrangedash 546}
+    \field{title}{A critical assessment of Levins's The strategy of model
+  building in population biology (1966)}
+    \field{volume}{68}
+    \field{journaltitle}{The Quarterly Review of Biology}
+    \field{year}{1993}
+  \endentry
+
+  \entry{roughgarden2018adaptive}{article}{}
+    \name{author}{4}{}{%
+      {{hash=RJ}{%
+         family={Roughgarden},
+         familyi={R\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bergman},
+         familyi={B\bibinitperiod},
+         given={Aviv},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Shafir},
+         familyi={S\bibinitperiod},
+         given={Sharoni},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=TC}{%
+         family={Taylor},
+         familyi={T\bibinitperiod},
+         given={Charles},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Routledge}%
+    }
+    \strng{namehash}{RJ+1}
+    \strng{fullhash}{RJBASSTC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{pages}{25}
+    \field{title}{Adaptive Computation in Ecology and}
+    \field{journaltitle}{Adaptive Individuals In Evolving Populations: Models
+  And Algorithms}
+    \field{year}{2018}
   \endentry
 
   \entry{vazquez2005interaction}{article}{}
