@@ -45,6 +45,67 @@
     \field{year}{1983}
   \endentry
 
+  \entry{abrams_nature_2000}{article}{}
+    \name{author}{2}{}{%
+      {{hash=APA}{%
+         family={Abrams},
+         familyi={A\bibinitperiod},
+         given={Peter\bibnamedelima A.},
+         giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=GLR}{%
+         family={Ginzburg},
+         familyi={G\bibinitperiod},
+         given={Lev\bibnamedelima R.},
+         giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \keyw{Functional response, Food chain, Mathematical model, Numerical
+  response, Predation, Prey dependence, Ratio dependence}
+    \strng{namehash}{APAGLR1}
+    \strng{fullhash}{APAGLR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    To describe a predator–prey relationship, it is necessary to specify the
+  rate of prey consumption by an average predator. This functional response
+  largely determines dynamic stability, responses to environmental influences
+  and the nature of indirect effects in the food web containing the
+  predator–prey pair. Nevertheless, measurements of functional responses in
+  nature are quite rare. Recently, much work has been devoted to comparing two
+  idealized forms of the functional response: prey dependent and ratio
+  dependent. Although we agree that predator abundance often affects the
+  consumption rate of individual predators, this phenomenon requires more
+  attention. Disagreement remains over which of the two idealized responses
+  serves as a better starting point in building models when data on predator
+  dependence are absent.%
+    }
+    \field{issn}{0169-5347}
+    \field{number}{8}
+    \field{pages}{337\bibrangedash 341}
+    \field{shorttitle}{The nature of predation}
+    \field{title}{The nature of predation: prey dependent, ratio dependent or
+  neither?}
+    \field{volume}{15}
+    \verb{file}
+    \verb ScienceDirect Full Text PDF:/home/alba/Zotero/storage/6Q43TTIE/Abrams
+    \verb  and Ginzburg - 2000 - The nature of predation prey dependent, ratio
+    \verb dep.pdf:application/pdf;ScienceDirect Snapshot:/home/alba/Zotero/stor
+    \verb age/TCAWEMUU/S016953470001908X.html:text/html;ScienceDirect Full Text
+    \verb  PDF:/home/alba/Zotero/storage/TCU6ZHU6/Abrams and Ginzburg - 2000 -
+    \verb The nature of predation prey dependent, ratio dep.pdf:application/pdf
+    \verb ;ScienceDirect Snapshot:/home/alba/Zotero/storage/BWZY35GL/S016953470
+    \verb 001908X.html:text/html
+    \endverb
+    \field{journaltitle}{Trends in Ecology \& Evolution}
+    \field{month}{08}
+    \field{year}{2000}
+  \endentry
+
   \entry{adler_general_1994}{article}{}
     \name{author}{2}{}{%
       {{hash=AFR}{%
@@ -82,16 +143,10 @@
   Our technique distinguishes non-additivity in the statistical sense from
   interaction modification in the biological sense.%
     }
-    \verb{doi}
-    \verb 10.2307/1939616
-    \endverb
     \field{issn}{00129658}
     \field{number}{6}
     \field{pages}{1552\bibrangedash 1559}
     \field{title}{A {General} {Test} for {Interaction} {Modification}}
-    \verb{url}
-    \verb http://doi.wiley.com/10.2307/1939616
-    \endverb
     \field{volume}{75}
     \verb{file}
     \verb Adler and Morris - 1994 - A General Test for Interaction Modification
@@ -101,9 +156,69 @@
     \field{journaltitle}{Ecology}
     \field{month}{09}
     \field{year}{1994}
-    \field{urlday}{12}
-    \field{urlmonth}{06}
-    \field{urlyear}{2020}
+  \endentry
+
+  \entry{aladwani2019addition}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AM}{%
+         family={AlAdwani},
+         familyi={A\bibinitperiod},
+         given={Mohammad},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Saavedra},
+         familyi={S\bibinitperiod},
+         given={Serguei},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{AMSS1}
+    \strng{fullhash}{AMSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{pages}{108222}
+    \field{title}{Is the addition of higher-order interactions in ecological
+  models increasing the understanding of ecological dynamics?}
+    \field{volume}{315}
+    \field{journaltitle}{Mathematical Biosciences}
+    \field{year}{2019}
+  \endentry
+
+  \entry{amarasekare2003competitive}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AP}{%
+         family={Amarasekare},
+         familyi={A\bibinitperiod},
+         given={Priyanga},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{AP1}
+    \strng{fullhash}{AP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{12}
+    \field{pages}{1109\bibrangedash 1122}
+    \field{title}{Competitive coexistence in spatially structured environments:
+  a synthesis}
+    \field{volume}{6}
+    \field{journaltitle}{Ecology letters}
+    \field{year}{2003}
   \endentry
 
   \entry{billick_higher_1994}{article}{}
@@ -164,9 +279,6 @@
   detection of HOIs, and we review several methods by which to separate the two
   processes.%
     }
-    \verb{doi}
-    \verb 10.2307/1939614
-    \endverb
     \field{issn}{1939-9170}
     \field{number}{6}
     \field{pages}{1529\bibrangedash 1543}
@@ -174,18 +286,12 @@
   {Communities}}
     \field{title}{Higher {Order} {Interactions} in {Ecological} {Communities}:
   {What} {Are} {They} and {How} {Can} {They} be {Detected}?}
-    \verb{url}
-    \verb https://esajournals.onlinelibrary.wiley.com/doi/abs/10.2307/1939614
-    \endverb
     \field{volume}{75}
     \verb{file}
     \verb Snapshot:/home/alba/Zotero/storage/RMU5CXRE/1939614.html:text/html
     \endverb
     \field{journaltitle}{Ecology}
     \field{year}{1994}
-    \field{urlday}{14}
-    \field{urlmonth}{03}
-    \field{urlyear}{2019}
   \endentry
 
   \entry{bimler_accurate_2018}{article}{}
@@ -265,19 +371,12 @@
   coexistence, invasion events and responses of whole communities to future
   environmental change.%
     }
-    \verb{doi}
-    \verb 10.1111/1365-2745.13030
-    \endverb
     \field{issn}{1365-2745}
     \field{number}{5}
     \field{pages}{1839\bibrangedash 1852}
     \field{title}{Accurate predictions of coexistence in natural systems
   require the inclusion of facilitative interactions and environmental
   dependency}
-    \verb{url}
-    \verb https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745
-    \verb .13030
-    \endverb
     \field{volume}{106}
     \verb{file}
     \verb Snapshot:/home/alba/Zotero/storage/D6355FIW/1365-2745.html:text/html
@@ -287,9 +386,438 @@
     gradients%
     }
     \field{year}{2018}
-    \field{urlday}{14}
-    \field{urlmonth}{03}
-    \field{urlyear}{2019}
+  \endentry
+
+  \entry{callaway2007positive}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CRM}{%
+         family={Callaway},
+         familyi={C\bibinitperiod},
+         given={Ragan\bibnamedelima M},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{CRM1}
+    \strng{fullhash}{CRM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Positive interactions and interdependence in plant
+  communities}
+    \field{year}{2007}
+  \endentry
+
+  \entry{callaway_positive_2002}{article}{}
+    \name{author}{13}{}{%
+      {{hash=CRM}{%
+         family={Callaway},
+         familyi={C\bibinitperiod},
+         given={Ragan\bibnamedelima M.},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BRW}{%
+         family={Brooker},
+         familyi={B\bibinitperiod},
+         given={R.\bibnamedelima W.},
+         giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=CP}{%
+         family={Choler},
+         familyi={C\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KZ}{%
+         family={Kikvidze},
+         familyi={K\bibinitperiod},
+         given={Zaal},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=LCJ}{%
+         family={Lortie},
+         familyi={L\bibinitperiod},
+         given={Christopher\bibnamedelima J.},
+         giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Michalet},
+         familyi={M\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PL}{%
+         family={Paolini},
+         familyi={P\bibinitperiod},
+         given={Leonardo},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=PFI}{%
+         family={Pugnaire},
+         familyi={P\bibinitperiod},
+         given={Francisco\bibnamedelima I.},
+         giveni={F\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=NB}{%
+         family={Newingham},
+         familyi={N\bibinitperiod},
+         given={Beth},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=AET}{%
+         family={Aschehoug},
+         familyi={A\bibinitperiod},
+         given={Erik\bibnamedelima T.},
+         giveni={E\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=AC}{%
+         family={Armas},
+         familyi={A\bibinitperiod},
+         given={Cristina},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KD}{%
+         family={Kikodze},
+         familyi={K\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=CBJ}{%
+         family={Cook},
+         familyi={C\bibinitperiod},
+         given={Bradley\bibnamedelima J.},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{CRM+1}
+    \strng{fullhash}{CRMBRWCPKZLCJMRPLPFINBAETACKDCBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Plants can have positive effects on each other1. For example, the
+  accumulation of nutrients, provision of shade, amelioration of disturbance,
+  or protection from herbivores by some species can enhance the performance of
+  neighbouring species. Thus the notion that the distributions and abundances
+  of plant species are independent of other species may be inadequate as a
+  theoretical underpinning for understanding species coexistence and
+  diversity2. But there have been no large-scale experiments designed to
+  examine the generality of positive interactions in plant communities and
+  their importance relative to competition. Here we show that the biomass,
+  growth and reproduction of alpine plant species are higher when other plants
+  are nearby. In an experiment conducted in subalpine and alpine plant
+  communities with 115 species in 11 different mountain ranges, we find that
+  competition generally, but not exclusively, dominates interactions at lower
+  elevations where conditions are less physically stressful. In contrast, at
+  high elevations where abiotic stress is high the interactions among plants
+  are predominantly positive. Furthermore, across all high and low sites
+  positive interactions are more important at sites with low temperatures in
+  the early summer, but competition prevails at warmer sites.%
+    }
+    \field{issn}{1476-4687}
+    \field{number}{6891}
+    \field{pages}{844\bibrangedash 848}
+    \field{title}{Positive interactions among alpine plants increase with
+  stress}
+    \field{volume}{417}
+    \verb{file}
+    \verb Snapshot:/home/alba/Zotero/storage/B6C96HYA/nature00812.html:text/htm
+    \verb l
+    \endverb
+    \field{journaltitle}{Nature}
+    \field{annotation}{%
+    plant%
+    }
+    \field{month}{06}
+    \field{year}{2002}
+  \endentry
+
+  \entry{chamberlain_how_2014}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CSA}{%
+         family={Chamberlain},
+         familyi={C\bibinitperiod},
+         given={Scott\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BJL}{%
+         family={Bronstein},
+         familyi={B\bibinitperiod},
+         given={Judith\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=RJA}{%
+         family={Rudgers},
+         familyi={R\bibinitperiod},
+         given={Jennifer\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{interaction strength, Coefficient of variation, community context,
+  conditionality, distributed outcomes, meta-analysis}
+    \strng{namehash}{CSABJLRJA1}
+    \strng{fullhash}{CSABJLRJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    The net effects of interspecific species interactions on individuals and
+  populations vary in both sign (−, 0, +) and magnitude (strong to weak).
+  Interaction outcomes are context-dependent when the sign and/or magnitude
+  change as a function of the biotic or abiotic context. While context
+  dependency appears to be common, its distribution in nature is poorly
+  described. Here, we used meta-analysis to quantify variation in species
+  interaction outcomes (competition, mutualism, or predation) for 247 published
+  articles. Contrary to our expectations, variation in the magnitude of effect
+  sizes did not differ among species interactions, and while mutualism was most
+  likely to change sign across contexts (and predation least likely), mutualism
+  did not strongly differ from competition. Both the magnitude and sign of
+  species interactions varied the most along spatial and abiotic gradients, and
+  least as a function of the presence/absence of a third species. However, the
+  degree of context dependency across these context types was not consistent
+  among mutualism, competition and predation studies. Surprisingly, study
+  location and ecosystem type varied in the degree of context dependency, with
+  laboratory studies showing the highest variation in outcomes. We urge that
+  studying context dependency per se, rather than focusing only on mean
+  outcomes, can provide a general method for describing patterns of variation
+  in nature.%
+    }
+    \field{issn}{1461-0248}
+    \field{number}{7}
+    \field{pages}{881\bibrangedash 890}
+    \field{title}{How context dependent are species interactions?}
+    \field{volume}{17}
+    \verb{file}
+    \verb Full Text PDF:/home/alba/Zotero/storage/I4EYKKKP/Chamberlain et al. -
+    \verb  2014 - How context dependent are species interactions.pdf:applicatio
+    \verb n/pdf;Snapshot:/home/alba/Zotero/storage/D6PYS4JW/ele.html:text/html
+    \endverb
+    \field{journaltitle}{Ecology Letters}
+    \field{annotation}{%
+    species%
+    }
+    \field{year}{2014}
+  \endentry
+
+  \entry{chesson2000mechanisms}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CP}{%
+         family={Chesson},
+         familyi={C\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Annual Reviews}%
+    }
+    \strng{namehash}{CP1}
+    \strng{fullhash}{CP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1}
+    \field{pages}{343\bibrangedash 366}
+    \field{title}{Mechanisms of maintenance of species diversity}
+    \field{volume}{31}
+    \field{journaltitle}{Annual review of Ecology and Systematics}
+    \field{year}{2000}
+  \endentry
+
+  \entry{connallon_evolutionary_2019}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CT}{%
+         family={Connallon},
+         familyi={C\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Sharma},
+         familyi={S\bibinitperiod},
+         given={Shefali},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=OC}{%
+         family={Olito},
+         familyi={O\bibinitperiod},
+         given={Colin},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CTSSOC1}
+    \strng{fullhash}{CTSSOC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    The evolutionary trajectories of species with separate sexes depend on the
+  effects of genetic variation on female and male traits as well as the
+  direction and alignment of selection between the sexes. Classical theory has
+  shown that evolution is equally responsive to selection on females and males,
+  with natural selection increasing the product of the average relative fitness
+  of each sex over time. This simple rule underlies several important
+  predictions regarding the maintenance of genetic variation, the genetic basis
+  of adaptation, and the dynamics of “sexually antagonistic” alleles.
+  Nevertheless, theories of sex-specific selection overwhelmingly focus on
+  evolution in constant environments, and it remains unclear whether they apply
+  under changing conditions. We derived four simple models of sex-specific
+  selection in variable environments and explored how conditions of population
+  subdivision, the timing of dispersal, sex differences in dispersal, and the
+  nature of environmental change mediate the evolutionary dynamics of
+  sex-specific adaptation. We find that these dynamics are acutely sensitive to
+  ecological, demographic, and life-history attributes that vary widely among
+  species, with classical predictions breaking down in contexts of
+  environmental heterogeneity. The evolutionary rules governing sex-specific
+  adaptation may therefore differ between species, suggesting new avenues for
+  research on the evolution of sexual dimorphism.%
+    }
+    \field{issn}{0003-0147}
+    \field{number}{1}
+    \field{pages}{93\bibrangedash 105}
+    \field{shorttitle}{Evolutionary {Consequences} of {Sex}-{Specific}
+  {Selection} in {Variable} {Environments}}
+    \field{title}{Evolutionary {Consequences} of {Sex}-{Specific} {Selection}
+  in {Variable} {Environments}: {Four} {Simple} {Models} {Reveal} {Diverse}
+  {Evolutionary} {Outcomes}}
+    \field{volume}{193}
+    \verb{file}
+    \verb Full Text PDF:/home/alba/Zotero/storage/N9F6P8EK/Connallon et al. - 2
+    \verb 019 - Evolutionary Consequences of Sex-Specific Selectio.pdf:applicat
+    \verb ion/pdf;Snapshot:/home/alba/Zotero/storage/5RJ7FFHR/700720.html:text/
+    \verb html
+    \endverb
+    \field{journaltitle}{The American Naturalist}
+    \field{month}{01}
+    \field{year}{2019}
+  \endentry
+
+  \entry{d2018translucent}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DR}{%
+         family={D'Andrea},
+         familyi={D\bibinitperiod},
+         given={Rafael},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=OA}{%
+         family={Ostling},
+         familyi={O\bibinitperiod},
+         given={Annette},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=OJP}{%
+         family={O'Dwyer},
+         familyi={O\bibinitperiod},
+         given={James\bibnamedelima P},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{DROAOJP1}
+    \strng{fullhash}{DROAOJP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{6}
+    \field{pages}{826\bibrangedash 835}
+    \field{title}{Translucent windows: How uncertainty in competitive
+  interactions impacts detection of community pattern}
+    \field{volume}{21}
+    \field{journaltitle}{Ecology Letters}
+    \field{year}{2018}
+  \endentry
+
+  \entry{dean2005protecting}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DAM}{%
+         family={Dean},
+         familyi={D\bibinitperiod},
+         given={Antony\bibnamedelima M},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{DAM1}
+    \strng{fullhash}{DAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{2}
+    \field{pages}{1147\bibrangedash 1156}
+    \field{title}{Protecting haploid polymorphisms in temporally variable
+  environments}
+    \field{volume}{169}
+    \field{journaltitle}{Genetics}
+    \field{year}{2005}
+  \endentry
+
+  \entry{ellner1994role}{article}{}
+    \name{author}{2}{}{%
+      {{hash=ES}{%
+         family={Ellner},
+         familyi={E\bibinitperiod},
+         given={Stephen},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HJNG}{%
+         family={Hairston\bibnamedelima Jr},
+         familyi={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+         given={Nelson\bibnamedelima G},
+         giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Chicago Press}%
+    }
+    \strng{namehash}{ESHJNG1}
+    \strng{fullhash}{ESHJNG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{3}
+    \field{pages}{403\bibrangedash 417}
+    \field{title}{Role of overlapping generations in maintaining genetic
+  variation in a fluctuating environment}
+    \field{volume}{143}
+    \field{journaltitle}{The American Naturalist}
+    \field{year}{1994}
   \endentry
 
   \entry{evans2013simple}{article}{}
@@ -376,6 +904,116 @@
     \field{year}{2013}
   \endentry
 
+  \entry{freckleton2009measuring}{article}{}
+    \name{author}{3}{}{%
+      {{hash=FRP}{%
+         family={Freckleton},
+         familyi={F\bibinitperiod},
+         given={Robert\bibnamedelima P},
+         giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=WAR}{%
+         family={Watkinson},
+         familyi={W\bibinitperiod},
+         given={Andrew\bibnamedelima R},
+         giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Rees},
+         familyi={R\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{FRPWARRM1}
+    \strng{fullhash}{FRPWARRM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{3}
+    \field{pages}{379\bibrangedash 384}
+    \field{title}{Measuring the importance of competition in plant communities}
+    \field{volume}{97}
+    \field{journaltitle}{Journal of ecology}
+    \field{year}{2009}
+  \endentry
+
+  \entry{hastings2007ecosystem}{article}{}
+    \name{author}{8}{}{%
+      {{hash=HA}{%
+         family={Hastings},
+         familyi={H\bibinitperiod},
+         given={Alan},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BJE}{%
+         family={Byers},
+         familyi={B\bibinitperiod},
+         given={James\bibnamedelima E},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=CJA}{%
+         family={Crooks},
+         familyi={C\bibinitperiod},
+         given={Jeffrey\bibnamedelima A},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CK}{%
+         family={Cuddington},
+         familyi={C\bibinitperiod},
+         given={Kim},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=JCG}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={Clive\bibnamedelima G},
+         giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=LJG}{%
+         family={Lambrinos},
+         familyi={L\bibinitperiod},
+         given={John\bibnamedelima G},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=TTS}{%
+         family={Talley},
+         familyi={T\bibinitperiod},
+         given={Theresa\bibnamedelima S},
+         giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=WWG}{%
+         family={Wilson},
+         familyi={W\bibinitperiod},
+         given={William\bibnamedelima G},
+         giveni={W\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{HA+1}
+    \strng{fullhash}{HABJECJACKJCGLJGTTSWWG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{2}
+    \field{pages}{153\bibrangedash 164}
+    \field{title}{Ecosystem engineering in space and time}
+    \field{volume}{10}
+    \field{journaltitle}{Ecology letters}
+    \field{year}{2007}
+  \endentry
+
   \entry{holling1966strategy}{article}{}
     \name{author}{1}{}{%
       {{hash=HCS}{%
@@ -442,6 +1080,139 @@
     \field{year}{2019}
   \endentry
 
+  \entry{kneitel2004trade}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KJM}{%
+         family={Kneitel},
+         familyi={K\bibinitperiod},
+         given={Jamie\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CJM}{%
+         family={Chase},
+         familyi={C\bibinitperiod},
+         given={Jonathan\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{KJMCJM1}
+    \strng{fullhash}{KJMCJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{1}
+    \field{pages}{69\bibrangedash 80}
+    \field{title}{Trade-offs in community ecology: linking spatial scales and
+  species coexistence}
+    \field{volume}{7}
+    \field{journaltitle}{Ecology letters}
+    \field{year}{2004}
+  \endentry
+
+  \entry{kylafis2008ecological}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KG}{%
+         family={Kylafis},
+         familyi={K\bibinitperiod},
+         given={Grigoris},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Loreau},
+         familyi={L\bibinitperiod},
+         given={Michel},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{KGLM1}
+    \strng{fullhash}{KGLM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{10}
+    \field{pages}{1072\bibrangedash 1081}
+    \field{title}{Ecological and evolutionary consequences of niche
+  construction for its agent}
+    \field{volume}{11}
+    \field{journaltitle}{Ecology letters}
+    \field{year}{2008}
+  \endentry
+
+  \entry{kylafis_niche_2011}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KG}{%
+         family={Kylafis},
+         familyi={K\bibinitperiod},
+         given={Grigoris},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Loreau},
+         familyi={L\bibinitperiod},
+         given={Michel},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{KGLM1}
+    \strng{fullhash}{KGLM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{abstract}{%
+    Ecological niche construction, the process whereby an organism improves its
+  environment to enhance its growth and persistence, is an important missing
+  element of niche theory. Niche theory has mainly focused on
+  niche-deteriorating processes, such as resource consumption, predation and
+  competition, which have negative effects on population growth. Here, we
+  integrate niche construction explicitly into modern niche theory. We use a
+  graphical approach to analyse how a speciesÕ niche-improving impacts
+  interplay with nichedeteriorating impacts to modify its response to the
+  environment. In a model of two consumers that compete for one limiting
+  resource and one predator, we show how niche construction modiﬁes the
+  traditional nichedeteriorating impacts of its agent or of competing species,
+  and hence the potential for species coexistence. By altering the balance
+  between intraspeciﬁc and interspeciﬁc competitive effects, niche
+  construction can either generate net interspeciﬁc facilitation or
+  strengthen interspeciﬁc competition. The adaptive beneﬁt derived from
+  niche construction also strongly affects the realized niche of a
+  niche-constructing species.%
+    }
+    \field{issn}{1461023X}
+    \field{number}{2}
+    \field{pages}{82\bibrangedash 90}
+    \field{shorttitle}{Niche construction in the light of niche theory}
+    \field{title}{Niche construction in the light of niche theory: {Niche}
+  construction in light of niche theory}
+    \field{volume}{14}
+    \verb{file}
+    \verb Kylafis and Loreau - 2011 - Niche construction in the light of niche
+    \verb theory N.pdf:/home/alba/Zotero/storage/5RSJWA4W/Kylafis and Loreau -
+    \verb 2011 - Niche construction in the light of niche theory N.pdf:applicat
+    \verb ion/pdf
+    \endverb
+    \field{journaltitle}{Ecology Letters}
+    \field{month}{02}
+    \field{year}{2011}
+  \endentry
+
   \entry{lai2020role}{article}{}
     \name{author}{4}{}{%
       {{hash=LHR}{%
@@ -480,13 +1251,51 @@
     \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
-    \verb{doi}
-    \verb https://doi.org/10.1101/2020.09.16.300616
-    \endverb
     \field{title}{The role of higher-order biotic interactions on tropical tree
   growth}
     \field{journaltitle}{bioRxiv}
     \field{year}{2020}
+  \endentry
+
+  \entry{laland1999evolutionary}{article}{}
+    \name{author}{3}{}{%
+      {{hash=LKN}{%
+         family={Laland},
+         familyi={L\bibinitperiod},
+         given={Kevin\bibnamedelima N},
+         giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=OSFJ}{%
+         family={Odling-Smee},
+         familyi={O\bibinithyphendelim S\bibinitperiod},
+         given={F\bibnamedelima John},
+         giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=FMW}{%
+         family={Feldman},
+         familyi={F\bibinitperiod},
+         given={Marcus\bibnamedelima W},
+         giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {National Acad Sciences}%
+    }
+    \strng{namehash}{LKNOSFJFMW1}
+    \strng{fullhash}{LKNOSFJFMW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{18}
+    \field{pages}{10242\bibrangedash 10247}
+    \field{title}{Evolutionary consequences of niche construction and their
+  implications for ecology}
+    \field{volume}{96}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences}
+    \field{year}{1999}
   \endentry
 
   \entry{lanuza_opposing_2018}{article}{}
@@ -541,18 +1350,12 @@
   landscapes through their opposing effects on the determinants of competitive
   outcomes.%
     }
-    \verb{doi}
-    \verb 10.1111/ele.12954
-    \endverb
     \field{issn}{1461-0248}
     \field{number}{6}
     \field{pages}{865\bibrangedash 874}
     \field{title}{Opposing effects of floral visitors and soil conditions on
   the determinants of competitive outcomes maintain species diversity in
   heterogeneous landscapes}
-    \verb{url}
-    \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.12954
-    \endverb
     \field{volume}{21}
     \verb{file}
     \verb Full Text PDF:/home/alba/Zotero/storage/6XWM4SKZ/Lanuza et al. - 2018
@@ -564,9 +1367,6 @@
     \endverb
     \field{journaltitle}{Ecology Letters}
     \field{year}{2018}
-    \field{urlday}{09}
-    \field{urlmonth}{05}
-    \field{urlyear}{2019}
   \endentry
 
   \entry{letten_mechanistic_2019}{article}{}
@@ -617,17 +1417,11 @@
   Consequently, there exists a strong mandate for further recognition of
   non-additive effects in both theoretical and empirical research.%
     }
-    \verb{doi}
-    \verb 10.1111/ele.13211
-    \endverb
     \field{issn}{1461-0248}
     \field{number}{3}
     \field{pages}{423\bibrangedash 436}
     \field{title}{The mechanistic basis for higher-order interactions and
   non-additivity in competitive communities}
-    \verb{url}
-    \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13211
-    \endverb
     \field{volume}{22}
     \verb{file}
     \verb Full Text PDF:/home/alba/Zotero/storage/49F9J42A/Letten and Stouffer
@@ -637,9 +1431,6 @@
     \endverb
     \field{journaltitle}{Ecology Letters}
     \field{year}{2019}
-    \field{urlday}{14}
-    \field{urlmonth}{03}
-    \field{urlyear}{2019}
   \endentry
 
   \entry{levine_beyond_2017}{article}{}
@@ -692,17 +1483,11 @@
   from the study of multitrophic interaction networks, and coupling empirical
   data to models of competition.%
     }
-    \verb{doi}
-    \verb 10.1038/nature22898
-    \endverb
     \field{issn}{1476-4687}
     \field{number}{7656}
     \field{pages}{56\bibrangedash 64}
     \field{title}{Beyond pairwise mechanisms of species coexistence in complex
   communities}
-    \verb{url}
-    \verb https://www.nature.com/articles/nature22898
-    \endverb
     \field{volume}{546}
     \verb{file}
     \verb Versión enviada:/home/alba/Zotero/storage/9TP3HPK7/Levine et al. - 2
@@ -716,9 +1501,6 @@
     }
     \field{month}{06}
     \field{year}{2017}
-    \field{urlday}{14}
-    \field{urlmonth}{03}
-    \field{urlyear}{2019}
   \endentry
 
   \entry{levins1993response}{article}{}
@@ -776,6 +1558,82 @@
     \field{volume}{21}
     \field{journaltitle}{Biology and Philosophy}
     \field{year}{2006}
+  \endentry
+
+  \entry{levins_dialectics_1980}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LR}{%
+         family={Levins},
+         familyi={L\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LR}{%
+         family={Lewontin},
+         familyi={L\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{Complex Interaction, Complex System, Data Reduction, Environmental
+  Protection, Relative Weight}
+    \strng{namehash}{LRLR1}
+    \strng{fullhash}{LRLR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{abstract}{%
+    ConclusionsBiology above the level of the individual organism —
+  population ecology and genetics, community ecology, biogeography and
+  evolution — requires the study of intrinsically complex systems. But the
+  dominant philosophies of western science have proven to be inadequate for the
+  study of complexity:(1) The reductionist myth of simplicity leads its
+  advocates to isolate parts as completely as possible and study these parts.
+  It underestimates the importance of interactions in theory, and its
+  recommendations for practice (in agricultural programs or conservation and
+  environmental protection) are typically thwarted by the power of indirect and
+  unanticipated causes rather than by error in the detailed description of
+  their own objects of study. (2) Reductionism ignores properties of complex
+  wholes; the effects of these properties are therefore seen only as noise;
+  this randomness is elevated into an ontological principle which leads to the
+  blocking of investigation and the reification of statistics, so that data
+  reduction and statistical prediction often pass for explanation. (3) The
+  faith in the atomistic nature of the world makes the allocation of relative
+  weights to separate causes the main object of science, and makes it more
+  difficult to study the nature of interconnectedness. Where simple behaviors
+  emerge out of complex interactions, it takes that simplicity to deny the
+  complexity; where the behavior is bewilderingly complex it reifies its own
+  confusion into a denial of regularity.Both the internal theoretical needs of
+  ecology and the social demands that it inform our planned interactions with
+  nature require an ecology that makes the understanding of complexity the
+  central problem: it must cope with interdependence and relative autonomy,
+  with similarity and difference, with the general and the particular, with
+  chance and necessity, with equilbrium and change, with continuity and
+  discontinuity, with contradictory processes. It must become increasingly
+  self-conscious of its own philosophy, and that philosophy will be effective
+  to the extent that it becomes not only materialist, but dialectical.%
+    }
+    \field{issn}{1573-0964}
+    \field{number}{1}
+    \field{pages}{47\bibrangedash 78}
+    \field{title}{Dialectics and reductionism in ecology}
+    \field{volume}{43}
+    \verb{file}
+    \verb Springer Full Text PDF:/home/alba/Zotero/storage/JY3S3ENA/Levins and
+    \verb Lewontin - 1980 - Dialectics and reductionism in ecology.pdf:applicat
+    \verb ion/pdf;Springer Full Text PDF:/home/alba/Zotero/storage/LQA2HSUW/Lev
+    \verb ins and Lewontin - 1980 - Dialectics and reductionism in ecology.pdf:
+    \verb application/pdf
+    \endverb
+    \field{journaltitle}{Synthese}
+    \field{month}{01}
+    \field{year}{1980}
   \endentry
 
   \entry{martyn2021identifying}{article}{}
@@ -1007,6 +1865,165 @@
     \field{year}{2018}
   \endentry
 
+  \entry{song_towards_2020}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SC}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Chuliang},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=VAS}{%
+         family={Von\bibnamedelima Ahn},
+         familyi={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+         given={Sarah},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=RRP}{%
+         family={Rohr},
+         familyi={R\bibinitperiod},
+         given={Rudolf\bibnamedelima P.},
+         giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Saavedra},
+         familyi={S\bibinitperiod},
+         given={Serguei},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{mutualism, structural stability, competition, environmental
+  variability, antagonism, context-dependency, interaction switches,
+  probability diagrams}
+    \strng{namehash}{SC+1}
+    \strng{fullhash}{SCVASRRPSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Observational and experimental studies have shown that an interaction class
+  between two species (be it mutualistic, competitive, antagonistic, or
+  neutral) may switch to a different class, depending on the biotic and abiotic
+  factors within which species are observed. This complexity arising from the
+  evidence of context-dependencies has underscored a difficulty in establishing
+  a systematic analysis about the extent to which species interactions are
+  expected to switch in nature and experiments. Here, we propose an overarching
+  theoretical framework, by integrating probabilistic and structural
+  approaches, to establish null expectations about switches of interaction
+  classes across environmental contexts. This integration provides a systematic
+  platform upon which it is possible to establish new hypotheses, clear
+  predictions, and quantifiable expectations about the context-dependency of
+  species interactions.%
+    }
+    \field{issn}{0169-5347}
+    \field{title}{Towards a {Probabilistic} {Understanding} {About} the
+  {Context}-{Dependency} of {Species} {Interactions}}
+    \verb{file}
+    \verb ScienceDirect Snapshot:/home/alba/Zotero/storage/ELWCHS7C/S0169534719
+    \verb 303568.html:text/html;ScienceDirect Full Text PDF:/home/alba/Zotero/s
+    \verb torage/6CTH3JJK/Song et al. - 2020 - Towards a Probabilistic Understa
+    \verb nding About the Co.pdf:application/pdf;Song et al. - 2020 - Towards a
+    \verb  Probabilistic Understanding About the Co.pdf:/home/alba/Zotero/stora
+    \verb ge/J6K35G6P/Song et al. - 2020 - Towards a Probabilistic Understandin
+    \verb g About the Co.pdf:application/pdf;ScienceDirect Snapshot:/home/alba/
+    \verb Zotero/storage/P9D3W356/S0169534719303568.html:text/html
+    \endverb
+    \field{journaltitle}{Trends in Ecology \& Evolution}
+    \field{annotation}{%
+    Context%
+    }
+    \field{month}{01}
+    \field{year}{2020}
+  \endentry
+
+  \entry{stouffer2021hidden}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SDB}{%
+         family={Stouffer},
+         familyi={S\bibinitperiod},
+         given={Daniel\bibnamedelima B},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Novak},
+         familyi={N\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{SDBNM1}
+    \strng{fullhash}{SDBNM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{520\bibrangedash 532}
+    \field{title}{Hidden layers of density dependence in consumer feeding
+  rates}
+    \field{volume}{24}
+    \field{journaltitle}{Ecology Letters}
+    \field{year}{2021}
+  \endentry
+
+  \entry{tylianakis2008global}{article}{}
+    \name{author}{4}{}{%
+      {{hash=TJM}{%
+         family={Tylianakis},
+         familyi={T\bibinitperiod},
+         given={Jason\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=DRK}{%
+         family={Didham},
+         familyi={D\bibinitperiod},
+         given={Raphael\bibnamedelima K},
+         giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bascompte},
+         familyi={B\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WDA}{%
+         family={Wardle},
+         familyi={W\bibinitperiod},
+         given={David\bibnamedelima A},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{TJM+1}
+    \strng{fullhash}{TJMDRKBJWDA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{12}
+    \field{pages}{1351\bibrangedash 1363}
+    \field{title}{Global change and species interactions in terrestrial
+  ecosystems}
+    \field{volume}{11}
+    \field{journaltitle}{Ecology letters}
+    \field{year}{2008}
+  \endentry
+
   \entry{vazquez2005interaction}{article}{}
     \name{author}{3}{}{%
       {{hash=VDP}{%
@@ -1129,16 +2146,10 @@
   ecological implications, given the key role of interaction strength for
   community stability.%
     }
-    \verb{doi}
-    \verb 10.1890/11-1356.1
-    \endverb
     \field{issn}{1939-9170}
     \field{number}{4}
     \field{pages}{719\bibrangedash 725}
     \field{title}{The strength of plant–pollinator interactions}
-    \verb{url}
-    \verb https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/11-1356.1
-    \endverb
     \field{volume}{93}
     \verb{file}
     \verb Full Text PDF:/home/alba/Zotero/storage/USJ7UPZR/Vázquez et al. - 20
@@ -1148,9 +2159,88 @@
     \endverb
     \field{journaltitle}{Ecology}
     \field{year}{2012}
-    \field{urlday}{14}
-    \field{urlmonth}{03}
-    \field{urlyear}{2019}
+  \endentry
+
+  \entry{weiss2021disentangling}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{10}{}{%
+      {{hash=WLCP}{%
+         family={Weiss-Lehman},
+         familyi={W\bibinithyphendelim L\bibinitperiod},
+         given={Christopher\bibnamedelima P},
+         giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=WCM}{%
+         family={Werner},
+         familyi={W\bibinitperiod},
+         given={Chhaya\bibnamedelima M},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BCH}{%
+         family={Bowler},
+         familyi={B\bibinitperiod},
+         given={Catherine\bibnamedelima H},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=HLM}{%
+         family={Hallett},
+         familyi={H\bibinitperiod},
+         given={Lauren\bibnamedelima M},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MMM}{%
+         family={Mayfield},
+         familyi={M\bibinitperiod},
+         given={Margaret\bibnamedelima M},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=GO}{%
+         family={Godoy},
+         familyi={G\bibinitperiod},
+         given={Oscar},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=AL}{%
+         family={Aoyama},
+         familyi={A\bibinitperiod},
+         given={Lina},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=BG}{%
+         family={Barab{\'a}s},
+         familyi={B\bibinitperiod},
+         given={Gy{\"o}rgy},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Chu},
+         familyi={C\bibinitperiod},
+         given={Chengjin},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LE}{%
+         family={Ladouceur},
+         familyi={L\bibinitperiod},
+         given={Emma},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cold Spring Harbor Laboratory}%
+    }
+    \strng{namehash}{WLCP+1}
+    \strng{fullhash}{WLCPWCMBCHHLMMMMGOALBGCCLE+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Disentangling key species interactions in diverse and
+  heterogeneous communities: A Bayesian sparse modeling approach}
+    \field{journaltitle}{bioRxiv}
+    \field{year}{2021}
   \endentry
 \enddatalist
 \endinput
