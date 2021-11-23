@@ -59,3 +59,5 @@
 \contentsline {figure}{\numberline {6.1}{\ignorespaces Posterior distribution of $\epsilon $ parameters from Eq.~\ref {energy}. Each parameter estimates the mean energetic gain per visit (in kilojoules), per flower type. We have also indicated the maximum gains per visit of the different flower types with an x. \relax }}{92}{figure.caption.17}%
 \defcounter {refsection}{6}\relax 
 \contentsline {figure}{\numberline {6.2}{\ignorespaces Relationship between the total number of visits made by an individual bee and its total energy gains during an experiment trial. In the top panel, the total energy consumed per trial is clearly an increasing function of the number of floral visits an individual makes during the trial. Each point corresponds to observations at the individual level. In the bottom panel, we show the same relationship with log-log axes. \relax }}{93}{figure.caption.18}%
+\defcounter {refsection}{7}\relax 
+\ttl@tocsep 

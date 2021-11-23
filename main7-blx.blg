@@ -1,23 +1,7 @@
 This is BibTeX, Version 0.99d (TeX Live 2020)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: main.aux
+The top-level auxiliary file: main7-blx.aux
 The style file: biblatex.bst
-A level-1 auxiliary file: FrontBackMatter/Titlepage.aux
-A level-1 auxiliary file: FrontBackMatter/Titleback.aux
-A level-1 auxiliary file: FrontBackMatter/Dedication.aux
-A level-1 auxiliary file: FrontBackMatter/Abstract.aux
-A level-1 auxiliary file: FrontBackMatter/Publications.aux
-A level-1 auxiliary file: FrontBackMatter/Declaration.aux
-A level-1 auxiliary file: FrontBackMatter/Acknowledgments.aux
-A level-1 auxiliary file: FrontBackMatter/Contents.aux
-A level-1 auxiliary file: Chapters/Introduction.aux
-A level-1 auxiliary file: Chapters/Bee_foraging.aux
-A level-1 auxiliary file: Chapters/Bayesian_competition.aux
-A level-1 auxiliary file: Chapters/Coexistence_alleles.aux
-A level-1 auxiliary file: Chapters/Discussion.aux
-A level-1 auxiliary file: Chapters/Appendix_A.aux
-A level-1 auxiliary file: Chapters/Appendix_B.aux
-A level-1 auxiliary file: FrontBackMatter/Colophon.aux
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
@@ -40,7 +24,7 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 1 entry,
             6365 wiz_defined-function locations,
-            1209 strings with 9337 characters,
+            1193 strings with 8893 characters,
 and the built_in function-call counts, 1557 in all, are:
 = -- 73
 > -- 73

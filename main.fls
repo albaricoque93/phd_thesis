@@ -306,6 +306,8 @@ INPUT Chapters/Discussion.aux
 INPUT Chapters/Discussion.aux
 INPUT Chapters/Appendix_A.aux
 INPUT Chapters/Appendix_A.aux
+INPUT Chapters/Appendix_B.aux
+INPUT Chapters/Appendix_B.aux
 INPUT FrontBackMatter/Colophon.aux
 INPUT FrontBackMatter/Colophon.aux
 OUTPUT main.aux
@@ -370,6 +372,9 @@ INPUT main5-blx.bbl
 INPUT main6-blx.bbl
 INPUT main6-blx.bbl
 INPUT main6-blx.bbl
+INPUT main7-blx.bbl
+INPUT main7-blx.bbl
+INPUT main7-blx.bbl
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 OUTPUT FrontBackMatter/Titlepage.aux
@@ -671,6 +676,11 @@ INPUT ./figures/appendixA_fig2.pdf
 INPUT ./figures/appendixA_fig2.pdf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/vf/public/mathpazo/zplmr7m.vf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+OUTPUT Chapters/Appendix_B.aux
+INPUT Chapters/Appendix_B.tex
+INPUT Chapters/Appendix_B.tex
+INPUT main7-blx.aux
+OUTPUT main7-blx.aux
 OUTPUT FrontBackMatter/Colophon.aux
 INPUT FrontBackMatter/Colophon.tex
 INPUT FrontBackMatter/Colophon.tex
@@ -708,6 +718,8 @@ INPUT Chapters/Discussion.aux
 INPUT Chapters/Discussion.aux
 INPUT Chapters/Appendix_A.aux
 INPUT Chapters/Appendix_A.aux
+INPUT Chapters/Appendix_B.aux
+INPUT Chapters/Appendix_B.aux
 INPUT FrontBackMatter/Colophon.aux
 INPUT FrontBackMatter/Colophon.aux
 INPUT ./main.out

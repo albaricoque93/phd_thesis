@@ -51,6 +51,7 @@
       <file>main4-blx.aux</file>
       <file>main5-blx.aux</file>
       <file>main6-blx.aux</file>
+      <file>main7-blx.aux</file>
       <file>main-blx.bib</file>
     </provides>
     <requires type="dynamic">
@@ -61,6 +62,7 @@
       <file>main4-blx.bbl</file>
       <file>main5-blx.bbl</file>
       <file>main6-blx.bbl</file>
+      <file>main7-blx.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -265,6 +267,34 @@
     </provides>
     <requires type="dynamic">
       <file>main6-blx.aux</file>
+      <file>main-blx.bib</file>
+    </requires>
+    <requires type="editable">
+      <file>Bibliography</file>
+    </requires>
+    <requires type="static">
+      <file>biblatex.bst</file>
+    </requires>
+  </external>
+  <external package="biblatex" priority="5" active="0">
+    <generic>bibtex</generic>
+    <cmdline>
+      <binary>bibtex8</binary>
+      <option>--wolfgang</option>
+      <option>--min_crossrefs 2</option>
+      <infile>main7-blx</infile>
+    </cmdline>
+    <input>
+      <file>main7-blx.aux</file>
+    </input>
+    <output>
+      <file>main7-blx.bbl</file>
+    </output>
+    <provides type="dynamic">
+      <file>main7-blx.bbl</file>
+    </provides>
+    <requires type="dynamic">
+      <file>main7-blx.aux</file>
       <file>main-blx.bib</file>
     </requires>
     <requires type="editable">

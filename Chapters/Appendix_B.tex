@@ -1,0 +1,115 @@
+\begin{refsection}
+\chapter{Appendix B} % Main chapter title
+\label{appendix_B}
+
+
+\section*{The biologically-constrained feasibility domain, $\beta$}
+We used Monte-Carlo integration methods to estimate the size of the biologically-constrained feasibility domain ($\beta$); that is, the area where both species can have positive abundances given competitive, abundance, and model-based constraints. We performed this integration on the growth-rate parameter space. First, we determined the maximum possible value of the radius ($R$) to integrate over given the abundance constraints under consideration. To do this, we first defined a radius $R$,  as a function of both species' intrinsic growth rates:
+\begin{equation}
+  R = \sqrt{r_{i}^{2} + r_{j}^{2}} \,,
+\end{equation}
+where  $r_{i}$ and $r_{j}$ are the growth rates of species $i$ and $j$ defined by each model, respectively. We know that, for all of the models used, the vector of species growth rates can be expressed as a linear function of species densities such that:
+\begin{equation}
+\begin{bmatrix}
+r_{i} \\
+r_{j}
+\end{bmatrix} =
+\begin{bmatrix}
+\alpha_{ii} & \alpha_{ij} \\
+\alpha_{ji} & \alpha_{jj}
+\end{bmatrix}
+\begin{bmatrix}
+g_{i}N_{i}^{*}\\ g_{j}N_{j}^{*}
+\end{bmatrix} \,,
+\end{equation}
+where the elements of the interaction matrix denote the change in per capita growth rate of species $i$ under a small change in the density of species $j$, and $g_{i}N_{i}^{*}$ and $g_{j}N_{j}^{*}$ define the vector of abundances for species $i$ and $j$. Species growth rates can therefore be expressed as:
+\begin{eqnarray}
+  r_{i} = \alpha_{ii}g_{i}N_{i}^{*} + \alpha_{ij}g_{j}N_{j}^{*}\\
+  r_{j} = \alpha_{ji}g_{i}N_{i}^{*} +\alpha_{jj}g_{j}N_{j}^{*}
+\end{eqnarray}
+
+We must therefore find the maximum value of R given constraints on the maximum abundance of species $i$ ($g_{i}N_{i,max}^{*}$) and of species $j$ ($g_{j}N_{j,max}^{*}$). In the following sections, we show 9 scenarios that describe all the possible values $R$ can take under such constraints, and how to determine if they can be a maximum.
+
+\subsection*{Scenario 1: Both species are absent}
+
+If both $g_{i}N_{i}^{*}$ and $g_{j}N_{j}^{*}$ have a value of zero, then $R = 0$.
+
+\subsection*{Scenario 2: Species $i$ is at its maximum abundance and species $j$ is absent}
+
+Then, the value of $R$ is:
+\begin{equation}
+R = \sqrt{ (\alpha_{ii}g_{i}N_{i,max}^{*})^{2} + (\alpha_{ji}g_{i}N_{i,max}^{*})^{2} }.
+\label{scenario2}
+\end{equation}
+
+\subsection*{Scenario 3: Species $i$ is absent and species $j$ is at its maximum abundance}
+
+Then the value of $R$ is:
+\begin{equation}
+R = \sqrt{ (\alpha_{ij}g_{j}N_{j,max}^{*})^{2} + (\alpha_{jj}g_{j}N_{j,max}^{*})^{2} }.
+\label{scenario3}
+\end{equation}
+
+
+\subsection*{Scenario 4: Both species are at their maximum abundance}
+If both species are at their maximum abundance then:
+\begin{equation}
+\label{scenario4}
+R = \sqrt{ (\alpha_{ii}g_{i}N_{i,max}^{*} +\alpha_{ij}g_{j}N_{j,max}^{*})^{2} + ( \alpha_{ji}g_{i}N_{i,max}^{*}+ \alpha_{jj}g_{j}N_{j,max}^{*})^{2} }.
+\end{equation}
+
+\subsection*{Scenario 5: Species $j$ is absent }
+
+%DBS: The below is not looking for fixed points. It should be looking for maxima. We need to rephrase.
+When species $j$ is absent, then:
+\begin{equation}
+  R = \sqrt{ (\alpha_{ii}g_{i}N_{i}^{*})^{2} + (\alpha_{ji}g_{i}N_{i}^{*})^{2}  }
+\end{equation}
+To find the maximum, for mathematical simplicity we can differentiate $R^{2}$:
+\begin{equation}
+  \frac{\partial R^{2}}{\partial g_{i}N_{i}^{*}} = \alpha_{ii}^{2}2g_{i}N_{i}^{*} + \alpha_{ji}^{2}2g_{i}N_{i}^{*} \,,
+\end{equation}
+and the value of $g_{i}N_{i}^{*}$ that corresponds to a maximum:
+\begin{eqnarray}
+  \alpha_{ii}^{2}2g_{i}N_{i}^{*} + \alpha_{ji}^{2}2g_{i}N_{i}^{*}  = 0 \\
+  g_{i}N_{i}^{*} (2\alpha_{ii}^{2} +  2\alpha_{ji}^{2}) = 0 \\
+  g_{i}N_{i}^{*}= 0
+\end{eqnarray}
+which inevitably implies $R = 0$. Thus when species $j$ is absent, the maximum of $R$ is at cero and the maximum value of $R$ is at the boundary of the constraints.
+
+
+
+\subsection*{Scenario 6: Species $i$ is absent }
+By symmetry, when species $i$ is absent, the maximum value of $R$ is  at the boundary of the constraints.
+
+\subsection*{Scenario 7: Species $j$ is at its maximum abundance }
+We can redefine $R^{2}$ as:
+\begin{equation}
+   R^2 = (\alpha_{ii}g_{i}N_{i}^{*} + \alpha_{ij}g_{j}N_{j,max}^{*} )^2 + (\alpha_{ji}g_{i}N_{i}^{*} + \alpha_{jj}g_{j}N_{j,max}^{*} )^2 \,,
+\end{equation}
+and find the value of $g_{i}N_{i}^{*}$ where there is a maixmum of $R$:
+\begin{eqnarray}
+  \frac{\partial R^{2}}{\partial g_{i}N_{i}^{*}}= 0 = \alpha_{ii}^{2}2g_{i}N_{i}^{*}  +2\alpha_{ii}\alpha_{ij}g_{j}N_{j,max}^{*} +  \alpha_{ji}^{2}2g_{i}N_{i}^{*} + 2\alpha_{ji}\alpha_{jj}g_{j}N_{j,max}^{*}\\
+  g_{i}N_{i}^{*} = \frac{- \alpha_{ii}\alpha_{ij}g_{j}N_{j,max}^{*} - \alpha_{ji}\alpha_{jj}g_{j}N_{j,max}^{*}}{\alpha_{ii}^2 + \alpha_{ji}^2} \,.
+\end{eqnarray}
+
+Then the value of $R$ that corresponds to this scenario is:
+\begin{equation}
+\label{scenario7}
+  R = \sqrt{(\frac{- \alpha_{ii}\alpha_{ij}g_{j}N_{j,max}^{*} - \alpha_{ji}\alpha_{jj}g_{j}N_{j}^{*}}{\alpha_{ii}^2 + \alpha_{ji}^2}\alpha_{ii} + \alpha_{ij}g_{j}N_{j,max}^{*} )^2 + (\frac{- \alpha_{ii}\alpha_{ij}g_{j}N_{j,max}^{*} - \alpha_{ji}\alpha_{jj}g_{j}N_{j,max}^{*}}{\alpha_{ii}^2 + \alpha_{ji}^2}\alpha_{ji} + \alpha_{jj}g_{j}N_{j,max}^{*} )^2} \,.
+\end{equation}
+
+
+\subsection*{Scenario 8: Species $i$ is at its maximum abundance}
+
+Similar to the previous scenario, the value of $R$ that corresponds to this scenario is:
+\begin{equation}
+\label{scenario8}
+   R = \sqrt{(\alpha_{ii}g_{i}N_{i,max}^{*} + \frac{-\alpha_{ii}\alpha_{ij}g_{i}N_{i,max}^{*} - \alpha_{ji}\alpha_{jj}g_{i}N_{i,max}^{*}}{\alpha_{ij}^{2} + \alpha_{jj}^{2}}\alpha_{ij} )^2 + (\alpha_{ji}g_{i}N_{i,max}^{*} + \frac{-\alpha_{ii}\alpha_{ij}g_{i}N_{i,max}^{*} - \alpha_{ji}\alpha_{jj}g_{i}N_{i,max}^{*}}{\alpha_{ij}^{2} + \alpha_{jj}^{2}}\alpha_{jj} )^2} \,.
+\end{equation}
+
+
+\subsection*{Scenario 9: Neither species is at its maximum abundance}
+
+
+\end{refsection}
