@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  23 NOV 2021 20:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  23 NOV 2021 22:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1721,7 +1721,7 @@ it/9 P[] \OMS/zplm/m/n/9 ^^@ \OT1/pplx/m/n/9 1\OT1/zplm/m/n/9 ) + [] [] \OML/zp
 lm/m/it/9 c[]P[][]$  
  []
 
-<figures/chapter2_fig1.pdf, id=537, 397.485pt x 505.89pt>
+<figures/chapter2_fig1.pdf, id=543, 397.485pt x 505.89pt>
 File: figures/chapter2_fig1.pdf Graphic file (type pdf)
 <use figures/chapter2_fig1.pdf>
 Package pdftex.def Info: figures/chapter2_fig1.pdf  used on input line 56.
@@ -1751,7 +1751,7 @@ cri-te-rion (WAIC) showed
  []
 
 [29]
-<figures/chapter2_fig2.pdf, id=653, 540.0175pt x 505.89pt>
+<figures/chapter2_fig2.pdf, id=659, 540.0175pt x 505.89pt>
 File: figures/chapter2_fig2.pdf Graphic file (type pdf)
 <use figures/chapter2_fig2.pdf>
 Package pdftex.def Info: figures/chapter2_fig2.pdf  used on input line 191.
@@ -1761,7 +1761,7 @@ Overfull \vbox (5.00452pt too high) has occurred while \output is active []
 
 
 [31 <./figures/chapter2_fig2.pdf>]
-<figures/chapter2_fig3.pdf, id=681, 505.89pt x 505.89pt>
+<figures/chapter2_fig3.pdf, id=687, 505.89pt x 505.89pt>
 File: figures/chapter2_fig3.pdf Graphic file (type pdf)
 <use figures/chapter2_fig3.pdf>
 Package pdftex.def Info: figures/chapter2_fig3.pdf  used on input line 204.
@@ -1778,7 +1778,7 @@ Package epstopdf Info: Source file: <figures/chapter2_fig4.eps>
 converted-to.pdf figures/chapter2_fig4.eps>
 (epstopdf)             \includegraphics on input line 214.
 Package epstopdf Info: Output file is already uptodate.
-<figures/chapter2_fig4-eps-converted-to.pdf, id=686, 505.89pt x 349.305pt>
+<figures/chapter2_fig4-eps-converted-to.pdf, id=692, 505.89pt x 349.305pt>
 File: figures/chapter2_fig4-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/chapter2_fig4-eps-converted-to.pdf>
 Package pdftex.def Info: figures/chapter2_fig4-eps-converted-to.pdf  used on in
@@ -1825,8 +1825,31 @@ Chapter 3.
 
 
 ]
-Package biblatex Info: Reference section=0 on input line 7.
-) [45]
+Package biblatex Info: Reference section=0 on input line 13.
+ [45] [46] [47] [48] [49] [50]
+<figures/chapter3_fig1.pdf, id=971, 722.7pt x 216.81pt>
+File: figures/chapter3_fig1.pdf Graphic file (type pdf)
+<use figures/chapter3_fig1.pdf>
+Package pdftex.def Info: figures/chapter3_fig1.pdf  used on input line 122.
+(pdftex.def)             Requested size: 311.0pt x 93.29926pt.
+ [51 <./figures/chapter3_fig1.pdf>]
+<figures/chapter3_fig2.pdf, id=992, 578.16pt x 433.62pt>
+File: figures/chapter3_fig2.pdf Graphic file (type pdf)
+<use figures/chapter3_fig2.pdf>
+Package pdftex.def Info: figures/chapter3_fig2.pdf  used on input line 150.
+(pdftex.def)             Requested size: 342.1019pt x 256.57463pt.
+ [52]
+[53 <./figures/chapter3_fig2.pdf>] [54] [55]
+Overfull \hbox (7.66508pt too wide) detected at line 221
+[]
+ []
+
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 221--221
+[] 
+ []
+
+[56]) [57]
 \openout2 = `Chapters/Coexistence_alleles.aux'.
 
  (./Chapters/Coexistence_alleles.tex
@@ -1838,18 +1861,18 @@ Package biblatex Info: Reference section=4 on input line 1.
 Package biblatex Info: Setting label 'refsection:4' on input line 1.
 
 Chapter 4.
-[46
+[58
 
 
 
 
 ]
 Package biblatex Info: Reference section=0 on input line 7.
-) [47] [48
+) [59] [60
 
 
 
-] [49] [50]
+] [61] [62]
 \openout2 = `Chapters/Discussion.aux'.
 
  (./Chapters/Discussion.tex
@@ -1861,11 +1884,11 @@ Package biblatex Info: Reference section=5 on input line 1.
 Package biblatex Info: Setting label 'refsection:5' on input line 1.
 
 Chapter 5.
-[51
+[63
 
 
 
-] [52] [53] [54] [55] [56
+] [64] [65] [66] [67] [68
 
 
 ]
@@ -1880,15 +1903,15 @@ Overfull \hbox (6.58456pt too wide) in paragraph at lines 49--49
 er (2018). `  Translu-
  []
 
-[57] [58] [59]
+[69] [70] [71]
 Package biblatex Info: Reference section=0 on input line 49.
-) [60] [61
+) [72] [73
 
 
 
 
 
-] [62]
+] [74]
 \openout2 = `Chapters/Appendix_A.aux'.
 
  (./Chapters/Appendix_A.tex
@@ -1900,29 +1923,29 @@ Package biblatex Info: Reference section=6 on input line 1.
 Package biblatex Info: Setting label 'refsection:6' on input line 1.
 
 Chapter 6.
-[63
+[75
 
 
 
 ]
-<figures/appendixA_fig1.pdf, id=1017, 433.62pt x 271.0125pt>
+<figures/appendixA_fig1.pdf, id=1262, 433.62pt x 271.0125pt>
 File: figures/appendixA_fig1.pdf Graphic file (type pdf)
 <use figures/appendixA_fig1.pdf>
 Package pdftex.def Info: figures/appendixA_fig1.pdf  used on input line 43.
 (pdftex.def)             Requested size: 279.8981pt x 174.94438pt.
-<figures/appendixA_fig2.pdf, id=1020, 361.35pt x 578.16pt>
+<figures/appendixA_fig2.pdf, id=1265, 361.35pt x 578.16pt>
 File: figures/appendixA_fig2.pdf Graphic file (type pdf)
 <use figures/appendixA_fig2.pdf>
 Package pdftex.def Info: figures/appendixA_fig2.pdf  used on input line 50.
 (pdftex.def)             Requested size: 231.86421pt x 370.98407pt.
- [64 <./figures/appendixA_fig1.pdf>] [65 <./figures/appendixA_fig2.pdf>]
+ [76 <./figures/appendixA_fig1.pdf>] [77 <./figures/appendixA_fig2.pdf>]
 Overfull \hbox (11.99986pt too wide) in paragraph at lines 67--85
  [][] 
  []
 
-[66] [67] [68]
+[78] [79] [80]
 Package biblatex Info: Reference section=0 on input line 178.
-) [69] [70]
+) [81] [82]
 \openout2 = `FrontBackMatter/Colophon.aux'.
 
  (./FrontBackMatter/Colophon.tex
@@ -1944,7 +1967,7 @@ Overfull \hbox (4.51491pt too wide) in paragraph at lines 13--14
 look-and-feel \T1/fvm/m/n/9 classicthesis
  []
 
-) [71
+) [83
 
 
 
@@ -1970,34 +1993,185 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 160.
  ) 
 Here is how much of TeX's memory you used:
- 32359 strings out of 480608
- 603357 string characters out of 5903631
- 1374444 words of memory out of 5000000
- 46437 multiletter control sequences out of 15000+600000
- 689809 words of font info for 769 fonts, out of 8000000 for 9000
+ 32711 strings out of 480608
+ 612028 string characters out of 5903631
+ 1413357 words of memory out of 5000000
+ 46672 multiletter control sequences out of 15000+600000
+ 694939 words of font info for 795 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,22n,98p,10099b,3191s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{cite.6@edwards_revisiting_2007} has been referenc
 ed but does not exist, replaced by a fixed one
 
+pdfTeX warning (dest): name{cite.0@mcelreath_statistical_2018} has been referen
+ced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@towers2021variable} has been referenced but 
+does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@inouye_response_2001} has been referenced bu
+t does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@dwyer2015climate} has been referenced but do
+es not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@hart2018quantify} has been referenced but do
+es not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@ricker1954effects} has been referenced but d
+oes not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@martyn2021identifying} has been referenced b
+ut does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@song_towards_2020} has been referenced but d
+oes not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@song_guideline_2018} has been referenced but
+ does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@rohr_structural_2014} has been referenced bu
+t does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@saavedra2017structural} has been referenced 
+but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@letten_linking_2017} has been referenced but
+ does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@chesson_updates_2018} has been referenced bu
+t does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@chesson_general_2000} has been referenced bu
+t does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@barabas_chessons_2018} has been referenced b
+ut does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@godoy_phylogenetic_2014} has been referenced
+ but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@beverton1954notes} has been referenced but d
+oes not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@law_response-surface_1987} has been referenc
+ed but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@godwin2020empiricist} has been referenced bu
+t does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@watkinson_density-dependence_1980} has been 
+referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@cohen1966optimizing} has been referenced but
+ does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@mayfield2017higher} has been referenced but 
+does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@godoy_phenology_2014} has been referenced bu
+t does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@poggiale2010far} has been referenced but doe
+s not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@fussmann2005community} has been referenced b
+ut does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@wood1999super} has been referenced but does 
+not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@myerscough1996stability} has been referenced
+ but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@aldebert2018community} has been referenced b
+ut does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@jorgensen2001fundamentals} has been referenc
+ed but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@flora_structural_2011} has been referenced b
+ut does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@bimler_accurate_2018} has been referenced bu
+t does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@poorter1986growth} has been referenced but d
+oes not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@maestre2005change} has been referenced but d
+oes not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@maestre2009refining} has been referenced but
+ does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@callaway_positive_2002} has been referenced 
+but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@brooker2008facilitation} has been referenced
+ but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@chamberlain_how_2014} has been referenced bu
+t does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@zepeda2019fluctuation} has been referenced b
+ut does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@levine2009importance} has been referenced bu
+t does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@lai2020role} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@godoy2020excess} has been referenced but doe
+s not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@marquet2015importance} has been referenced b
+ut does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@bolker_ecological_2008} has been referenced 
+but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@case1999illustrated} has been referenced but
+ does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@adler2018competition} has been referenced bu
+t does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@villarreal2009species} has been referenced b
+ut does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@pickett1980non} has been referenced but does
+ not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@lanuza_opposing_2018} has been referenced bu
+t does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@dybzinski2007resource} has been referenced b
+ut does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.0@craine2013mechanisms} has been referenced bu
+t does not exist, replaced by a fixed one
+
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/tex
 live/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/local/texliv
 e/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texl
 ive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texli
-ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive
-/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
-2020/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/texliv
-e/2020/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/local/texlive/202
-0/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2020/te
-xmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2020/texmf-dist
-/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/
-type1/public/bera/fvmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/ur
-w/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palat
-ino/uplri8a.pfb>
-Output written on main.pdf (87 pages, 912478 bytes).
+ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texliv
+e/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/
+2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
+020/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/texlive
+/2020/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/local/texlive/2020
+/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2020/tex
+mf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2020/texmf-dist/
+fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/t
+ype1/public/bera/fvmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw
+/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palati
+no/uplri8a.pfb>
+Output written on main.pdf (99 pages, 1499335 bytes).
 PDF statistics:
- 1252 PDF objects out of 1440 (max. 8388607)
- 1102 compressed objects within 12 object streams
- 317 named destinations out of 1000 (max. 500000)
- 99516 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 1518 PDF objects out of 1728 (max. 8388607)
+ 1349 compressed objects within 14 object streams
+ 403 named destinations out of 1000 (max. 500000)
+ 99526 words of extra memory for PDF output out of 106986 (max. 10000000)
 

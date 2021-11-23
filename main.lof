@@ -35,6 +35,10 @@
 \ttl@tocsep 
 \defcounter {refsection}{3}\relax 
 \ttl@tocsep 
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Estimation of the biologically-constrained feasibility domain}}{51}{figure.caption.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Examples of how different values of the biologically--constrained feasibility domain ($\beta $), the area in monoculture ($\gamma $), and species growth rates ($r_i$ and $r_j$) determine the values of the relative coexistence ratio ($\rho $) and the minimum distance from the edge ($\delta $).}}{53}{figure.caption.8}%
 \defcounter {refsection}{4}\relax 
 \ttl@tocsep 
 \defcounter {refsection}{5}\relax 
@@ -44,6 +48,6 @@
 \defcounter {refsection}{6}\relax 
 \ttl@tocsep 
 \defcounter {refsection}{6}\relax 
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Posterior distribution of $\epsilon $ parameters from Eq.~\ref {energy}. Each parameter estimates the mean energetic gain per visit (in kilojoules), per flower type. We have also indicated the maximum gains per visit of the different flower types with an x. \relax }}{64}{figure.caption.8}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Posterior distribution of $\epsilon $ parameters from Eq.~\ref {energy}. Each parameter estimates the mean energetic gain per visit (in kilojoules), per flower type. We have also indicated the maximum gains per visit of the different flower types with an x. \relax }}{76}{figure.caption.11}%
 \defcounter {refsection}{6}\relax 
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Relationship between the total number of visits made by an individual bee and its total energy gains during an experiment trial. In the top panel, the total energy consumed per trial is clearly an increasing function of the number of floral visits an individual makes during the trial. Each point corresponds to observations at the individual level. In the bottom panel, we show the same relationship with log-log axes. \relax }}{65}{figure.caption.9}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Relationship between the total number of visits made by an individual bee and its total energy gains during an experiment trial. In the top panel, the total energy consumed per trial is clearly an increasing function of the number of floral visits an individual makes during the trial. Each point corresponds to observations at the individual level. In the bottom panel, we show the same relationship with log-log axes. \relax }}{77}{figure.caption.12}%
