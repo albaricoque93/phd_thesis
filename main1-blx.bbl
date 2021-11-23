@@ -2209,6 +2209,82 @@
     \field{year}{2006}
   \endentry
 
+  \entry{levins_dialectics_1980}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LR}{%
+         family={Levins},
+         familyi={L\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LR}{%
+         family={Lewontin},
+         familyi={L\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \keyw{Complex Interaction, Complex System, Data Reduction, Environmental
+  Protection, Relative Weight}
+    \strng{namehash}{LRLR1}
+    \strng{fullhash}{LRLR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{abstract}{%
+    ConclusionsBiology above the level of the individual organism —
+  population ecology and genetics, community ecology, biogeography and
+  evolution — requires the study of intrinsically complex systems. But the
+  dominant philosophies of western science have proven to be inadequate for the
+  study of complexity:(1) The reductionist myth of simplicity leads its
+  advocates to isolate parts as completely as possible and study these parts.
+  It underestimates the importance of interactions in theory, and its
+  recommendations for practice (in agricultural programs or conservation and
+  environmental protection) are typically thwarted by the power of indirect and
+  unanticipated causes rather than by error in the detailed description of
+  their own objects of study. (2) Reductionism ignores properties of complex
+  wholes; the effects of these properties are therefore seen only as noise;
+  this randomness is elevated into an ontological principle which leads to the
+  blocking of investigation and the reification of statistics, so that data
+  reduction and statistical prediction often pass for explanation. (3) The
+  faith in the atomistic nature of the world makes the allocation of relative
+  weights to separate causes the main object of science, and makes it more
+  difficult to study the nature of interconnectedness. Where simple behaviors
+  emerge out of complex interactions, it takes that simplicity to deny the
+  complexity; where the behavior is bewilderingly complex it reifies its own
+  confusion into a denial of regularity.Both the internal theoretical needs of
+  ecology and the social demands that it inform our planned interactions with
+  nature require an ecology that makes the understanding of complexity the
+  central problem: it must cope with interdependence and relative autonomy,
+  with similarity and difference, with the general and the particular, with
+  chance and necessity, with equilbrium and change, with continuity and
+  discontinuity, with contradictory processes. It must become increasingly
+  self-conscious of its own philosophy, and that philosophy will be effective
+  to the extent that it becomes not only materialist, but dialectical.%
+    }
+    \field{issn}{1573-0964}
+    \field{number}{1}
+    \field{pages}{47\bibrangedash 78}
+    \field{title}{Dialectics and reductionism in ecology}
+    \field{volume}{43}
+    \verb{file}
+    \verb Springer Full Text PDF:/home/alba/Zotero/storage/JY3S3ENA/Levins and
+    \verb Lewontin - 1980 - Dialectics and reductionism in ecology.pdf:applicat
+    \verb ion/pdf;Springer Full Text PDF:/home/alba/Zotero/storage/LQA2HSUW/Lev
+    \verb ins and Lewontin - 1980 - Dialectics and reductionism in ecology.pdf:
+    \verb application/pdf
+    \endverb
+    \field{journaltitle}{Synthese}
+    \field{month}{01}
+    \field{year}{1980}
+  \endentry
+
   \entry{lewontin1963models}{article}{}
     \name{author}{1}{}{%
       {{hash=LRC}{%

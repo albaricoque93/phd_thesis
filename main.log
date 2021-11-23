@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  23 NOV 2021 15:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  23 NOV 2021 16:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1294,11 +1294,11 @@ Package csquotes Info: Redefining alias 'default' -> 'british'.
  (./main.aux (./FrontBackMatter/Titlepage.aux) (./FrontBackMatter/Titleback.aux
 )
 (./FrontBackMatter/Dedication.aux) (./FrontBackMatter/Abstract.aux)
-(./FrontBackMatter/Publications.aux) (./FrontBackMatter/Acknowledgments.aux)
-(./FrontBackMatter/Contents.aux) (./Chapters/Introduction.aux)
-(./Chapters/Bee_foraging.aux) (./Chapters/Bayesian_competition.aux)
-(./Chapters/Coexistence_alleles.aux) (./Chapters/Discussion.aux)
-(./FrontBackMatter/Colophon.aux))
+(./FrontBackMatter/Publications.aux) (./FrontBackMatter/Declaration.aux)
+(./FrontBackMatter/Acknowledgments.aux) (./FrontBackMatter/Contents.aux)
+(./Chapters/Introduction.aux) (./Chapters/Bee_foraging.aux)
+(./Chapters/Bayesian_competition.aux) (./Chapters/Coexistence_alleles.aux)
+(./Chapters/Discussion.aux) (./FrontBackMatter/Colophon.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
@@ -1555,29 +1555,41 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 ]
+\openout2 = `FrontBackMatter/Declaration.aux'.
+
+ (./FrontBackMatter/Declaration.tex
+
+pdfTeX warning: pdflatex (file ./Chapters/declaration.pdf): PDF inclusion: foun
+d PDF version <1.7>, but at most version <1.5> allowed
+<Chapters/declaration.pdf, id=58, 702.625pt x 993.7125pt>
+File: Chapters/declaration.pdf Graphic file (type pdf)
+<use Chapters/declaration.pdf>
+Package pdftex.def Info: Chapters/declaration.pdf  used on input line 9.
+(pdftex.def)             Requested size: 311.0pt x 439.85802pt.
+) [9
+
+
+
+ <./Chapters/declaration.pdf>] [10
+
+
+
+]
 \openout2 = `FrontBackMatter/Acknowledgments.aux'.
 
+ (./FrontBackMatter/Acknowledgments.tex) [11
 
-(./FrontBackMatter/Acknowledgments.tex) [9
-
-] [10
+] [12
 
 
 
 ]
 \openout2 = `FrontBackMatter/Contents.aux'.
 
-
-(./FrontBackMatter/Contents.tex
+ (./FrontBackMatter/Contents.tex
 Package tocbasic Info: character protrusion at toc deactivated on input line 10
 .
- (./main.toc
-Overfull \hbox (8.4933pt too wide) in paragraph at lines 9--9
- [][] []\T1/pplj/m/sc/9/80ls (-20) the context-dependency of pol-li-na-tor in-t
-er-fer-ence []  
- []
-
-)
+ (./main.toc)
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
@@ -1586,7 +1598,7 @@ er-fer-ence []
 1: chapter
 1: chapter
 1: section
-[11
+[13
 
 
 
@@ -1597,7 +1609,7 @@ Package tocbasic Info: character protrusion at lof deactivated on input line 28
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
- [12
+ [14
 
 ]
 Package tocbasic Info: character protrusion at lot deactivated on input line 39
@@ -1606,7 +1618,7 @@ Package tocbasic Info: character protrusion at lot deactivated on input line 39
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
- [13]) [14
+ [15]) [16
 
 
 
@@ -1622,6 +1634,8 @@ Package biblatex Info: Reference section=1 on input line 1.
 Package biblatex Info: Setting label 'refsection:1' on input line 1.
 
 Chapter 1.
+LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <9> not available
+(Font)              Font shape `T1/pplj/m/it' tried instead on input line 4.
 [1
 
 
@@ -1638,32 +1652,32 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplj/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Overfull \hbox (4.62468pt too wide) in paragraph at lines 42--42
+Overfull \hbox (4.62468pt too wide) in paragraph at lines 51--51
 \T1/pplj/m/n/10 (-20) Quinones (2011). \T1/pplj/m/it/10 (-20) Sta-tis-ti-cal co
 n-trol by mon-i-tor-ing and ad-just-ment\T1/pplj/m/n/10 (-20) . Vol. 700.
  []
 
 [7]
-Overfull \hbox (6.58456pt too wide) in paragraph at lines 42--42
+Overfull \hbox (6.58456pt too wide) in paragraph at lines 51--51
 [][]\T1/pplj/m/n/10 (-20) D'Andrea, Rafael, An-nette Ostling, and James P O'Dwy
 er (2018). `  Translu-
  []
 
 [8] [9] [10] [11]
 LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 
-41.
+50.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 )
-Overfull \hbox (24.65872pt too wide) in paragraph at lines 42--42
+Overfull \hbox (24.65872pt too wide) in paragraph at lines 51--51
 \T1/pplj/m/it/10 (-20) Cur-rent Opin-ion in In-sect Sci-ence\T1/pplj/m/n/10 (-2
 0) . Ecol-ogy \TS1/pplj/m/n/10 ˆ \T1/pplj/m/n/10 (-20) Par-a-sites/Parasitoids/
 Biological
  []
 
 [12]
-Package biblatex Info: Reference section=0 on input line 42.
+Package biblatex Info: Reference section=0 on input line 51.
 ) [13]
 \openout2 = `Chapters/Bee_foraging.aux'.
 
@@ -1681,9 +1695,29 @@ Chapter 2.
 
 
 
-]
-Package biblatex Info: Reference section=0 on input line 7.
-) [15]
+] [15]
+
+LaTeX Warning: Citation 'briggs_variation_2018' on page 16 undefined on input l
+ine 20.
+
+
+Package scrlayer-scrpage Warning: \headheight to low.
+(scrlayer-scrpage)                At least 34.65009pt needed,
+(scrlayer-scrpage)                but only 15.0pt found.
+(scrlayer-scrpage)                I'll enlarge \headheight, for further
+(scrlayer-scrpage)                processing, but you should do this yourself,
+(scrlayer-scrpage)                e.g., setting typearea's option
+(scrlayer-scrpage)                `headheight=34.65009pt'.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 2
+6.
+
+
+Overfull \vbox (19.65009pt too high) has occurred while \output is active []
+
+
+[16]
+Package biblatex Info: Reference section=0 on input line 30.
+) [17]
 \openout2 = `Chapters/Bayesian_competition.aux'.
 
  (./Chapters/Bayesian_competition.tex
@@ -1695,14 +1729,14 @@ Package biblatex Info: Reference section=3 on input line 1.
 Package biblatex Info: Setting label 'refsection:3' on input line 1.
 
 Chapter 3.
-[16
+[18
 
 
 
 
 ]
 Package biblatex Info: Reference section=0 on input line 7.
-) [17]
+) [19]
 \openout2 = `Chapters/Coexistence_alleles.aux'.
 
  (./Chapters/Coexistence_alleles.tex
@@ -1714,14 +1748,14 @@ Package biblatex Info: Reference section=4 on input line 1.
 Package biblatex Info: Setting label 'refsection:4' on input line 1.
 
 Chapter 4.
-[18
+[20
 
 
 
 
 ]
 Package biblatex Info: Reference section=0 on input line 7.
-) [19]
+) [21]
 \openout2 = `Chapters/Discussion.aux'.
 
  (./Chapters/Discussion.tex
@@ -1733,15 +1767,12 @@ Package biblatex Info: Reference section=5 on input line 1.
 Package biblatex Info: Setting label 'refsection:5' on input line 1.
 
 Chapter 5.
-[20
+[22
 
 
 
 
-]
-LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <9> not available
-(Font)              Font shape `T1/pplj/m/it' tried instead on input line 4.
- [21] [22] [23] [24] [25] [26
+] [23] [24] [25] [26] [27] [28
 
 
 ]
@@ -1750,15 +1781,15 @@ Overfull \hbox (0.49228pt too wide) in paragraph at lines 49--49
 /m/it/10 (-20) Ecol-ogy let-ters \T1/pplj/m/n/10 (-20) 6.12, pp. 1109^^U
  []
 
-[27]
+[29]
 Overfull \hbox (6.58456pt too wide) in paragraph at lines 49--49
 [][]\T1/pplj/m/n/10 (-20) D'Andrea, Rafael, An-nette Ostling, and James P O'Dwy
 er (2018). `  Translu-
  []
 
-[28] [29]
+[30] [31]
 Package biblatex Info: Reference section=0 on input line 49.
-) [30]
+) [32]
 \openout2 = `FrontBackMatter/Colophon.aux'.
 
  (./FrontBackMatter/Colophon.tex
@@ -1780,7 +1811,7 @@ Overfull \hbox (4.51491pt too wide) in paragraph at lines 13--14
 look-and-feel \T1/fvm/m/n/9 classicthesis
  []
 
-) [31
+) [33
 
 
 
@@ -1788,44 +1819,128 @@ look-and-feel \T1/fvm/m/n/9 classicthesis
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 158.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 158.
  (./main.aux (./FrontBackMatter/Titlepage.aux)
 (./FrontBackMatter/Titleback.aux) (./FrontBackMatter/Dedication.aux)
 (./FrontBackMatter/Abstract.aux) (./FrontBackMatter/Publications.aux)
-(./FrontBackMatter/Acknowledgments.aux) (./FrontBackMatter/Contents.aux)
-(./Chapters/Introduction.aux) (./Chapters/Bee_foraging.aux)
-(./Chapters/Bayesian_competition.aux) (./Chapters/Coexistence_alleles.aux)
-(./Chapters/Discussion.aux) (./FrontBackMatter/Colophon.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 156.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 156.
+(./FrontBackMatter/Declaration.aux) (./FrontBackMatter/Acknowledgments.aux)
+(./FrontBackMatter/Contents.aux) (./Chapters/Introduction.aux)
+(./Chapters/Bee_foraging.aux) (./Chapters/Bayesian_competition.aux)
+(./Chapters/Coexistence_alleles.aux) (./Chapters/Discussion.aux)
+(./FrontBackMatter/Colophon.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 158.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 158.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                main2-blx
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 156.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 158.
  ) 
 Here is how much of TeX's memory you used:
- 31481 strings out of 480608
- 582375 string characters out of 5903631
- 1354584 words of memory out of 5000000
- 45866 multiletter control sequences out of 15000+600000
- 664757 words of font info for 660 fonts, out of 8000000 for 9000
+ 31665 strings out of 480608
+ 587548 string characters out of 5903631
+ 1411628 words of memory out of 5000000
+ 46004 multiletter control sequences out of 15000+600000
+ 667682 words of font info for 664 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,21n,98p,10099b,3181s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
-exlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/local/texl
-ive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/te
-xlive/2020/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/
-texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/
-2020/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2020/tex
-mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist
-/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (45 pages, 169420 bytes).
+ 72i,22n,98p,10099b,3183s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{cite.2@revilla2015numerical} has been referenced 
+but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@abrams_nature_2000} has been referenced but 
+does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@roubik_competitive_1978} has been referenced
+ but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@frund_bee_2013} has been referenced but does
+ not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@greenleaf_wild_2006} has been referenced but
+ does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@lichtenberg_olfactory_2011} has been referen
+ced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@skalski_functional_2001} has been referenced
+ but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@deangelis_emergence_2006} has been reference
+d but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@beddington_mutual_1975} has been referenced 
+but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@holland_population_2001} has been referenced
+ but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@classen2020specialization} has been referenc
+ed but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@heinrich_energetics_1972} has been reference
+d but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@thomson_effects_1988} has been referenced bu
+t does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@thomson_response_1987} has been referenced b
+ut does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@westphal_foraging_2006} has been referenced 
+but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@heinrich_resource_1976} has been referenced 
+but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@cnaani_flower_2006} has been referenced but 
+does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@brosi_single_2013} has been referenced but d
+oes not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@briggs_competitive_2016} has been referenced
+ but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@thomson_detecting_2006} has been referenced 
+but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@morse_resource_1977} has been referenced but
+ does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@inouye_resource_1978} has been referenced bu
+t does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@thomson_importance_2020} has been referenced
+ but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.2@mallinger2017managed} has been referenced bu
+t does not exist, replaced by a fixed one
+
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/tex
+live/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/local/texliv
+e/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texl
+ive/2020/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/te
+xlive/2020/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></usr/local/texlive/20
+20/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2020/texmf
+-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2020/texmf-dist/fo
+nts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/typ
+e1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/
+palatino/uplri8a.pfb>
+Output written on main.pdf (49 pages, 370118 bytes).
 PDF statistics:
- 644 PDF objects out of 1000 (max. 8388607)
- 585 compressed objects within 6 object streams
- 183 named destinations out of 1000 (max. 500000)
- 85097 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 782 PDF objects out of 1000 (max. 8388607)
+ 702 compressed objects within 8 object streams
+ 217 named destinations out of 1000 (max. 500000)
+ 85622 words of extra memory for PDF output out of 89155 (max. 10000000)
 

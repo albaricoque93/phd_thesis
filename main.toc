@@ -6,10 +6,10 @@
 \defcounter {refsection}{1}\relax 
 \contentsline {chapter}{\numberline {1}{General Introduction}}{1}{chapter.1}%
 \defcounter {refsection}{2}\relax 
-\contentsline {chapter}{\numberline {2}{The context-dependency of pollinator interference}}{15}{chapter.2}%
+\contentsline {chapter}{\numberline {2}{The context dependency of pollinator interference: how environmental conditions and co-foraging species impact floral visitation}}{15}{chapter.2}%
 \defcounter {refsection}{3}\relax 
-\contentsline {chapter}{\numberline {3}{The interplay of environmental conditions, parameter sensitivity and structural sensitivity in predictions of species coexistence}}{17}{chapter.3}%
+\contentsline {chapter}{\numberline {3}{The interplay of environmental conditions, parameter sensitivity and structural sensitivity in predictions of species coexistence}}{19}{chapter.3}%
 \defcounter {refsection}{4}\relax 
-\contentsline {chapter}{\numberline {4}{Coexistence of alleles}}{19}{chapter.4}%
+\contentsline {chapter}{\numberline {4}{Coexistence of alleles}}{21}{chapter.4}%
 \defcounter {refsection}{5}\relax 
-\contentsline {chapter}{\numberline {5}{Conclusion}}{21}{chapter.5}%
+\contentsline {chapter}{\numberline {5}{Conclusion}}{23}{chapter.5}%
