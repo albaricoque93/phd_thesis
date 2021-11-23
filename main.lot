@@ -29,8 +29,16 @@
 \ttl@tocsep 
 \defcounter {refsection}{3}\relax 
 \ttl@tocsep 
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{3}\relax 
 \contentsline {table}{\numberline {3.1}{\ignorespaces Equilibrium growth rates and model constraints for the two models we used used to make coexistence predictions}}{54}{table.caption.9}%
+\defcounter {refsection}{3}\relax 
+\contentsline {table}{\numberline {3.2}{\ignorespaces Model comparison in the \emph {open} and \emph {woody} environments. LOOIC (leave-one-out cross-validation information criteria) penalizes models for the number of parameters, and the lowest value reflects the best-performing model. The weight for each model is an estimate of the probability that the model will make the best predictions of new data based on the the set of models considered.\relax }}{58}{table.caption.10}%
+\defcounter {refsection}{3}\relax 
+\contentsline {table}{\numberline {3.3}{\ignorespaces Combined LOOIC, weights and proportion of coexistence for different model combinations in the \textit {open} environment. Combined LOOIC and weights were calculated as the sum and product of both model's LOOIC and weights, respectively. Proportion of coexistence quantifies the proportion of coexistence predictions relative to competitive exclusion predictions for each model combination.\relax }}{62}{table.caption.13}%
+\defcounter {refsection}{3}\relax 
+\contentsline {table}{\numberline {3.4}{\ignorespaces Combined LOOIC, weights and proportion of coexistence for different model combinations in the \textit {woody} environment. Combined LOOIC and weights were calculated as the sum and product of both model's LOOIC and weights, respectively. Proportion of coexistence quantifies the proportion of coexistence predictions relative to competitive exclusion predictions for each model combination.\relax }}{63}{table.caption.14}%
+\defcounter {refsection}{3}\relax 
+\ttl@tocsep 
 \defcounter {refsection}{4}\relax 
 \ttl@tocsep 
 \defcounter {refsection}{5}\relax 
@@ -40,10 +48,10 @@
 \defcounter {refsection}{6}\relax 
 \ttl@tocsep 
 \defcounter {refsection}{6}\relax 
-\contentsline {table}{\numberline {6.1}{\ignorespaces Maximum energy gains per visit}}{76}{table.caption.10}%
+\contentsline {table}{\numberline {6.1}{\ignorespaces Maximum energy gains per visit}}{92}{table.caption.16}%
 \defcounter {refsection}{6}\relax 
-\contentsline {table}{\numberline {6.2}{\ignorespaces Single-species foraging trials}}{79}{table.caption.13}%
+\contentsline {table}{\numberline {6.2}{\ignorespaces Single-species foraging trials}}{95}{table.caption.19}%
 \defcounter {refsection}{6}\relax 
-\contentsline {table}{\numberline {6.3}{\ignorespaces Multi-species foraging trials}}{80}{table.caption.14}%
+\contentsline {table}{\numberline {6.3}{\ignorespaces Multi-species foraging trials}}{96}{table.caption.20}%
 \defcounter {refsection}{6}\relax 
-\contentsline {table}{\numberline {6.4}{\ignorespaces Statistical models fitted to the data}}{82}{table.caption.15}%
+\contentsline {table}{\numberline {6.4}{\ignorespaces Statistical models fitted to the data}}{98}{table.caption.21}%

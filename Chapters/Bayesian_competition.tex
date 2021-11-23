@@ -10,7 +10,6 @@
     \item Aix Marseille Univ., Université de Toulon,  Marseille, France
 \end{enumerate}
 
-\end{refsection}
 \section*{Abstract}
 
 
@@ -219,3 +218,193 @@ We assumed the response variable, seeds produced per focal individual, followed 
  {\left \{ \alpha_{ij}, \alpha_{ij,w} \right \}} \sim& {\textrm{Normal}}(0,1) &&\\
  {\left \{ \alpha_{ik}, \alpha_{ik,w} \right \}} \sim& {\textrm{Normal}}(0,1) &&
 \end{align}
+
+We fit all models using the function \textit{brm} from the package \textit{brms} \citep{burkner_advanced_2017} in the statistical program R version 4.0.2 \citep{Rcore}. For each model, we ran four chains with a warmup of 2000 iterations and 2000 sampling iterations. We determined convergence when trace plots were well mixed and stationary and when the Gelman--Rubin convergence diagnostic (Rhat) was less than 1.05 for all parameters \citep{vehtari_rank-normalization_2020}.
+
+We compared the fits of each model for each species using the Leave-One-Out cross-validation Information Criteria (LOOIC). This goodness of fit measure is used for estimating the out-of-sample prediction accuracy of Bayesian models and provides a measure of model fit that is penalized for the number of model parameters. As with other information criteria, lower values of LOOIC correspond to better supported models. Additionally, LOOIC is more robust for models with weak priors or influential observations compared to other information criteria \citep{vehtari2017practical}. We calculated out-of-sample deviance separately for models in \textit{open} and \textit{woody} environments because LOOIC is calculated additively over observations. We also calculated Akaike weights for each model in each environmental condition, which can be interpreted as an estimate of the probability that the model will make the best predictions of new data, based on the set of models considered \citep{mcelreath_statistical_2018}
+
+\subsubsection*{Predictions incorporating uncertainty}
+
+To study how model formulation changes predictions of species coexistence, we used our framework to make predictions using median parameter estimates and a different model per species (Eqn.~\ref{Beverton-Holt} or ~\ref{Ricker}). We examined all the possible combinations of each species being defined by a different model, which yielded a total of 4 different predictions. Furthermore, we also explored how abiotic conditions change predicted coexistence outcomes by making predictions using median parameter estimates in the \textit{open} and \textit{woody} condition. We therefore had a total of 8 coexistence predictions (4 for each environmental condition), as well as the corresponding values of $\beta$, $\gamma$, $\rho$, and $\delta$.
+
+
+To incorporate parameter uncertainty, we made predictions using 500 draws from the parameters' posterior distributions. For each of the 8 predictions made using median parameter values, this gives us 500 additional coexistence predictions. Posterior distributions of parameters contain the relative plausibility of different parameter values, conditional on the data and the model we used \citep{mcelreath_statistical_2018}. This approach yielded a posterior distribution of coexistence outcomes, as well as distributions of $\beta$, $\gamma$, $\rho$, and $\delta$ values.
+
+For each model combination and each environmental condition, we determined the proportion of posterior predictions that predicted coexistence and competitive exclusion driven by \textit{Vellia rosea} or \textit{Trachymene cyanopetala}. We also calculated the combined LOOIC and weight for each model combination as the sum and product of both model’s LOOIC and weights, respectively. Finally, we  defined the weighted average of our coexistence predictions as the combined model weight in a given environmental condition, and the proportion of coexistence outcomes. Our approach thus allowed us to not only make predictions incorporating one source of uncertainty at a time but to integrate multiple sources of uncertainty together into a probabilistic interpretation of species coexistence.
+
+\section*{Results}
+
+Model comparison using LOOIC showed that the Beverton--Holt model was the preferred model for both species in both environments since it consistently had the lowest LOOIC score (Table \ref{tab:compare}). However, Akaike weights showed that the Ricker model shared some of probability to make the best prediction of new data for the species \textit{Vellia rosea} in both environments (Table \ref{tab:compare}). Indeed, some parameter values and their distributions overlap between the two models for both species (Figs.~ 1 and 2 Appendix B).
+
+
+\begin{table}[H]
+\centering
+\fontsize{12}{10}\selectfont
+\caption{Model comparison in the \emph{open} and \emph{woody} environments. LOOIC (leave-one-out cross-validation information criteria) penalizes models for the number of parameters, and the lowest value reflects the best-performing model. The weight for each model is an estimate of the probability that the model will make the best predictions of new data based on the the set of models considered.}
+\label{tab:compare}
+\resizebox{1\textwidth}{!}{\begin{tabular}{lllrrrr}
+  \hline
+\multirow{2}{*}{Species} & \multirow{2}{*}{Model} & \multicolumn{2}{c}{Open} & \multicolumn{2}{c}{Woody} \\
+       & & LOOIC & Weight & LOOIC & Weight \\
+  \hline
+\textit{Vellia rosea} & Beverton--Holt & 1001.16 & 0.99 & 1006.80 & 0.95 \\
+%\textit{Vellia rosea} & Lotka-Volterra & 1050.97 & 0.00 & 1061.31 & 0.00  \\
+\textit{Vellia rosea} & Ricker & 1017.99 & 0.01 & 1018.44 & 0.05 \\
+\textit{Trachymene cyanopetala} & Beverton--Holt & 2025.51 & 1.00 & 2049.27 & 1.00 \\
+%\textit{Trachymene cyanopetala} & Lotka-Volterra & 2267.05 & 0.00 & 2323.90 & 0.00 \\
+\textit{Trachymene cyanopetala} & Ricker & 2048.80 & 0.00 & 2082.25 & 0.00 \\
+   \hline
+\end{tabular}}
+\end{table}
+
+\subsection*{Structural sensitivity in the \emph{open} environment}
+
+In the \textit{open} environment, median predictions of species coexistence were contingent on the model formulation used for both species (triangles on Fig.~\ref{fig:open}). We predicted \textit{Vellia rosea} and \textit{Trachymene cyanopetala} would coexist in three of the model combinations we explored, while we predicted competitive exclusion of \textit{Vellia rosea} when the predictions used the Ricker model for \textit{Vellia rosea} and the Beverton--Holt model for \textit{Trachymene cyanopetala} (Fig.~\ref{fig:open}) .
+
+We predicted the median relative coexistence ratio ($\rho$) would be around 0.5 for all of the model combinations examined, implying that interspecific interactions were competitive and approximately half the magnitude of intraspecific interactions (Fig.~\ref{fig:open}). On the other hand, the distance from the edge ($\delta$) was close to zero for three of the model combinations we explored (Fig.~\ref{fig:open}). That is, in the \textit{open} environment, median predictions of species coexistence---whether they predicted coexistence or competitive exclusion---were likely susceptible to change given small perturbations to either species growth rates or interaction coefficients.
+
+
+
+\subsection*{Structural sensitivity \& environmental context dependency }
+
+
+The consequences of structural sensitivity were different when interactions took place in the \textit{woody} environment. We predicted species coexistence in only one of the four model combinations we explored: when median predictions used the Beverton--Holt model for \textit{Vellia rosea} and the Ricker model for \textit{Trachymene cyanopetala} (Fig.~\ref{fig:woody}). That is, when we made predictions in the \textit{woody} environment, median parameter values mostly predicted competitive exclusion. However, unlike median predictions made for the \textit{open} environment, \textit{Trachymene cyanopetala} was predicted to be competitively excluded instead of \textit{Vellia rosea} (Fig.~\ref{fig:woody}). Additionally, our median estimates of $\rho$  were higher in the woody environment for 2 out of 4 model combinations examined (Fig.~\ref{fig:woody}). Note that $\rho$ values above one indicate that it is more likely for species to  coexist when growing together than when growing in monoculture.
+
+In the \textit{woody} environment, estimates of $\delta$ were mostly negative (Fig.~\ref{fig:woody}). That is, for most of the model combinations we examined, species growth rates were far away from the biologically-constrained feasibility domain, and the coexistence outcome unlikely to change given small perturbations. These values of $\delta$ seem to be driving the changes in coexistence outcomes regardless of the values of $\rho$. Similar to the \textit{open} environment, the value of $\delta$ was positive and close to zero in the one instance where we predicted species coexistence.
+
+\begin{figure}[H]
+  \centerline{\includegraphics[width=1\textwidth]{figures/chapter3_fig3}}
+  \caption[Predictions made with different model combinations in the \textit{open} environment]{Predictions made with different model combinations in the \textit{open} environment. Each panel corresponds to a different model combination, labels on the top indicate the model used for the species \textit{Vellia rosea}, and labels on the right show  the model used for \textit{Trachymene cyanopetala}.  In each panel, we show median estimates of $\rho$ and $\delta$ (triangles), and the color of these estimates indicates coexistence (green), competitive exclusion by \textit{Vellia rosea} (yellow), and competitive exclusion by \textit{Trachymene cyanopetala} (blue). Finally, we show the 500 predictions made using posterior draws of parameter values (circles) with the same color scheme.  }
+  \label{fig:open}
+\end{figure}
+
+\begin{figure}[H]
+  \centerline{\includegraphics[width=1\textwidth]{figures/chapter3_fig4}}
+  \caption[Predictions made with different model combinations in the \textit{woody} environment]{Predictions made with different model combinations in the \textit{woody} environment. Each panel corresponds to a different model combination, labels on the top indicate the model used for the species \textit{Vellia rosea}, and labels on the right show  the model used for \textit{Trachymene cyanopetala}.  In each panel, we show median estimates of $\rho$ and $\delta$ (triangles), and the color of these estimates indicates coexistence (green), competitive exclusion by \textit{Vellia rosea} (yellow), and competitive exclusion by \textit{Trachymene cyanopetala} (blue). Finally, we show the 500 predictions made using posterior draws of parameter values (circles) with the same color scheme.}
+    \label{fig:woody}
+\end{figure}
+
+\subsection{ Structural sensitivity, environmental context dependency \& parameter sensitivity }
+
+Predictions made with the posterior distribution of parameter values could be quantitatively and qualitatively very different to predictions made with median parameter values (Figs.~\ref{fig:open} and \ref{fig:woody}). Importantly, the extent of parameter sensitivity depended on the models used and the environment where interactions took place. When species were interacting in the \textit{open} environment, we predicted both competitive exclusion and coexistence regardless of the outcome of the median prediction (Fig.~\ref{fig:open}). For posterior predictions of competitive exclusion, the species predicted to competitively exclude the other varied between model combinations and posterior draws (Fig.~\ref{fig:open}). The proportion of posterior draws that predicted coexistence ranged from 96\% to 33\%, depending on the model combination used to make predictions (Table~\ref{tab:proportions_open}).
+
+
+In contrast, when interactions took place in the \textit{woody} environment  most of the posterior predictions resulted in competitive exclusion (Fig.~\ref{fig:woody}). For 3 out of 4 model combinations examined, the proportion of posterior draws that predicted coexistence was less than 10\% (Table~\ref{tab:proportions_woody}). However, the outcome of competitive exclusion varied  between  posterior predictions. That is, even if species were predicted to be confidently experiencing competitive exclusion, the outcome of competition was uncertain (Fig.~\ref{fig:woody}).
+
+
+The probability of predicting species coexistence given each phenomenological model used and the proportion of posterior predictions of coexistence was 67\% in the \textit{open} environment when we used the Beverton--Holt model to describe the dynamics of both species (Table~\ref{tab:proportions_open}). Other model combinations had little statistical support  (Table~\ref{tab:proportions_open}). Similarly, in th \textit{woody} environment, the model combination where the Beverton--Holt model described the dynamics of both species had most of the statistical support (Table~\ref{tab:proportions_woody}). However, that model combination also confidently predicted competitive exclusion (Table~\ref{tab:proportions_woody}). Other model combinations in the \textit{woody} environment varied in their extent of posterior draws that predicted coexistence, however, they also had little statistical support (Table~\ref{tab:proportions_woody}).
+
+
+\begin{table}[H]
+%\begin{table}[]
+\caption{Combined LOOIC, weights and proportion of coexistence for different model combinations in the \textit{open} environment. Combined LOOIC and weights were calculated as the sum and product of both model's LOOIC and weights, respectively. Proportion of coexistence quantifies the proportion of coexistence predictions relative to competitive exclusion predictions for each model combination.}
+\label{tab:proportions_open}
+\resizebox{1\textwidth}{!}{\begin{tabular}{@{}llllllll@{}}
+\toprule
+\textit{V. rosea}   & \textit{T. cyanopetala} &  Combined  & Combined  & Proportion & Proportion & Proportion                                                          \\
+model          & model        &  LOOIC        & weight &   \textit{V. rosea} wins &  \textit{T. cyanopetala} wins & of coexistence      \\
+\midrule
+Beverton--Holt & Beverton--Holt         & 3026.66       & 0.99            & 0.01 & 0.31 &  0.68           \\
+Ricker         & Beverton--Holt         & 3043.50       & 0.01            & 0.02 & 0.66& 0.33            \\
+Beverton--Holt & Ricker                 & 3049.96       & 0.00            & 0.22 & 0.00 & 0.78                \\
+Ricker         & Ricker                 & 3066.79       & 0.00            & 0.01 & 0.03 & 0.96            \\ \bottomrule
+\end{tabular}}
+%\end{table}
+\end{table}
+
+\vspace{10mm}
+
+% DBS: Need to add columns below for competitive exclusion of each species
+
+\begin{table}[H]
+%\begin{table}[]
+\caption{Combined LOOIC, weights and proportion of coexistence for different model combinations in the \textit{woody} environment. Combined LOOIC and weights were calculated as the sum and product of both model's LOOIC and weights, respectively. Proportion of coexistence quantifies the proportion of coexistence predictions relative to competitive exclusion predictions for each model combination.}
+\label{tab:proportions_woody}
+\resizebox{1\textwidth}{!}{\begin{tabular}{@{}llllllll@{}}
+\toprule
+\textit{V. rosea}   & \textit{T. cyanopetala} &  Combined  & Combined  & Proportion      & Proportion & Proportion                                                      \\
+model          & model        &  LOOIC        & weight  &   \textit{V. rosea} wins &  \textit{T. cyanopetala} wins & of coexistence               \\
+\midrule
+Beverton--Holt & Beverton--Holt         & 3056.07       & 0.95           & 0.93 & 0.06 & 0.01          \\
+Ricker         & Beverton--Holt         & 367.71       & 0.05           & 0.78 & 0.22 & 0.00           \\
+Beverton--Holt & Ricker                 & 3089.05       & 0.00            & 0.34 & 0.01 & 0.65                \\
+Ricker         & Ricker                 & 3100.69       & 0.00            &0.88 & 0.07 & 0.05            \\ \bottomrule
+\end{tabular}}
+%\end{table}
+\end{table}
+
+
+
+\subsection*{ The drivers of parameter sensitivity }
+
+To better understand parameter sensitivity, we made predictions of $\beta$, $\gamma$ $\rho$, and $\delta$ holding all parameters but one at their median
+estimate and for the other we used draws from its posterior distribution (Fig.~\ref{fig:params}). Since it was consistently the best fit model, we used the Beverton--Holt model for both species. We found that parameter sensitivity was driven mostly by a few key parameters. In both environments, predictions that substantially deviated from the median prediction were mainly driven by uncertainty surrounding the competitive effects of \textit{Trachymene cyanopetala} (Fig.~\ref{fig:params}).
+
+
+\begin{figure}[H]
+  \centerline{\includegraphics[width=.95\textwidth]{figures/chapter3_fig5.pdf}}
+  \caption{Predictions of $\beta$, $\gamma$, $\rho$, and $\delta$  made while including the posterior distribution of each parameter separately and using the Beverton--Holt model for both species in both environments. The parameter names on the x-axis denote the parameter whose distribution was sampled from. The subscript $v$ in parameter names denotes the species \textit{Vellia rosea}, while the subscript $t$ denotes the species \textit{Trachymene cyanopetala}. The solid black line in each panel denotes predictions when all parameters are set to their median estimates. Each boxplot extends from the first to third quantiles of the corresponding posterior predictions and the line inside the box indicates the median posterior prediction.   }
+    \label{fig:params}
+\end{figure}
+
+\section*{Discussion}
+
+Our results show that using phenomenological models to predict whether or not a pair of species can coexist is far from a trivial matter. Indeed, even seemingly subtle differences led to predictions of both coexistence and competitive exclusion based around the exact same experimental data. Even in the cases where we predicted competitive exclusion, the predicted dominant species varied between predictions. Nonetheless, our analyses also showed that the uncertainty surrounding our predictions can be dismantled and understood by understanding  differenes between models, the environment where models were parameterized, and the uncertainty associated to certain parameter values.
+
+%: the difference between predictions can be explained based on models used to describe the interactions between species and the environment where models were parameterized. Incorporating parameter sensitivity further enriched our understanding of species coexistence as it showed the confidence of our specific predictions that species were likely able to coexist or not which, combined with model weights, allowed us to quantify the holistic probability of predicting species coexistence.
+
+
+In our experimental system, the Beverton--Holt model was the best phenomenological description of how seed set changed with neighbor density, for both species in both environments (Table \ref{tab:compare}). The Beverton--Holt model frequently provides a good phenomenological fit for annual plant data
+\citep{levine2009importance, godoy_phenology_2014, godoy_phylogenetic_2014}. However, the Ricker model shared some of the model weight with the Beverton--Holt model for \textit{Vellia rosea} in our experimental system, in both environmental conditions (Table \ref{tab:compare}). It is often the case in annual-plant studies that more than one phenomenological model has statistical support for different species or sites \citep{levine2009importance,mayfield2017higher,bimler_accurate_2018,martyn2021identifying}. Nonetheless, exploring predictions made by more than one model is not common practice in the study of species coexistence, unlike the study of other ecological processes like predator--prey dynamics \citep{myerscough1996stability,fussmann2005community,aldebert2018community}. By limiting our predictions to a single type of phenomenological model, we not only have to ignore other models that share statistical support, but we also limit our understanding of how model formulation itself changes our predictions.
+
+%\vspace{5mm}
+%\noindent\textbf{Structural Sensitivity}
+
+\subsection*{Small differences, amplified}
+
+We showed that predictions of species coexistence using the annual-plant model are structurally sensitive. Focusing on the \textit{open} environment, median estimates of $\rho$ and $\delta$  were similar in all of the model combinations we explored; coexistence outcomes were not (Fig.~\ref{fig:open}). Our study thus provides another clear example where predictions made with different models can be quantitatively similar and still have different qualitative properties, one of the hallmarks of structural sensitivity \citep{flora_structural_2011}.  Structural sensitivity can arise because slight perturbations in model formulation become largely amplified \citep{flora_structural_2011, wood1999super}, and predictions can be structurally sensitive in different ways depending on the qualitative behavior examined \citep{flora_structural_2011, aldebert2018community}. In the case of coexistence outcomes, predictions require the choice of a model to use for each species, which can further amplify small differences between models.
+
+In the \textit{open} environment, we predicted coexistence in 3 out of 4 model combinations we explored (Fig.~\ref{fig:open}). Overall, the Beverton--Holt and the Ricker model predicted intraspecific interactions to be larger than interspecific interactions for both species (Figs.~S1 and S2), which tends to promote coexistence since species limit themselves more than what they limit others \citep{chesson_general_2000}. We only predicted competitive exclusion when we used the Ricker model for \textit{Vellia rosea} and the Beverton--Holt model for \textit{Trachymene cyanopetala} (Fig.~\ref{fig:open}). The differences between intraspecific and interspecific interactions for \textit{Vellia rosea} predicted by the Ricker model were slightly smaller than the ones predicted by the Beverton--Holt model (Fig.~1 Appendix B). Furthermore, the fecundity in the absence of competition of \textit{Trachymene cyanopetala} was predicted to be higher by Beverton--Holt model than by the Ricker model (Fig.~2 Appendix B). These two small differences between models together resulted in a more restricted feasibility domain, and a shift in the position of species growth rates in the parameter space, compared to other model combinations. These changes caused the growth rates to fall outside $\beta$, $\delta$ to have a negative sign, and to predict the competitive exclusion of \textit{Vellia rosea} (Fig.~\ref{fig:open}).
+
+% DBS: I like the text in the following paragraph, but what is it doing here? It reads like an intro, an abstract, or a conclusion. I think it needs to get cut...
+%Species coexistence is determined by multi-level processes acting simultaneously, and studying it often involves a process of abstraction from the reality to mathematical objects such as phenomenological models \citep{levins_strategies_2006}. This process of abstraction makes it difficult to disentangle exactly why some model combinations give different results than the rest. Structural sensitivity is likely to arise when multi-level processes are summarized into equations after adopting assumptions regarding the complexity of the biological system \citep{aldebert2018community}. Thus, predictions of species coexistence are particularly likely to show structural sensitivity.
+
+\subsection*{The importance of environmental context}
+
+The extent of structural sensitivity observed in our focal system changed in the \textit{woody} environment. When we made predictions using median parameter estimates in the  \textit{woody} environment, 3 out of 4 model combinations  predicted competitive exclusion (Fig.~\ref{fig:woody}). The increased likelihood of predicting competitive exclusion compared to the \textit{open} environment seemed to be driven by several factors. One of them is that predicted interspecific interactions were larger than intraspecific interactions for \textit{Vellia rosea} using both models (Fig.~1 Appendix B), which resulted in a smaller $\beta$ in the \textit{woody} environment. However, since all intraspecific interactions were predicted to be weaker in the \textit{woody} environment compared to the \textit{sunny} environment for all models (Figs.~1 and 2 Appendix B), the predicted values of $\gamma$ also decreased. Thus, values of $\rho$ in the \textit{woody} environment were larger in 2 out of 4 cases (Fig.~\ref{fig:woody}).
+
+Furthermore, both species were predicted to have lower fecundities in the absence of competition compared to the \textit{open} environment, which supports previous empirical studies that have recorded that plant abundances in this system decline while growing inside litter \citep{wainwright2017effects} (Figs.~1 and 2 Appendix B). Of the two species, \textit{Trachymene cyanopetala} was predicted to experience a sharper reduction in seed set by both models (Fig.~2 Appendix B). Thus, in the \textit{woody} environment, reductions in $\beta$ and changes in the predicted fecundity in the absence of competition for \textit{Trachymene cyanopetala} resulted in predictions of competitive exclusion of \textit{Trachymene cyanopetala} in three out of four model combinations (Fig.~\ref{fig:woody}). Even though the presence of woody debris in semiarid systems can reduce solar radiation and ameliorate drought stress \citep{wainwright2017effects}, our results suggest that species are less likely to coexist in this environment due to an increase in strength of interspecific interactions for \textit{Vellia rosea}, and a sharp reduction in the seed set of \textit{Trachymene cyanopetala}.
+
+Our results  provide another example where interaction strengths, and thus coexistence predictions change with environmental conditions, a result that has been empirically demonstrated before in this system \citep{mayfield2017higher,wainwright2017diverse,bimler_accurate_2018}. Other studies have documented that both species indeed change their fecundities while growing inside coarse woody debris, but spatial mechanisms of coexistence between these two species have not been found \citep{towers2020requirements}. Importantly, the extent of environmental context dependency in our experimental system is determined by the models used to quantify density dependence for both species. That is, the effect of abiotic conditions can be enhanced or diminished in predictions of species coexistence due to use of phenomenological models.
+
+
+% However, the variation in interaction strengths inside and outside woody debris could promote coexistence via the spatial storage effect \citep{sears2007new}, allowing, for example \textit{Vellia rosea} to exploit its differential response to the environment and to persist in the system. Importantly, the extent of environmental context dependency in our experimental system is determined by the models used to quantify density dependence for both species. That is, the effect of abiotic conditions can be enhanced or diminished in predictions of species coexistence due to use of phenomenological models.
+
+
+%\vspace{5mm}
+%\noindent\textbf{Parameter sensitivity}
+\subsection*{Parameter uncertainty and the probability of predicting species coexistence}
+
+
+Using a Bayesian Approach to fit models to data also allowed us to have a better understanding of the parameter uncertainty associated with our predictions. Our results showed that estimating pairwise coexistence only using median estimates of parameter values might bypass instances where the uncertainty encompasses outcomes different to the median prediction (Fig.~\ref{fig:open} and \ref{fig:woody}). Other approaches have incorporated parameter uncertainty in coexistence predictions by propagating standard errors \citep{matias2018experimental} or bootstrapping observations \citep{garcia2020cxr}. However, these approaches were only incorporated to show the robustness of predictions rather than to examine the causes and effects of parameter uncertainty in predictions of species coexistence.
+
+%the probability of coexistence
+Our results also show that even when we predicted competitive exclusion, the species we predicted to be competitively excluded varied across posterior draws (Fig.~\ref{fig:open} and \ref{fig:woody}). Other studies that have incorporated posterior distribution of parameter values  in coexistence predictions have also encountered this uncertainty regarding the outcome of competition \citep{terry2021natural}. However, they also found that posterior predictions mostly agree with predictions using median parameter values (i.e., species were confidently coexisting or not) \citep{terry2021natural}. Our results did not show as clear differences, particularly in the \textit{open} environment where species were very close to the coexistence boundary (Fig.~\ref{fig:open}).
+
+%The differences in confidence of coexistences predictions might be explained due to the framework we used. Modern coexistence theory, a commonly used framework to quantify species coexistence \citep{chesson_general_2000, barabas_chessons_2018, chesson_updates_2018}, uses coexistence metrics that depend simultaneously on growth rates and competition coefficients. This creates an interdependence in coexistence outcomes \citep{song_consequences_2019} which, combined with the interrelationships between parameters, can dramatically affect the confidence with which conclusions are drawn from experimental data \citep{terry2021natural}. In contrast, our study uses an structural approach, in which competition and growth rates have distinct contributions to predictions of species coexistence \citep{rohr_structural_2014,saavedra_structural_2017, song_guideline_2018}, thus reducing the effect of interdependence of parameter values.
+
+
+Importantly, the effect parameter sensitivity on predictions of species coexistence has been mostly interpreted as statements of uncertainty in the underlying data, rather than implying a probabilistic outcome \citep{terry2021natural,matias2018experimental}. Our study goes beyond that interpretation by combining model weights and posterior predictions to calculate the probability of predicting coexistence given the phenomenological models used to quantify density dependence. Our results suggest that given the uncertainty associated with our predictions, coexistence between \textit{Vellia rosea} and \textit{Trachymene cyanopetala} is likely in the \textit{open} environment (Table~\ref{tab:proportions_open}) and virtually impossible in the \textit{woody} environment (Table~\ref{tab:proportions_woody}).
+
+
+Finally, our results also suggest that parameter sensitivity is mostly driven by the uncertainty of the competitive effect of \textit{Trachymene cyanopetala} (Fig.~\ref{fig:params}). Indeed, the posterior distribution of parameter values in the Beverton--Holt model that best captured the effect of \textit{Trachymene cyanopetala}, encompass a larger range of values compared to other competition coefficients (Figs.~1 and 2 Appendix B). More accurate predictions of coexistence can be achieved by improving the estimates of parameters associated to the competitive effect of this species, for example with a separate experiment designed exclusively to capture the effects of \textit{Trachymene cyanopetala}  on itself and on \textit{Vellia rosea}.
+
+
+\subsection*{Conclusion}
+
+
+Predictions of species coexistence constitute the building blocks for many ecological studies, such as community assembly \citep{hillerislambers2012rethinking,kraft2015community, grainger_applying_2019}, the evolution of competitive communities \citep{letten2021using, pastore2021evolution}, or the role of species richness in ecosystem functioning \citep{godoy2020excess}. Many of these studies rely on phenomenological models of plant competition as the basis of their predictions. Species coexistence is determined by multi-level processes acting simultaneously, and studying it often involves a process of abstraction from the reality to mathematical objects such as phenomenological models \citep{levins2006strategies}. Structural sensitivity is likely to arise when multi-level processes are summarized into equations after adopting assumptions regarding the complexity of the biological system \citep{aldebert2018community}, making predictions of species coexistence made with phenomenological models particularly vulnerable. Furthermore our study has shown that different phenomenological models can enhance or diminish the effect of environmenatl context-dependency and parameter sensitivity, and thus our predictions of species coexistence. Overall, our study demonstrates that the interplay between different sources of uncertainty should not be ignored when we make predictions based on phenomenological models of plant competition.
+
+
+\printbibliography
+\end{refsection}
