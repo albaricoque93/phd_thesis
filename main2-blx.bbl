@@ -42,40 +42,113 @@
     \field{labeldatesource}{}
     \field{sortinit}{A}
     \field{sortinithash}{A}
-    \field{abstract}{%
-    To describe a predator–prey relationship, it is necessary to specify the
-  rate of prey consumption by an average predator. This functional response
-  largely determines dynamic stability, responses to environmental influences
-  and the nature of indirect effects in the food web containing the
-  predator–prey pair. Nevertheless, measurements of functional responses in
-  nature are quite rare. Recently, much work has been devoted to comparing two
-  idealized forms of the functional response: prey dependent and ratio
-  dependent. Although we agree that predator abundance often affects the
-  consumption rate of individual predators, this phenomenon requires more
-  attention. Disagreement remains over which of the two idealized responses
-  serves as a better starting point in building models when data on predator
-  dependence are absent.%
-    }
-    \field{issn}{0169-5347}
     \field{number}{8}
     \field{pages}{337\bibrangedash 341}
     \field{shorttitle}{The nature of predation}
     \field{title}{The nature of predation: prey dependent, ratio dependent or
   neither?}
     \field{volume}{15}
-    \verb{file}
-    \verb ScienceDirect Full Text PDF:/home/alba/Zotero/storage/6Q43TTIE/Abrams
-    \verb  and Ginzburg - 2000 - The nature of predation prey dependent, ratio
-    \verb dep.pdf:application/pdf;ScienceDirect Snapshot:/home/alba/Zotero/stor
-    \verb age/TCAWEMUU/S016953470001908X.html:text/html;ScienceDirect Full Text
-    \verb  PDF:/home/alba/Zotero/storage/TCU6ZHU6/Abrams and Ginzburg - 2000 -
-    \verb The nature of predation prey dependent, ratio dep.pdf:application/pdf
-    \verb ;ScienceDirect Snapshot:/home/alba/Zotero/storage/BWZY35GL/S016953470
-    \verb 001908X.html:text/html
-    \endverb
     \field{journaltitle}{Trends in Ecology \& Evolution}
     \field{month}{08}
     \field{year}{2000}
+  \endentry
+
+  \entry{ayers_statistically_2018}{article}{}
+    \name{author}{3}{}{%
+      {{hash=ACA}{%
+         family={Ayers},
+         familyi={A\bibinitperiod},
+         given={Carolyn\bibnamedelima A},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=APR}{%
+         family={Armsworth},
+         familyi={A\bibinitperiod},
+         given={Paul\bibnamedelima R},
+         giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=BBJ}{%
+         family={Brosi},
+         familyi={B\bibinitperiod},
+         given={Berry\bibnamedelima J},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ACAAPRBBJ1}
+    \strng{fullhash}{ACAAPRBBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{4}
+    \field{pages}{885\bibrangedash 893}
+    \field{title}{Statistically testing the role of individual learning and
+  decision-making in trapline foraging}
+    \field{volume}{29}
+    \field{journaltitle}{Behavioral Ecology}
+    \field{month}{07}
+    \field{year}{2018}
+  \endentry
+
+  \entry{bastolla2009architecture}{article}{}
+    \name{author}{6}{}{%
+      {{hash=BU}{%
+         family={Bastolla},
+         familyi={B\bibinitperiod},
+         given={Ugo},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=FMA}{%
+         family={Fortuna},
+         familyi={F\bibinitperiod},
+         given={Miguel\bibnamedelima A},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=PGA}{%
+         family={Pascual-Garc{\'\i}a},
+         familyi={P\bibinithyphendelim G\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Ferrera},
+         familyi={F\bibinitperiod},
+         given={Antonio},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LB}{%
+         family={Luque},
+         familyi={L\bibinitperiod},
+         given={Bartolo},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bascompte},
+         familyi={B\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{BU+1}
+    \strng{fullhash}{BUFMAPGAFALBBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{7241}
+    \field{pages}{1018\bibrangedash 1020}
+    \field{title}{The architecture of mutualistic networks minimizes
+  competition and increases biodiversity}
+    \field{volume}{458}
+    \field{journaltitle}{Nature}
+    \field{year}{2009}
   \endentry
 
   \entry{beddington_mutual_1975}{article}{}
@@ -95,34 +168,65 @@
     \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
-    \field{abstract}{%
-    (1) An explanatory model is proposed to account for the variation in
-  searching efficiency, with predator or parasite density, noted by many
-  authors. (2) The model involves considering the effect of prey density to be
-  fundamentally the same as the effect of predator density. (3) The application
-  of the model to observed relationships between searching efficiency,
-  considered as an `area of discovery' and parasite density, is successful. (4)
-  The observed decay in searching efficiency with both prey and predator
-  density is given a physical interpretation. In this interpretation the
-  intrinsic capability of a predator to search an area is shown never to be
-  realized as one portion remains unsearched due to handling time effects and
-  another remains unsearched due to interference effects. (5) A method of
-  estimating the magnitude of both these effects from laboratory and field data
-  is described.%
-    }
-    \field{issn}{0021-8790}
     \field{number}{1}
     \field{pages}{331\bibrangedash 340}
     \field{title}{Mutual {Interference} {Between} {Parasites} or {Predators}
   and its {Effect} on {Searching} {Efficiency}}
     \field{volume}{44}
-    \verb{file}
-    \verb Submitted Version:/home/alba/Zotero/storage/XK6BU6RX/Beddington - 197
-    \verb 5 - Mutual Interference Between Parasites or Predators.pdf:applicatio
-    \verb n/pdf
-    \endverb
     \field{journaltitle}{Journal of Animal Ecology}
     \field{year}{1975}
+  \endentry
+
+  \entry{blacquiere_neonicotinoids_2012}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BT}{%
+         family={Blacquière},
+         familyi={B\bibinitperiod},
+         given={Tjeerd},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Smagghe},
+         familyi={S\bibinitperiod},
+         given={Guy},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=vGCAM}{%
+         prefix={van},
+         prefixi={v\bibinitperiod},
+         family={Gestel},
+         familyi={G\bibinitperiod},
+         given={Cornelis A.\bibnamedelima M.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+      }}%
+      {{hash=MV}{%
+         family={Mommaerts},
+         familyi={M\bibinitperiod},
+         given={Veerle},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BT+1}
+    \strng{fullhash}{BTSGGCAMvMV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{4}
+    \field{pages}{973\bibrangedash 992}
+    \field{shorttitle}{Neonicotinoids in bees}
+    \field{title}{Neonicotinoids in bees: a review on concentrations,
+  side-effects and risk assessment}
+    \field{volume}{21}
+    \field{journaltitle}{Ecotoxicology}
+    \field{annotation}{%
+    side%
+    }
+    \field{month}{05}
+    \field{year}{2012}
   \endentry
 
   \entry{briggs_competitive_2016}{thesis}{}
@@ -134,9 +238,6 @@
          giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{BHM1}
     \strng{fullhash}{BHM1}
     \field{labelnamesource}{author}
@@ -145,69 +246,12 @@
     \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
-    \field{abstract}{%
-    With ongoing global pollinator declines it is important to understand the
-  functional impact of pollinator species losses. While network-based
-  simulation models of pollinator declines predict that plant communities will
-  be robust to losses of pollinator species, these predictions have never been
-  tested empirically. In four chapters, my dissertation uses both empirical and
-  modeling approaches to explore the impacts of losing pollinator species in
-  alpine plant communities. First, I test the hypothesis that interspecific
-  interactions among pollinators (rather than fixed species roles) dynamically
-  alter the functional contribution of species in a community and that these
-  dynamic roles can sometimes reduce plant reproductive function. Experimental
-  removal of the most abundant bumble bee pollinator species from an alpine
-  bumblebee community led to a reduction in floral fidelity in the remaining
-  pollinators. Importantly, this behavioral response in the remaining
-  pollinators reduced plant reproduction by increasing the transfer of
-  ineffective heterospecific pollen. Second, I evaluate how patterns of
-  naturally deposited heterospecific pollen relate to the reproductive output
-  of Delphinium barbeyi, a common subalpine perennial herb in the Rocky
-  Mountains. I found a significant negative interaction between conspecific
-  pollen and the amount of heterospecific pollen whereby the relationship
-  between conspecific pollen and viable seed production became weaker with
-  increasing heterospecific pollen deposition on stigmas.Third, I explore how
-  traits—specifically pollinator tongue length, which dictates pollinator
-  resource partitioning—influences how pollinators responded to reduced
-  interspecific competition. I found that bees vary in their baseline floral
-  fidelity and that their tongue length explained a large part of this
-  variation. Bees with shorter tongues moved between plant species (floral
-  infidelity) more often than bees with longer tongues. I did not find
-  significant variation in how bee species responded to reduced interspecific
-  competition, but rather saw a guild-wide reduction in floral fidelity in
-  response to the removal of the dominant bee species. Interestingly, I found
-  that competitive context determines the floral fidelity of the pollinators in
-  a community. In this case, as the tongue length of the most abundant bee
-  increases, the site level foraging fidelity decreases. Network model
-  simulations predict plant populations will be resilient when faced with
-  pollinator extinctions. Importantly, these models are built on the assumption
-  that all interactions in network are positive, potentially overestimating the
-  resilience of plant-pollinator networks. A wide range of studies (including
-  my field work) have shown that many pollinators are actually ineffective at
-  pollinating plant species they visit, and can therefore have negative
-  consequences for plant reproduction. Fourth, I used interaction network
-  simulations to understand how the addition of negative interactions impacts
-  the predictions of resilience when plant communities are faced with
-  pollinator species losses. I found that the addition of negative interactions
-  makes networks less robust to pollinator extinctions, but not always in the
-  same way. This work suggests metrics specific to interaction networks may be
-  important in determining how robust plant-pollinator interactions are to
-  extinctions. Finally I provide overview on some of the causes and
-  consequences of pollinator decline in the US and offer insight in to how my
-  basic research into pollinator ecology can help pinpoint vulnerable species
-  and communities that should be targeted for conservation efforts.%
-    }
     \field{shorttitle}{Competitive context drives pollinator behavior}
     \field{title}{Competitive context drives pollinator behavior: linking
   foraging plasticity, natural pollen deposition, and plant reproduction}
     \list{institution}{1}{%
       {UC Santa Cruz}%
     }
-    \verb{file}
-    \verb Full Text PDF:/home/alba/Zotero/storage/JG4WI49Z/Briggs - 2016 - Comp
-    \verb etitive context drives pollinator behavior li.pdf:application/pdf;Sna
-    \verb pshot:/home/alba/Zotero/storage/A98W684A/50t4x0nx.html:text/html
-    \endverb
     \field{type}{phdthesis}
     \field{year}{2016}
   \endentry
@@ -227,9 +271,6 @@
          giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \keyw{ecosystem services, ecosystem function, foraging biology, phenotypic
   plasticity}
     \strng{namehash}{BBJBHM1}
@@ -240,51 +281,86 @@
     \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
-    \field{abstract}{%
-    Understanding the functional impacts of pollinator species losses on plant
-  populations is critical given ongoing pollinator declines. Simulation models
-  of pollination networks suggest that plant communities will be resilient to
-  losing many or even most of the pollinator species in an ecosystem. These
-  predictions, however, have not been tested empirically and implicitly assume
-  that pollination efficacy is unaffected by interactions with interspecific
-  competitors. By contrast, ecological theory and data from a wide range of
-  ecosystems show that interspecific competition can drive variation in
-  ecological specialization over short timescales via behavioral or
-  morphological plasticity, although the potential implications of such changes
-  in specialization for ecosystem functioning remain unexplored. We conducted
-  manipulative field experiments in which we temporarily removed single
-  pollinator species from study plots in subalpine meadows, to test the
-  hypothesis that interactions between pollinator species can shape individual
-  species’ functional roles via changes in foraging specialization. We show
-  that loss of a single pollinator species reduces floral fidelity (short-term
-  specialization) in the remaining pollinators, with significant implications
-  for ecosystem functioning in terms of reduced plant reproduction, even when
-  potentially effective pollinators remained in the system. Our results suggest
-  that ongoing pollinator declines may have more serious negative implications
-  for plant communities than is currently assumed. More broadly, we show that
-  the individual functional contributions of species can be dynamic and shaped
-  by the community of interspecific competitors, thereby documenting a distinct
-  mechanism for how biodiversity can drive ecosystem functioning, with
-  potential relevance to a wide range of taxa and systems.%
-    }
-    \field{issn}{0027-8424, 1091-6490}
     \field{number}{32}
     \field{pages}{13044\bibrangedash 13048}
     \field{title}{Single pollinator species losses reduce floral fidelity and
   plant reproductive function}
     \field{volume}{110}
-    \verb{file}
-    \verb Snapshot:/home/alba/Zotero/storage/LBS3JIT6/13044.html:text/html;Full
-    \verb  Text PDF:/home/alba/Zotero/storage/RMFFZJE9/Brosi y Briggs - 2013 -
-    \verb Single pollinator species losses reduce floral fid.pdf:application/pd
-    \verb f
-    \endverb
     \field{journaltitle}{Proceedings of the National Academy of Sciences}
     \field{annotation}{%
     reproductive%
     }
     \field{month}{08}
     \field{year}{2013}
+  \endentry
+
+  \entry{bruninga2016role}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BSB}{%
+         family={Bruninga-Socolar},
+         familyi={B\bibinithyphendelim S\bibinitperiod},
+         given={Bethanne},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=CEE}{%
+         family={Crone},
+         familyi={C\bibinitperiod},
+         given={Elizabeth\bibnamedelima E},
+         giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Winfree},
+         familyi={W\bibinitperiod},
+         given={Rachael},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {BioOne}%
+    }
+    \strng{namehash}{BSBCEEWR1}
+    \strng{fullhash}{BSBCEEWR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{4}
+    \field{pages}{392\bibrangedash 399}
+    \field{title}{The role of floral density in determining bee foraging
+  behavior: a natural experiment}
+    \field{volume}{36}
+    \field{journaltitle}{Natural Areas Journal}
+    \field{year}{2016}
+  \endentry
+
+  \entry{burkner_advanced_2017}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BPC}{%
+         family={Bürkner},
+         familyi={B\bibinitperiod},
+         given={Paul-Christian},
+         giveni={P\bibinithyphendelim C\bibinitperiod},
+      }}%
+    }
+    \keyw{Statistics - Computation}
+    \strng{namehash}{BPC1}
+    \strng{fullhash}{BPC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Advanced {Bayesian} {Multilevel} {Modeling} with the {R}
+  {Package} brms}
+    \field{journaltitle}{arXiv:1705.11123}
+    \field{annotation}{%
+    Modeling%
+    }
+    \field{month}{10}
+    \field{year}{2017}
   \endentry
 
   \entry{classen2020specialization}{article}{}
@@ -373,9 +449,6 @@
          giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{CJTJDPDR1}
     \strng{fullhash}{CJTJDPDR1}
     \field{labelnamesource}{author}
@@ -384,34 +457,6 @@
     \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
-    \field{abstract}{%
-    Bees collect food from flowers that differ in morphology, color, and scent.
-  Nectar-seeking foragers can rapidly associate a flower's cues with its
-  profitability, measured as caloric value or ‘net energy gain,’ and
-  generally develop preferences for more profitable species. If two flower
-  types are equally easy to discover and feed from, differences in
-  profitability will arise from differences in the volume or the sugar
-  concentration of their nectar crops. Although there has been much study of
-  how bees respond to one or the other of these two kinds of nectar variation,
-  few studies have considered both at once. We presented free-foraging
-  bumblebees with two different types of equally rewarding artificial flowers.
-  After a period of familiarization, we made one type more rewarding than the
-  other by increasing its nectar concentration, volume, or both. Bees responded
-  more rapidly to a change in the reward's sugar concentration than to a change
-  in its volume, even if the profitability differences were approximately
-  equal. Sucrose concentration differences (40\% vs. 13\%) caused bees to
-  virtually abandon the more dilute flower type, whether both types offered the
-  same volume (2 μl) or the less concentrated reward offered higher volume (7
-  μl vs. 0.85 μl). When the two types of flower differed only in nectar
-  volume (7 μl vs. 0.85 μl), the less rewarding type continued to receive
-  22\% of the visits. We propose three different hypotheses to explain the
-  stronger response of the bees to changes in sugar concentration: (i) their
-  response threshold to sucrose concentration might change; (ii) less time is
-  needed to assess the concentration of a reward than its volume; and (iii) a
-  smaller sample size may be needed for reliable estimation of profitability
-  when flowers differ in concentration.%
-    }
-    \field{issn}{1439-0310}
     \field{number}{3}
     \field{pages}{278\bibrangedash 285}
     \field{shorttitle}{Flower {Choice} and {Learning} in {Foraging}
@@ -419,14 +464,77 @@
     \field{title}{Flower {Choice} and {Learning} in {Foraging} {Bumblebees}:
   {Effects} of {Variation} in {Nectar} {Volume} and {Concentration}}
     \field{volume}{112}
-    \verb{file}
-    \verb Snapshot:/home/alba/Zotero/storage/YG4QRWYW/j.1439-0310.2006.01174.ht
-    \verb ml:text/html;Full Text PDF:/home/alba/Zotero/storage/9TV7ZB69/Cnaani
-    \verb et al. - 2006 - Flower Choice and Learning in Foraging Bumblebees.pdf
-    \verb :application/pdf
-    \endverb
     \field{journaltitle}{Ethology}
     \field{year}{2006}
+  \endentry
+
+  \entry{coblentz2020estimating}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CKE}{%
+         family={Coblentz},
+         familyi={C\bibinitperiod},
+         given={Kyle\bibnamedelima E},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=DJP}{%
+         family={DeLong},
+         familyi={D\bibinitperiod},
+         given={John\bibnamedelima P},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cold Spring Harbor Laboratory}%
+    }
+    \strng{namehash}{CKEDJP1}
+    \strng{fullhash}{CKEDJP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Estimating predator functional responses using the times
+  between prey captures}
+    \field{journaltitle}{bioRxiv}
+    \field{year}{2020}
+  \endentry
+
+  \entry{deangelis_model_1975}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DDL}{%
+         family={DeAngelis},
+         familyi={D\bibinitperiod},
+         given={D.\bibnamedelima L.},
+         giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=GRA}{%
+         family={Goldstein},
+         familyi={G\bibinitperiod},
+         given={R.\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=ORV}{%
+         family={O'Neill},
+         familyi={O\bibinitperiod},
+         given={R.\bibnamedelima V.},
+         giveni={R\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DDLGRAORV1}
+    \strng{fullhash}{DDLGRAORV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1975}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{4}
+    \field{pages}{881\bibrangedash 892}
+    \field{title}{A {Model} for {Tropic} {Interaction}}
+    \field{volume}{56}
+    \field{journaltitle}{Ecology}
+    \field{year}{1975}
   \endentry
 
   \entry{deangelis_emergence_2006}{article}{}
@@ -455,45 +563,136 @@
     \field{labeldatesource}{}
     \field{sortinit}{D}
     \field{sortinithash}{D}
-    \field{abstract}{%
-    Prey (N) dependence [g(N)], predator (P) dependence [g(P) or g(N,P)], and
-  ratio dependence [f(P/N)] are often seen as contrasting forms of the
-  predator's functional response describing predator consumption rates on prey
-  resources in predator–prey and parasitoid–host interactions. Analogously,
-  prey-, predator-, and ratio-dependent functional responses are apparently
-  alternative functional responses for other types of consumer–resource
-  interactions. These include, for example, the fraction of flowers pollinated
-  or seeds parasitized in pollination (pre-dispersal) seed-parasitism
-  mutualisms, such as those between fig wasps and fig trees or yucca moths and
-  yucca plants. Here we examine the appropriate functional responses for how
-  the fraction of flowers pollinated and seeds parasitized vary with the
-  density of pollinators (predator dependence) or the ratio of pollinator and
-  flower densities (ratio dependence). We show that both types of functional
-  responses can emerge from minor, but biologically important variations on a
-  single model. An individual-based model was first used to describe
-  plant–pollinator interactions. Conditional upon on whether the number of
-  flowers visited by the pollinator was limited by factors other than search
-  time (e.g., by the number of eggs it had to lay, if it was also a seed
-  parasite), and on whether the pollinator could directly find flowers on a
-  plant, or had to search, the simulation results lead to either a
-  predator-dependent or a ratio-dependent functional response. An analytic
-  model was then used to show mathematically how these two cases can arise.%
-    }
-    \field{issn}{0304-3800}
     \field{number}{3}
     \field{pages}{551\bibrangedash 556}
     \field{title}{Emergence of ratio-dependent and predator-dependent
   functional responses for pollination mutualism and seed parasitism}
     \field{volume}{191}
-    \verb{file}
-    \verb ScienceDirect Full Text PDF:/home/alba/Zotero/storage/BCHSZ24U/DeAnge
-    \verb lis and Holland - 2006 - Emergence of ratio-dependent and predator-de
-    \verb penden.pdf:application/pdf;ScienceDirect Snapshot:/home/alba/Zotero/s
-    \verb torage/LJW8ZNE8/S0304380005003030.html:text/html
-    \endverb
     \field{journaltitle}{Ecological Modelling}
     \field{month}{02}
     \field{year}{2006}
+  \endentry
+
+  \entry{desneux_sublethal_2007}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DN}{%
+         family={Desneux},
+         familyi={D\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Decourtye},
+         familyi={D\bibinitperiod},
+         given={Axel},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DJM}{%
+         family={Delpuech},
+         familyi={D\bibinitperiod},
+         given={Jean-Marie},
+         giveni={J\bibinithyphendelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DNDADJM1}
+    \strng{fullhash}{DNDADJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{1}
+    \field{pages}{81\bibrangedash 106}
+    \field{title}{The {Sublethal} {Effects} of {Pesticides} on {Beneficial}
+  {Arthropods}}
+    \field{volume}{52}
+    \field{journaltitle}{Annual Review of Entomology}
+    \field{year}{2007}
+  \endentry
+
+  \entry{evans2013simple}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{10}{}{%
+      {{hash=EMR}{%
+         family={Evans},
+         familyi={E\bibinitperiod},
+         given={Matthew\bibnamedelima R},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=GV}{%
+         family={Grimm},
+         familyi={G\bibinitperiod},
+         given={Volker},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=JK}{%
+         family={Johst},
+         familyi={J\bibinitperiod},
+         given={Karin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Knuuttila},
+         familyi={K\bibinitperiod},
+         given={Tarja},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=DLR}{%
+         family={De\bibnamedelima Langhe},
+         familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+         given={Rogier},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LCM}{%
+         family={Lessells},
+         familyi={L\bibinitperiod},
+         given={Catherine\bibnamedelima M},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Merz},
+         familyi={M\bibinitperiod},
+         given={Martina},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=OMA}{%
+         family={O’Malley},
+         familyi={O\bibinitperiod},
+         given={Maureen\bibnamedelima A},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=OSH}{%
+         family={Orzack},
+         familyi={O\bibinitperiod},
+         given={Steve\bibnamedelima H},
+         giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Weisberg},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{EMR+1}
+    \strng{fullhash}{EMRGVJKKTDLRLCMMMOMAOSHWM+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{10}
+    \field{pages}{578\bibrangedash 583}
+    \field{title}{Do simple models lead to generality in ecology?}
+    \field{volume}{28}
+    \field{journaltitle}{Trends in ecology \& evolution}
+    \field{year}{2013}
   \endentry
 
   \entry{frund_bee_2013}{article}{}
@@ -523,9 +722,6 @@
          giveni={T\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \keyw{plant reproduction, plant–animal interactions, interspecific
   competition, biodiversity–ecosystem functioning, complementarity effect,
   functional diversity, niche plasticity, plant pollinator network,
@@ -538,49 +734,121 @@
     \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
-    \field{abstract}{%
-    Biodiversity is important for many ecosystem processes. Global declines in
-  pollinator diversity and abundance have been recognized, raising concerns
-  about a pollination crisis of crops and wild plants. However, experimental
-  evidence for effects of pollinator species diversity on plant reproduction is
-  extremely scarce. We established communities with 1–5 bee species to test
-  how seed production of a plant community is determined by bee diversity.
-  Higher bee diversity resulted in higher seed production, but the strongest
-  difference was observed for one compared to more than one bee species.
-  Functional complementarity among bee species had a far higher explanatory
-  power than bee diversity, suggesting that additional bee species only benefit
-  pollination when they increase coverage of functional niches. In our
-  experiment, complementarity was driven by differences in flower and
-  temperature preferences. Interspecific interactions among bee species
-  contributed to realized functional complementarity, as bees reduced
-  interspecific overlap by shifting to alternative flowers in the presence of
-  other species. This increased the number of plant species visited by a bee
-  community and demonstrates a new mechanism for a biodiversity–function
-  relationship (“interactive complementarity”). In conclusion, our results
-  highlight both the importance of bee functional diversity for the
-  reproduction of plant communities and the need to identify complementarity
-  traits for accurately predicting pollination services by different bee
-  communities.%
-    }
-    \field{issn}{1939-9170}
     \field{number}{9}
     \field{pages}{2042\bibrangedash 2054}
     \field{title}{Bee diversity effects on pollination depend on functional
   complementarity and niche shifts}
     \field{volume}{94}
-    \verb{file}
-    \verb Fründ et al. - 2013 - Bee diversity effects on pollination depend on
-    \verb  fun.pdf:/home/alba/Zotero/storage/8LWJCJ4N/Fründ et al. - 2013 - Be
-    \verb e diversity effects on pollination depend on fun.pdf:application/pdf;
-    \verb Full Text PDF:/home/alba/Zotero/storage/I92XJBA4/Fründ et al. - 2013
-    \verb  - Bee diversity effects on pollination depend on fun.pdf:application
-    \verb /pdf;Snapshot:/home/alba/Zotero/storage/ZD3A2P5S/12-1620.html:text/ht
-    \verb ml
-    \endverb
     \field{journaltitle}{Ecology}
     \field{annotation}{%
     depend%
     }
+    \field{year}{2013}
+  \endentry
+
+  \entry{gill_chronic_2014}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GRJ}{%
+         family={Gill},
+         familyi={G\bibinitperiod},
+         given={Richard\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=RNE}{%
+         family={Raine},
+         familyi={R\bibinitperiod},
+         given={Nigel\bibnamedelima E.},
+         giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \keyw{bumble bee colony, crop pollination, imidacloprid, insect pollinator,
+  lambda-cyhalothrin, neonicotinoid, pyrethroid}
+    \strng{namehash}{GRJRNE1}
+    \strng{fullhash}{GRJRNE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{6}
+    \field{pages}{1459\bibrangedash 1471}
+    \field{title}{Chronic impairment of bumblebee natural foraging behaviour
+  induced by sublethal pesticide exposure}
+    \field{volume}{28}
+    \field{journaltitle}{Functional Ecology}
+    \field{annotation}{%
+    bumblebee%
+    }
+    \field{year}{2014}
+  \endentry
+
+  \entry{goulson_foraging_1999}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GD}{%
+         family={Goulson},
+         familyi={G\bibinitperiod},
+         given={Dave},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \keyw{departure rules, flower constancy, ideal free distribution, marginal
+  value theorem, optimal foraging, scent marks, systematic searching}
+    \strng{namehash}{GD1}
+    \strng{fullhash}{GD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{2}
+    \field{pages}{185\bibrangedash 209}
+    \field{title}{Foraging strategies of insects for gathering nectar and
+  pollen, and implications for plant ecology and evolution}
+    \field{volume}{2}
+    \field{journaltitle}{Perspectives in Plant Ecology, Evolution and
+  Systematics}
+    \field{annotation}{%
+    evolution%
+    }
+    \field{month}{01}
+    \field{year}{1999}
+  \endentry
+
+  \entry{goulson_review_2013}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GD}{%
+         family={Goulson},
+         familyi={G\bibinitperiod},
+         given={Dave},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=KD}{%
+         family={Kleijn},
+         familyi={K\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GD1}
+    \strng{fullhash}{GD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{4}
+    \field{pages}{977\bibrangedash 987}
+    \field{shorttitle}{{REVIEW}}
+    \field{title}{{REVIEW}: {An} overview of the environmental risks posed by
+  neonicotinoid insecticides}
+    \field{volume}{50}
+    \field{journaltitle}{Journal of Applied Ecology}
+    \field{month}{08}
     \field{year}{2013}
   \endentry
 
@@ -599,9 +867,6 @@
          giveni={C\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \keyw{biodiversity, conservation, agriculture, ecosystem services,
   Helianthus annuus}
     \strng{namehash}{GSSKC1}
@@ -612,41 +877,11 @@
     \field{labeldatesource}{}
     \field{sortinit}{G}
     \field{sortinithash}{G}
-    \field{abstract}{%
-    Pollinators are required for producing 15–30\% of the human food supply,
-  and farmers rely on managed honey bees throughout the world to provide these
-  services. Yet honey bees are not always the most efficient pollinators of all
-  crops and are declining in various parts of the world. Crop pollination
-  shortages are becoming increasingly common. We found that behavioral
-  interactions between wild and honey bees increase the pollination efficiency
-  of honey bees on hybrid sunflower up to 5-fold, effectively doubling honey
-  bee pollination services on the average field. These indirect contributions
-  caused by interspecific interactions between wild and honey bees were more
-  than five times more important than the contributions wild bees make to
-  sunflower pollination directly. Both proximity to natural habitat and crop
-  planting practices were significantly correlated with pollination services
-  provided directly and indirectly by wild bees. Our results suggest that
-  conserving wild habitat at the landscape scale and altering selected farm
-  management techniques could increase hybrid sunflower production. These
-  findings also demonstrate the economic importance of interspecific
-  interactions for ecosystem services and suggest that protecting wild bee
-  populations can help buffer the human food supply from honey bee shortages.%
-    }
-    \field{issn}{0027-8424, 1091-6490}
     \field{number}{37}
     \field{pages}{13890\bibrangedash 13895}
     \field{title}{Wild bees enhance honey bees’ pollination of hybrid
   sunflower}
     \field{volume}{103}
-    \verb{file}
-    \verb Greenleaf y Kremen - 2006 - Wild bees enhance honey bees' pollination
-    \verb  of hybri.pdf:/home/alba/Zotero/storage/IL36AXVL/Greenleaf y Kremen -
-    \verb  2006 - Wild bees enhance honey bees' pollination of hybri.pdf:applic
-    \verb ation/pdf;Snapshot:/home/alba/Zotero/storage/QX6CC9HV/13890.html:text
-    \verb /html;Full Text PDF:/home/alba/Zotero/storage/FCNC4JP2/Greenleaf y Kr
-    \verb emen - 2006 - Wild bees enhance honey bees’ pollination of hybri.pd
-    \verb f:application/pdf
-    \endverb
     \field{journaltitle}{Proceedings of the National Academy of Sciences}
     \field{annotation}{%
     pollination%
@@ -664,9 +899,6 @@
          giveni={B\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{HB1}
     \strng{fullhash}{HB1}
     \field{labelnamesource}{author}
@@ -675,26 +907,6 @@
     \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
-    \field{abstract}{%
-    Four commonspeciesof bumblebeesin centralMaine each utilizedthe nectar
-  froma greatvarietyof bothnativeand exoticflowers.The numberof
-  individualsthatutilized a nectarresourcewas directlyrelatedto supplies
-  available. Seasonally, 92\% of the "standingcrop"of foodenergyavailableper
-  day was utilizedin 1972. No interferencceompetitionwas observed,and
-  competitionwas primarilyexploitative.Small wild bees generally foragedat
-  hightemperaturefsromthesmallfood rewardsleftafterBombus exploitation.
-  Overlapin resourceutilizationin the guildof bumblebeeswas avoidedby
-  differenceisn tonguelength.Open (short-corollaf) lowerswerevisitedprimarilyby
-  short-and secondarily by long-tonguedbumblebees.Deep-corollaflowerswere
-  visitedprimarilyby long-tongued bumblebees. Pollen flowerswere utilized more
-  by short-tonguetdhan by long-tongued bumblebees.However,the
-  bumblebeeforagerspectraon givenflowerspeciesvariedfrom onelocalitytothenextas
-  wellas seasonally.Colonypolylectyis probablya necessarycorrelate of
-  socialbehavior,givenshortbloomingtimesof thehostplantsrelativeto
-  thelongdurations of thecolonycycles. In turn,colonypolylectyof eusocialbees
-  maydecreasespeciesrichness in thebee communitydue to competition.%
-    }
-    \field{issn}{00129658}
     \field{number}{5}
     \field{pages}{874\bibrangedash 889}
     \field{shorttitle}{Resource {Partitioning} {Among} {Some} {Eusocial}
@@ -702,14 +914,63 @@
     \field{title}{Resource {Partitioning} {Among} {Some} {Eusocial} {Insects}:
   {Bumblebees}}
     \field{volume}{57}
-    \verb{file}
-    \verb Heinrich - 1976 - Resource Partitioning Among Some Eusocial Insects.p
-    \verb df:/home/alba/Zotero/storage/LRP72ZUL/Heinrich - 1976 - Resource Part
-    \verb itioning Among Some Eusocial Insects.pdf:application/pdf
-    \endverb
     \field{journaltitle}{Ecology}
     \field{month}{08}
     \field{year}{1976}
+  \endentry
+
+  \entry{heinrich_resource_1979}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HB}{%
+         family={Heinrich},
+         familyi={H\bibinitperiod},
+         given={Bernd},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HB1}
+    \strng{fullhash}{HB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1979}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{3}
+    \field{pages}{235\bibrangedash 245}
+    \field{title}{Resource heterogeneity and patterns of movement in foraging
+  bumblebees}
+    \field{volume}{40}
+    \field{journaltitle}{Oecologia}
+    \field{annotation}{%
+    movement%
+    }
+    \field{month}{01}
+    \field{year}{1979}
+  \endentry
+
+  \entry{heinrich_bumblebee_2004}{book}{}
+    \name{author}{1}{}{%
+      {{hash=HB}{%
+         family={Heinrich},
+         familyi={H\bibinitperiod},
+         given={Bernd},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Harvard University Press}%
+    }
+    \strng{namehash}{HB1}
+    \strng{fullhash}{HB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Bumblebee economics}
+    \field{year}{2004}
   \endentry
 
   \entry{heinrich_energetics_1972}{article}{}
@@ -735,7 +996,6 @@
     \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
-    \field{issn}{0036-8075}
     \field{number}{4035}
     \field{pages}{597\bibrangedash 602}
     \field{title}{Energetics and {Pollination} {Ecology}}
@@ -745,6 +1005,84 @@
     Pollination%
     }
     \field{year}{1972}
+  \endentry
+
+  \entry{henry_common_2012}{article}{}
+    \name{author}{9}{}{%
+      {{hash=HM}{%
+         family={Henry},
+         familyi={H\bibinitperiod},
+         given={Mickaël},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Béguin},
+         familyi={B\bibinitperiod},
+         given={Maxime},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RF}{%
+         family={Requier},
+         familyi={R\bibinitperiod},
+         given={Fabrice},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=RO}{%
+         family={Rollin},
+         familyi={R\bibinitperiod},
+         given={Orianne},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=OJF}{%
+         family={Odoux},
+         familyi={O\bibinitperiod},
+         given={Jean-François},
+         giveni={J\bibinithyphendelim F\bibinitperiod},
+      }}%
+      {{hash=AP}{%
+         family={Aupinel},
+         familyi={A\bibinitperiod},
+         given={Pierrick},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=AJ}{%
+         family={Aptel},
+         familyi={A\bibinitperiod},
+         given={Jean},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TS}{%
+         family={Tchamitchian},
+         familyi={T\bibinitperiod},
+         given={Sylvie},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Decourtye},
+         familyi={D\bibinitperiod},
+         given={Axel},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HM+1}
+    \strng{fullhash}{HMBMRFROOJFAPAJTSDA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{6079}
+    \field{pages}{348\bibrangedash 350}
+    \field{title}{A {Common} {Pesticide} {Decreases} {Foraging} {Success} and
+  {Survival} in {Honey} {Bees}}
+    \field{volume}{336}
+    \field{journaltitle}{Science}
+    \field{annotation}{%
+    Bees%
+    }
+    \field{month}{04}
+    \field{year}{2012}
   \endentry
 
   \entry{holland_population_2001}{article}{}
@@ -762,9 +1100,6 @@
          giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \keyw{Functional response, Benefits, Costs, Fruit abortion, Mutualism}
     \strng{namehash}{HJNDDL1}
     \strng{fullhash}{HJNDDL1}
@@ -774,48 +1109,84 @@
     \field{labeldatesource}{}
     \field{sortinit}{H}
     \field{sortinithash}{H}
-    \field{abstract}{%
-    Mutualistic interactions almost always produce both costs and benefits for
-  each of the interacting species. It is the difference between gross benefits
-  and costs that determines the net benefit and the per-capita effect on each
-  of the interacting populations. For example, the net benefit of obligate
-  pollinators, such as yucca and senita moths, to plants is determined by the
-  difference between the number of ovules fertilized from moth pollination and
-  the number of ovules eaten by the pollinator's larvae. It is clear that if
-  pollinator populations are large, then, because many eggs are laid, costs to
-  plants are large, whereas, if pollinator populations are small, gross
-  benefits are low due to lack of pollination. Even though the size and
-  dynamics of the pollinator population are likely to be crucial, their
-  importance has been neglected in the investigation of mechanisms, such as
-  selective fruit abortion, that can limit costs and increase net benefits.
-  Here, we suggest that both the population size and dynamics of pollinators
-  are important in determining the net benefits to plants, and that fruit
-  abortion can significantly affect these. We develop a model of mutualism
-  between populations of plants and their pollinating seed-predators to explore
-  the ecological consequences of fruit abortion on pollinator population
-  dynamics and the net effect on plants. We demonstrate that the benefit to a
-  plant population is unimodal as a function of pollinator abundance, relative
-  to the abundance of flowers. Both selective abortion of fruit with eggs and
-  random abortion of fruit, without reference to whether they have eggs or not,
-  can limit pollinator population size. This can increase the net benefits to
-  the plant population by limiting the number of eggs laid, if the pollination
-  rate remains high. However, fruit abortion can possibly destabilize the
-  pollinator population, with negative consequences for the plant population.%
-    }
-    \field{issn}{1432-1939}
     \field{number}{4}
     \field{pages}{575\bibrangedash 586}
     \field{title}{Population dynamics and the ecological stability of obligate
   pollination mutualisms}
     \field{volume}{126}
-    \verb{file}
-    \verb Springer Full Text PDF:/home/alba/Zotero/storage/9UBG6PNP/Holland and
-    \verb  DeAngelis - 2001 - Population dynamics and the ecological stability
-    \verb o.pdf:application/pdf
-    \endverb
     \field{journaltitle}{Oecologia}
     \field{month}{02}
     \field{year}{2001}
+  \endentry
+
+  \entry{holland2002population}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HJN}{%
+         family={Holland},
+         familyi={H\bibinitperiod},
+         given={J\bibnamedelima Nathaniel},
+         giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=DDL}{%
+         family={DeAngelis},
+         familyi={D\bibinitperiod},
+         given={Donald\bibnamedelima L},
+         giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=BJL}{%
+         family={Bronstein},
+         familyi={B\bibinitperiod},
+         given={Judith\bibnamedelima L},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The University of Chicago Press}%
+    }
+    \strng{namehash}{HJNDDLBJL1}
+    \strng{fullhash}{HJNDDLBJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{3}
+    \field{pages}{231\bibrangedash 244}
+    \field{title}{Population dynamics and mutualism: functional responses of
+  benefits and costs}
+    \field{volume}{159}
+    \field{journaltitle}{The American Naturalist}
+    \field{year}{2002}
+  \endentry
+
+  \entry{holling1959some}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HCS}{%
+         family={Holling},
+         familyi={H\bibinitperiod},
+         given={Crawford\bibnamedelima S},
+         giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{HCS1}
+    \strng{fullhash}{HCS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1959}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{7}
+    \field{pages}{385\bibrangedash 398}
+    \field{title}{Some characteristics of simple types of predation and
+  parasitism1}
+    \field{volume}{91}
+    \field{journaltitle}{The Canadian Entomologist}
+    \field{year}{1959}
   \endentry
 
   \entry{inouye_resource_1978}{article}{}
@@ -827,9 +1198,6 @@
          giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{IDW1}
     \strng{fullhash}{IDW1}
     \field{labelnamesource}{author}
@@ -838,43 +1206,12 @@
     \field{labeldatesource}{}
     \field{sortinit}{I}
     \field{sortinithash}{I}
-    \field{abstract}{%
-    A system comprising 2 species of bumblebess (Bombus appositus and Bombus
-  flavifrons) and 2 species of flowers (Delphinium barbeyi and Aconitum
-  columbianum) in Gothic, Colorado, USA, was manipulated to determine whether
-  resource utilization by each bumblebee species was influenced by the presence
-  of the other species of bumblebee. Each bumblebee species concentrated its
-  foraging efforts on a different flower species, apparently choosing the
-  species whose corolla tube length matched its proboscis length most closely.
-  When each bumblebee species was temporarily removed from its preferred flower
-  species, the remaining bumblebee species increased visitation to the other,
-  previously less—utilized, flower species. The remaining bumblebees visited
-  more flowers per stay in the patch, suggesting that they were finding greater
-  amounts of nectar in the absence of other bumblebee species. These removal
-  experiments demonstrated that the bumblebees were sampling flowers frequently
-  enough and were flexible enough in their foraging behavior to respond rapidly
-  to short—term changes in nectar availability. In another area, where its
-  preferred flower species and the other bumblebee species were absent, B.
-  flavifrons foraged actively on the flower species it rarely used in Gothic.
-  This observation and the experiments demonstrate that resource utilization by
-  a bumblebee species is influenced by the presence of other species and
-  suggest that the phenomenon of competitive release can be observed in
-  bumblebees. In this system,interspecific exploitation competition appears to
-  be the primary mechanism involved in resource partitioning.%
-    }
-    \field{issn}{1939-9170}
     \field{number}{4}
     \field{pages}{672\bibrangedash 678}
     \field{shorttitle}{Resource {Partitioning} in {Bumblebees}}
     \field{title}{Resource {Partitioning} in {Bumblebees}: {Experimental}
   {Studies} of {Foraging} {Behavior}}
     \field{volume}{59}
-    \verb{file}
-    \verb Inouye - 1978 - Resource Partitioning in Bumblebees Experimental .pdf
-    \verb :/home/alba/Zotero/storage/8HY6UBVL/Inouye - 1978 - Resource Partitio
-    \verb ning in Bumblebees Experimental .pdf:application/pdf;Snapshot:/home/a
-    \verb lba/Zotero/storage/N94NDK26/1938769.html:text/html
-    \endverb
     \field{journaltitle}{Ecology}
     \field{annotation}{%
     Bumblebees%
@@ -909,9 +1246,6 @@
          giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{LEM+1}
     \strng{fullhash}{LEMHMTICNJC1}
     \field{labelnamesource}{author}
@@ -920,45 +1254,108 @@
     \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
-    \field{abstract}{%
-    Foragers can improve search efficiency, and ultimately fitness, by using
-  social information: cues and signals produced by other animals that indicate
-  food location or quality. Social information use has been well studied in
-  predator–prey systems, but its functioning within a trophic level remains
-  poorly understood. Eavesdropping, use of signals by unintended recipients, is
-  of particular interest because eavesdroppers may exert selective pressure on
-  signaling systems. We provide the most complete study to date of
-  eavesdropping between two competing social insect species by determining the
-  glandular source and composition of a recruitment pheromone, and by examining
-  reciprocal heterospecific responses to this signal. We tested eavesdropping
-  between Trigona hyalinata and Trigona spinipes, two stingless bee species
-  that compete for floral resources, exhibit a clear dominance hierarchy and
-  recruit nestmates to high-quality food sources via pheromone trails. Gas
-  chromatography–mass spectrometry of T. hyalinata recruitment pheromone
-  revealed six carboxylic esters, the most common of which is octyl octanoate,
-  the major component of T. spinipes recruitment pheromone. We demonstrate
-  heterospecific detection of recruitment pheromones, which can influence
-  heterospecific and conspecific scout orientation. Unexpectedly, the dominant
-  T. hyalinata avoided T. spinipes pheromone in preference tests, while the
-  subordinate T. spinipes showed neither attraction to nor avoidance of T.
-  hyalinata pheromone. We suggest that stingless bees may seek to avoid
-  conflict through their eavesdropping behavior, incorporating expected costs
-  associated with a choice into the decision-making process.%
-    }
-    \field{issn}{1432-0762}
     \field{number}{4}
     \field{pages}{763\bibrangedash 774}
     \field{title}{Olfactory eavesdropping between two competing stingless bee
   species}
     \field{volume}{65}
-    \verb{file}
-    \verb Springer Full Text PDF:/home/alba/Zotero/storage/T2KI85SB/Lichtenberg
-    \verb  et al. - 2011 - Olfactory eavesdropping between two competing stin.p
-    \verb df:application/pdf
-    \endverb
     \field{journaltitle}{Behavioral Ecology and Sociobiology}
     \field{month}{04}
     \field{year}{2011}
+  \endentry
+
+  \entry{maienfisch_chemistry_2001}{article}{}
+    \name{author}{11}{}{%
+      {{hash=MP}{%
+         family={Maienfisch},
+         familyi={M\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Angst},
+         familyi={A\bibinitperiod},
+         given={Max},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Brandl},
+         familyi={B\bibinitperiod},
+         given={Franz},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=FW}{%
+         family={Fischer},
+         familyi={F\bibinitperiod},
+         given={Willi},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=HD}{%
+         family={Hofer},
+         familyi={H\bibinitperiod},
+         given={Dieter},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=KH}{%
+         family={Kayser},
+         familyi={K\bibinitperiod},
+         given={Hartmut},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=KW}{%
+         family={Kobel},
+         familyi={K\bibinitperiod},
+         given={Werner},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Rindlisbacher},
+         familyi={R\bibinitperiod},
+         given={Alfred},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Senn},
+         familyi={S\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Steinemann},
+         familyi={S\bibinitperiod},
+         given={Adrian},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WH}{%
+         family={Widmer},
+         familyi={W\bibinitperiod},
+         given={Hansjürg},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \keyw{3, 4-nitroimino-1, 5-oxadiazinanes, chemical and physical properties,
+  discovery, field performance, insecticides, mode of action, neonicotinoids,
+  safety profile, structure-activity relationships, synthesis, thiamethoxam,
+  use rates}
+    \strng{namehash}{MP+1}
+    \strng{fullhash}{MPAMBFFWHDKHKWRASRSAWH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{10}
+    \field{pages}{906\bibrangedash 913}
+    \field{shorttitle}{Chemistry and biology of thiamethoxam}
+    \field{title}{Chemistry and biology of thiamethoxam: a second generation
+  neonicotinoid}
+    \field{volume}{57}
+    \field{journaltitle}{Pest Management Science}
+    \field{annotation}{%
+    thiamethoxam%
+    }
+    \field{year}{2001}
   \endentry
 
   \entry{mallinger2017managed}{article}{}
@@ -1002,6 +1399,140 @@
     \field{year}{2017}
   \endentry
 
+  \entry{mcelreath_statistical_2018}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MR}{%
+         family={McElreath},
+         familyi={M\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {Chapman}%
+      {Hall/CRC}%
+    }
+    \strng{namehash}{MR1}
+    \strng{fullhash}{MR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{isbn}{978-1-315-37249-5}
+    \field{shorttitle}{Statistical {Rethinking}}
+    \field{title}{Statistical {Rethinking} : {A} {Bayesian} {Course} with
+  {Examples} in {R} and {Stan}}
+    \field{annotation}{%
+    Examples%
+    }
+    \field{month}{01}
+    \field{year}{2018}
+  \endentry
+
+  \entry{mommaerts_risk_2009}{article}{}
+    \name{author}{6}{}{%
+      {{hash=MV}{%
+         family={Mommaerts},
+         familyi={M\bibinitperiod},
+         given={Veerle},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Reynders},
+         familyi={R\bibinitperiod},
+         given={Sofie},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Boulet},
+         familyi={B\bibinitperiod},
+         given={Jana},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BL}{%
+         family={Besard},
+         familyi={B\bibinitperiod},
+         given={Linde},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Sterk},
+         familyi={S\bibinitperiod},
+         given={Guido},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Smagghe},
+         familyi={S\bibinitperiod},
+         given={Guy},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MV+1}
+    \strng{fullhash}{MVRSBJBLSGSG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{1}
+    \field{pages}{207}
+    \field{title}{Risk assessment for side-effects of neonicotinoids against
+  bumblebees with and without impairing foraging behavior}
+    \field{volume}{19}
+    \field{journaltitle}{Ecotoxicology}
+    \field{annotation}{%
+    bumblebees%
+    }
+    \field{month}{09}
+    \field{year}{2009}
+  \endentry
+
+  \entry{morris_benefit_2010}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MWF}{%
+         family={Morris},
+         familyi={M\bibinitperiod},
+         given={William\bibnamedelima F.},
+         giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=VDP}{%
+         family={Vázquez},
+         familyi={V\bibinitperiod},
+         given={Diego\bibnamedelima P.},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=CNP}{%
+         family={Chacoff},
+         familyi={C\bibinitperiod},
+         given={Natacha\bibnamedelima P.},
+         giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \keyw{interaction frequency, benefits and costs of mutualism, density
+  dependence, nectar robbery, pollinating seed–consumer mutualism}
+    \strng{namehash}{MWFVDPCNP1}
+    \strng{fullhash}{MWFVDPCNP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{5}
+    \field{pages}{1276\bibrangedash 1285}
+    \field{title}{Benefit and cost curves for typical pollination mutualisms}
+    \field{volume}{91}
+    \field{journaltitle}{Ecology}
+    \field{annotation}{%
+    show%
+    }
+    \field{year}{2010}
+  \endentry
+
   \entry{morse_resource_1977}{article}{}
     \name{author}{1}{}{%
       {{hash=MDH}{%
@@ -1011,9 +1542,6 @@
          giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{MDH1}
     \strng{fullhash}{MDH1}
     \field{labelnamesource}{author}
@@ -1022,28 +1550,40 @@
     \field{labeldatesource}{}
     \field{sortinit}{M}
     \field{sortinithash}{M}
-    \field{abstract}{%
-    Small Bombus ternarius workers forage most frequently on the distal parts
-  of goldenrod flower clusters when large B. terricola workers are present.
-  This shift results from B. ternarius avoiding B. terricola. In this way B.
-  ternarius can exploit, without conflict, resources whose availability changes
-  constantly because of fluctuating numbers of larger consumers.%
-    }
-    \field{issn}{0036-8075, 1095-9203}
     \field{number}{4304}
     \field{pages}{678\bibrangedash 680}
     \field{shorttitle}{Resource {Partitioning} in {Bumble} {Bees}}
     \field{title}{Resource {Partitioning} in {Bumble} {Bees}: {The} {Role} of
   {Behavioral} {Factors}}
     \field{volume}{197}
-    \verb{file}
-    \verb Morse - 1977 - Resource Partitioning in Bumble Bees The Role of .pdf:
-    \verb /home/alba/Zotero/storage/QV5SXFPK/Morse - 1977 - Resource Partitioni
-    \verb ng in Bumble Bees The Role of .pdf:application/pdf
-    \endverb
     \field{journaltitle}{Science}
     \field{month}{08}
     \field{year}{1977}
+  \endentry
+
+  \entry{Rcore}{manual}{}
+    \name{author}{1}{}{%
+      {{hash=R}{%
+         family={{R Core Team}},
+         familyi={R\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {R Foundation for Statistical Computing}%
+    }
+    \strng{namehash}{R1}
+    \strng{fullhash}{R1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{R: A Language and Environment for Statistical Computing}
+    \list{location}{1}{%
+      {Vienna, Austria}%
+    }
+    \field{year}{2013}
   \endentry
 
   \entry{revilla2015numerical}{article}{}
@@ -1074,6 +1614,44 @@
     \field{year}{2015}
   \endentry
 
+  \entry{rohr_structural_2014}{article}{}
+    \name{author}{3}{}{%
+      {{hash=RRP}{%
+         family={Rohr},
+         familyi={R\bibinitperiod},
+         given={Rudolf\bibnamedelima P.},
+         giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Saavedra},
+         familyi={S\bibinitperiod},
+         given={Serguei},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bascompte},
+         familyi={B\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RRPSSBJ1}
+    \strng{fullhash}{RRPSSBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{6195}
+    \field{pages}{1253497}
+    \field{title}{On the structural stability of mutualistic systems}
+    \field{volume}{345}
+    \field{journaltitle}{Science}
+    \field{month}{07}
+    \field{year}{2014}
+  \endentry
+
   \entry{roubik_competitive_1978}{article}{}
     \name{author}{1}{}{%
       {{hash=RDW}{%
@@ -1083,9 +1661,6 @@
          giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{RDW1}
     \strng{fullhash}{RDW1}
     \field{labelnamesource}{author}
@@ -1094,28 +1669,48 @@
     \field{labeldatesource}{}
     \field{sortinit}{R}
     \field{sortinithash}{R}
-    \field{abstract}{%
-    The Africanized honey bee, a hybrid of European and African honey bees, is
-  thought to displace native pollinators. After experimental introduction of
-  Africanized honey bee hives near flowers, stingless bees became less abundant
-  or harvested-less resource as visitation by Africanized honey bees increased.
-  Shifts in resource use caused by colonizing Africanized honey bees may lead
-  to population decline of Neotropical pollinators.%
-    }
-    \field{issn}{0036-8075, 1095-9203}
     \field{number}{4360}
     \field{title}{Competitive {Interactions} {Between} {Neotropical}
   {Pollinators} and {Africanized} {Honey} {Bees}}
     \field{volume}{201}
-    \verb{file}
-    \verb Roubik - 1978 - Competitive Interactions Between Neotropical Polli.pd
-    \verb f:/home/alba/Zotero/storage/9SM8FDYP/Roubik - 1978 - Competitive Inte
-    \verb ractions Between Neotropical Polli.pdf:application/pdf;Snapshot:/home
-    \verb /alba/Zotero/storage/YQ6UHDTF/1030.html:text/html
-    \endverb
     \field{journaltitle}{Science}
     \field{month}{09}
     \field{year}{1978}
+  \endentry
+
+  \entry{sahli2006characterizing}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SHF}{%
+         family={Sahli},
+         familyi={S\bibinitperiod},
+         given={Heather\bibnamedelima F},
+         giveni={H\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=CJK}{%
+         family={Conner},
+         familyi={C\bibinitperiod},
+         given={Jeffrey\bibnamedelima K},
+         giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{SHFCJK1}
+    \strng{fullhash}{SHFCJK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2006}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{3}
+    \field{pages}{365\bibrangedash 372}
+    \field{title}{Characterizing ecological generalization in plant-pollination
+  systems}
+    \field{volume}{148}
+    \field{journaltitle}{Oecologia}
+    \field{year}{2006}
   \endentry
 
   \entry{skalski_functional_2001}{article}{}
@@ -1133,9 +1728,6 @@
          giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \keyw{Beddington-DeAngelis model, Crowley-Martin model, foraging,
   functional response, Hassell-Varley model, Holling Type II model,
   interference, predator, prey}
@@ -1147,38 +1739,51 @@
     \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
-    \field{abstract}{%
-    A predator's per capita feeding rate on prey, or its functional response,
-  provides a foundation for predator–prey theory. Since 1959, Holling's
-  prey-dependent Type II functional response, a model that is a function of
-  prey abundance only, has served as the basis for a large literature on
-  predator–prey theory. We present statistical evidence from 19
-  predator–prey systems that three predator-dependent functional responses
-  (Beddington-DeAngelis, Crowley-Martin, and Hassell-Varley), i.e., models that
-  are functions of both prey and predator abundance because of predator
-  interference, can provide better descriptions of predator feeding over a
-  range of predator–prey abundances. No single functional response best
-  describes all of the data sets. Given these functional forms, we suggest use
-  of the Beddington-DeAngelis or Hassell-Varley model when predator feeding
-  rate becomes independent of predator density at high prey density and use of
-  the Crowley-Martin model when predator feeding rate is decreased by higher
-  predator density even when prey density is high.%
-    }
-    \field{issn}{1939-9170}
     \field{number}{11}
     \field{pages}{3083\bibrangedash 3092}
     \field{shorttitle}{Functional {Responses} with {Predator} {Interference}}
     \field{title}{Functional {Responses} with {Predator} {Interference}:
   {Viable} {Alternatives} to the {Holling} {Type} {II} {Model}}
     \field{volume}{82}
-    \verb{file}
-    \verb Full Text PDF:/home/alba/Zotero/storage/625Z6GLD/Skalski and Gilliam
-    \verb - 2001 - Functional Responses with Predator Interference V.pdf:applic
-    \verb ation/pdf;Snapshot:/home/alba/Zotero/storage/CQFHCDKE/0012-9658(2001)
-    \verb 082[3083FRWPIV]2.0.html:text/html
-    \endverb
     \field{journaltitle}{Ecology}
     \field{year}{2001}
+  \endentry
+
+  \entry{stanley_chronic_2016}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SDA}{%
+         family={Stanley},
+         familyi={S\bibinitperiod},
+         given={Dara\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=RNE}{%
+         family={Raine},
+         familyi={R\bibinitperiod},
+         given={Nigel\bibnamedelima E.},
+         giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \keyw{bumble bee Bombus terrestris, ecotoxicology, flower visitation,
+  foraging behaviour, insecticide, pollen, pollinator declines}
+    \strng{namehash}{SDARNE1}
+    \strng{fullhash}{SDARNE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{7}
+    \field{pages}{1132\bibrangedash 1139}
+    \field{title}{Chronic exposure to a neonicotinoid pesticide alters the
+  interactions between bumblebees and wild plants}
+    \field{volume}{30}
+    \field{journaltitle}{Functional Ecology}
+    \field{annotation}{%
+    neonicotinoid%
+    }
+    \field{year}{2016}
   \endentry
 
   \entry{thomson_detecting_2006}{article}{}
@@ -1190,9 +1795,6 @@
          giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{TDM1}
     \strng{fullhash}{TDM1}
     \field{labelnamesource}{author}
@@ -1201,52 +1803,12 @@
     \field{labeldatesource}{}
     \field{sortinit}{T}
     \field{sortinithash}{T}
-    \field{abstract}{%
-    Developing tools for rapid assessment of introduced species impacts is one
-  of the most important challenges in invasion ecology. Most assessments of
-  impact rely on correlational data or other indirect measures. Yet few studies
-  have evaluated invasion effects using multiple, simultaneously applied
-  monitoring and experimental approaches, in order to compare easily obtained
-  metrics with more difficult but direct measures of reproductive success or
-  population dynamics. In this study, I use data from an experimental test of
-  introduced honey bee (Apis mellifera) impacts on native bumble bees (Bombus
-  spp.) to address two major questions: 1) how well did observational data on
-  niche overlap and spatial correlations between Apis and Bombus predict the
-  results of experimental tests of competitive effects? and 2) how well did
-  effects of the experimental Apis manipulations on Bombus foragers, which are
-  easy to observe, predict changes in reproductive success of colonies, which
-  are difficult to measure? Niche overlap between Apis and Bombus varied
-  substantially, but increased to levels as high as 80–90\% during periods of
-  resource scarcity. Correlations between numbers of Apis foragers and numbers
-  of Bombus foragers were also highly variable, but I detected a significant
-  negative relationship in only one of the seven months observed. In contrast,
-  the experimental results showed that mean numbers of Bombus foragers observed
-  on a given transect increased significantly with greater distance from
-  introduced Apis colonies. Of these three measures (niche overlap,
-  correlations in abundances, and effects of experimental introductions), only
-  the experimental data on forager abundances accurately estimated competitive
-  effects on colony reproductive success previously reported for the same
-  experiment, and the correlational data in particular completely failed to
-  predict the effects observed in the experimental study. This work suggests
-  that great caution is warranted in making assessments of invasion impact on
-  the basis of spatial or temporal correlations between invasive and native
-  species. Thus, investing in even small and limited experimental studies may
-  be more valuable than extensive observational work in quantifying invasion
-  impacts.%
-    }
-    \field{issn}{1600-0706}
     \field{number}{3}
     \field{pages}{407\bibrangedash 418}
     \field{shorttitle}{Detecting the effects of introduced species}
     \field{title}{Detecting the effects of introduced species: a case study of
   competition between {Apis} and {Bombus}}
     \field{volume}{114}
-    \verb{file}
-    \verb Full Text PDF:/home/alba/Zotero/storage/CRFFN578/Thomson - 2006 - Det
-    \verb ecting the effects of introduced species a cas.pdf:application/pdf;Sn
-    \verb apshot:/home/alba/Zotero/storage/GVNYXBU4/j.2006.0030-1299.14604.html
-    \verb :text/html
-    \endverb
     \field{journaltitle}{Oikos}
     \field{annotation}{%
     between%
@@ -1269,9 +1831,6 @@
          giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{TDMPML1}
     \strng{fullhash}{TDMPML1}
     \field{labelnamesource}{author}
@@ -1280,34 +1839,10 @@
     \field{labeldatesource}{}
     \field{sortinit}{T}
     \field{sortinithash}{T}
-    \field{abstract}{%
-    Resource competition likely plays an important role in some insect
-  pollinator declines and in shaping effects of environmental change on
-  pollination services. Past research supports that competition for floral
-  resources affects bee foragers, but mostly with observational evidence and
-  rarely linking foraging with population change. An increasing number of
-  studies ask whether resources limit pollinator populations, using field
-  measurements of reproductive success, time series and models. Findings
-  generally support positive effects of floral resources, but also highlight
-  the potential importance of nest site availability and parasitism. In
-  parallel, recent experiments strengthen evidence that competition reduces
-  access to floral resources. Developing common currencies for quantifying
-  floral resources and integrating analyses of multiple limiting factors will
-  further strengthen our understanding of competitive interactions and their
-  effects in the Anthropocene.%
-    }
-    \field{issn}{2214-5745}
     \field{pages}{55\bibrangedash 62}
-    \field{series}{Ecology • {Parasites}/{Parasitoids}/{Biological} control}
     \field{title}{The importance of competition between insect pollinators in
   the {Anthropocene}}
     \field{volume}{38}
-    \verb{file}
-    \verb ScienceDirect Snapshot:/home/alba/Zotero/storage/DA4ENAPN/S2214574520
-    \verb 30002X.html:text/html;ScienceDirect Full Text PDF:/home/alba/Zotero/s
-    \verb torage/CBPHSSZH/Thomson and Page - 2020 - The importance of competiti
-    \verb on between insect polli.pdf:application/pdf
-    \endverb
     \field{journaltitle}{Current Opinion in Insect Science}
     \field{month}{04}
     \field{year}{2020}
@@ -1334,9 +1869,6 @@
          giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{TJDPSCHLD1}
     \strng{fullhash}{TJDPSCHLD1}
     \field{labelnamesource}{author}
@@ -1345,21 +1877,6 @@
     \field{labeldatesource}{}
     \field{sortinit}{T}
     \field{sortinithash}{T}
-    \field{abstract}{%
-    In field experiments, we mapped the regular foraging routes (traplines) of
-  marked bumble bees visiting AraIia hispida. When other bees were removed to
-  create localized "competitive vacuums", the marked bees shifted their feeding
-  activity toward the removal areas. Bees foraging in these competitive vacuums
-  probed more flowers per inflorescence than control bees. One bee's foraging
-  was studied intensively before and after its local competitors were removed.
-  Compared to four nestmates foraging elsewhere, the focal bee's trip times
-  were shorter (p{\textless}0.005) and its food collection rate was marginally
-  higher (P= 0.064) during the removal, although all the bees foraged similarly
-  before the removal. These observations indicate that traplining bumble bees
-  opportunistically modify their use of space in response to the activities of
-  other bees in a highly competitive environment.%
-    }
-    \field{issn}{0029-8549, 1432-1939}
     \field{number}{2}
     \field{pages}{295\bibrangedash 300}
     \field{shorttitle}{Response of traplining bumble bees to competition
@@ -1367,12 +1884,6 @@
     \field{title}{Response of traplining bumble bees to competition
   experiments: shifts in feeding location and efficiency}
     \field{volume}{71}
-    \verb{file}
-    \verb Thomson et al. - 1987 - Response of traplining bumble bees to competi
-    \verb tion .pdf:/home/alba/Zotero/storage/XWWDVUHK/Thomson et al. - 1987 -
-    \verb Response of traplining bumble bees to competition .pdf:application/pd
-    \verb f
-    \endverb
     \field{journaltitle}{Oecologia}
     \field{month}{01}
     \field{year}{1987}
@@ -1387,9 +1898,6 @@
          giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{TJD1}
     \strng{fullhash}{TJD1}
     \field{labelnamesource}{author}
@@ -1398,40 +1906,257 @@
     \field{labeldatesource}{}
     \field{sortinit}{T}
     \field{sortinithash}{T}
-    \field{abstract}{%
-    In field experiments with Aralia hispida inflorescences, the following
-  variables were manipulated: number of umbels per inflorescence, number of
-  flowers per umbel, and amounts of pollen and nectar per flower. Visitation
-  rates by bumble bees, the principal pollinators, were then observed. In the
-  reward-variation experiments, bees appeared to learn the positions of
-  nectar-rich shoots, and visited them significantly more often than
-  nectar-poor shoots. They did not respond to similar variation in pollen
-  production. The nectar preferences developed slowly after the treatments were
-  imposed, and bees continued to favor sites that had been occupied by
-  nectar-rich shoots even after the treatments were discontinued. Visitation
-  rate was approximately proportional to flower number, making it unlikely that
-  increases in inflorescence size produced a disproportionate gain in male
-  reproductive success (a necessary condition in certain models for the
-  evolution of dioecy). For a fixed number of flowers per inflorescence, bees
-  preferred inflorescences with more umbels. In pairwise choice tests of
-  male-phase and female-phase umbels of various sizes, bees preferred
-  male-phase umbels and larger umbels; the preference for male-phase umbels is
-  stronger in bees that had previously fed on male-phase umbels.%
-    }
-    \field{issn}{0269-7653, 1573-8477}
     \field{number}{1}
     \field{pages}{65\bibrangedash 76}
     \field{title}{Effects of variation in inflorescence size and floral rewards
   on the visitation rates of traplining pollinators {ofAralia} hispida}
     \field{volume}{2}
-    \verb{file}
-    \verb Thomson - 1988 - Effects of variation in inflorescence size and flo.p
-    \verb df:/home/alba/Zotero/storage/CQNNP5CX/Thomson - 1988 - Effects of var
-    \verb iation in inflorescence size and flo.pdf:application/pdf
-    \endverb
     \field{journaltitle}{Evolutionary Ecology}
     \field{month}{01}
     \field{year}{1988}
+  \endentry
+
+  \entry{valdovinos_adaptive_2013}{article}{}
+    \name{author}{4}{}{%
+      {{hash=VFS}{%
+         family={Valdovinos},
+         familyi={V\bibinitperiod},
+         given={Fernanda\bibnamedelima S.},
+         giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=DEPM}{%
+         family={De\bibnamedelima Espanés},
+         familyi={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+         given={Pablo\bibnamedelima Moisset},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=FJD}{%
+         family={Flores},
+         familyi={F\bibinitperiod},
+         given={José\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=RJR}{%
+         family={Ramos-Jiliberto},
+         familyi={R\bibinithyphendelim J\bibinitperiod},
+         given={Rodrigo},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VFS+1}
+    \strng{fullhash}{VFSDEPMFJDRJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{6}
+    \field{pages}{907\bibrangedash 917}
+    \field{title}{Adaptive foraging allows the maintenance of biodiversity of
+  pollination networks}
+    \field{volume}{122}
+    \field{journaltitle}{Oikos}
+    \field{year}{2013}
+  \endentry
+
+  \entry{vehtari_rank-normalization_2020}{article}{}
+    \name{author}{5}{}{%
+      {{hash=VA}{%
+         family={Vehtari},
+         familyi={V\bibinitperiod},
+         given={Aki},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Gelman},
+         familyi={G\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Simpson},
+         familyi={S\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Carpenter},
+         familyi={C\bibinitperiod},
+         given={Bob},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=BPC}{%
+         family={Bürkner},
+         familyi={B\bibinitperiod},
+         given={Paul-Christian},
+         giveni={P\bibinithyphendelim C\bibinitperiod},
+      }}%
+    }
+    \keyw{Statistics - Computation, Statistics - Methodology}
+    \strng{namehash}{VA+1}
+    \strng{fullhash}{VAGASDCBBPC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{note}{arXiv: 1903.08008}
+    \field{shorttitle}{Rank-normalization, folding, and localization}
+    \field{title}{Rank-normalization, folding, and localization: An improved R
+  for assessing convergence of {MCMC}}
+    \field{annotation}{%
+    Comment: Minor revision for improved clarity%
+    }
+    \field{month}{05}
+    \field{year}{2020}
+  \endentry
+
+  \entry{vazquez_strength_2012}{article}{}
+    \name{author}{7}{}{%
+      {{hash=VDP}{%
+         family={Vázquez},
+         familyi={V\bibinitperiod},
+         given={Diego\bibnamedelima P.},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=LSB}{%
+         family={Lomáscolo},
+         familyi={L\bibinitperiod},
+         given={Silvia\bibnamedelima B.},
+         giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=MMB}{%
+         family={Maldonado},
+         familyi={M\bibinitperiod},
+         given={M.\bibnamedelima Belén},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=CNP}{%
+         family={Chacoff},
+         familyi={C\bibinitperiod},
+         given={Natacha\bibnamedelima P.},
+         giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Dorado},
+         familyi={D\bibinitperiod},
+         given={Jimena},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SEL}{%
+         family={Stevani},
+         familyi={S\bibinitperiod},
+         given={Erica\bibnamedelima L.},
+         giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=VNL}{%
+         family={Vitale},
+         familyi={V\bibinitperiod},
+         given={Nydia\bibnamedelima L.},
+         giveni={N\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \keyw{asymmetry, ecological networks, interaction frequency, interaction
+  strength, Monte desert, mutualism, plant–pollinator interactions,
+  pollination, species impact}
+    \strng{namehash}{VDP+1}
+    \strng{fullhash}{VDPLSBMMBCNPDJSELVNL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{4}
+    \field{pages}{719\bibrangedash 725}
+    \field{title}{The strength of plant–pollinator interactions}
+    \field{volume}{93}
+    \field{journaltitle}{Ecology}
+    \field{year}{2012}
+  \endentry
+
+  \entry{vazquez_interaction_2005}{article}{}
+    \name{author}{3}{}{%
+      {{hash=VDP}{%
+         family={Vázquez},
+         familyi={V\bibinitperiod},
+         given={Diego\bibnamedelima P.},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=MWF}{%
+         family={Morris},
+         familyi={M\bibinitperiod},
+         given={William\bibnamedelima F.},
+         giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=JP}{%
+         family={Jordano},
+         familyi={J\bibinitperiod},
+         given={Pedro},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \keyw{interaction frequency, interaction strength, mutualism, pollination,
+  Abundance, effectiveness, interaction networks, plant reproduction,
+  plant–animal interactions, seed dispersal}
+    \strng{namehash}{VDPMWFJP1}
+    \strng{fullhash}{VDPMWFJP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{10}
+    \field{pages}{1088\bibrangedash 1094}
+    \field{title}{Interaction frequency as a surrogate for the total effect of
+  animal mutualists on plants}
+    \field{volume}{8}
+    \field{journaltitle}{Ecology Letters}
+    \field{year}{2005}
+  \endentry
+
+  \entry{westphal_mass_2003}{article}{}
+    \name{author}{3}{}{%
+      {{hash=WC}{%
+         family={Westphal},
+         familyi={W\bibinitperiod},
+         given={Catrin},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Steffan‐Dewenter},
+         familyi={S\bibinitperiod},
+         given={Ingolf},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=TT}{%
+         family={Tscharntke},
+         familyi={T\bibinitperiod},
+         given={Teja},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \keyw{pollination, landscape structure, Agri-environment schemes, Bombus
+  spp, bumblebees, conservation measures, foraging habitats, landscape-scale
+  study, mass flowering crops, nesting sites}
+    \strng{namehash}{WCSITT1}
+    \strng{fullhash}{WCSITT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{11}
+    \field{pages}{961\bibrangedash 965}
+    \field{title}{Mass flowering crops enhance pollinator densities at a
+  landscape scale}
+    \field{volume}{6}
+    \field{journaltitle}{Ecology Letters}
+    \field{year}{2003}
   \endentry
 
   \entry{westphal_foraging_2006}{article}{}
@@ -1455,9 +2180,6 @@
          giveni={T\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \keyw{pollination, Agroecosystems, Bombus terrestris, colony growth,
   conservation, landscape structure, large-scale resource availability,
   Phacelia tanacetifolia}
@@ -1469,39 +2191,11 @@
     \field{labeldatesource}{}
     \field{sortinit}{W}
     \field{sortinithash}{W}
-    \field{abstract}{%
-    1. The study tested the hypotheses that bumblebees have shorter foraging
-  trips in environments that provide abundant resources than in environments
-  that provide sparse resources, and that shorter foraging trips translate into
-  greater colony growth. 2. Six even-aged Bombus terrestris colonies were
-  established in contrasting resource environments. Three colonies had access
-  to abundant resources (Phacelia tanacetifolia fields with high flower
-  densities), and three colonies were placed in an environment with sparse
-  resources (scattered semi-natural habitats with food plants at lower
-  densities). 3. A total of 870 foraging trips of 220 marked B. terrestris
-  foragers were observed using automated camcorder recordings. 4. The duration
-  of foraging trips was shorter in environments with abundant resources (66 ±
-  4.6 min) than in environments with sparse resources (82 ± 3.7 min). Within
-  34 days colonies that had access to abundant resources gained significantly
-  more weight (129 ± 40 g) than colonies foraging on sparse resources (19 ± 7
-  g). 5. Thus, the spatial distribution and quality of resources at landscape
-  level affected the duration of foraging trips and the colony growth. It was
-  concluded that future conservation schemes need to improve the spatial and
-  temporal availability of resources in agricultural landscapes to counteract
-  the ongoing decline of bumblebees.%
-    }
-    \field{issn}{1365-2311}
     \field{number}{4}
     \field{pages}{389\bibrangedash 394}
     \field{title}{Foraging trip duration of bumblebees in relation to
   landscape-wide resource availability}
     \field{volume}{31}
-    \verb{file}
-    \verb Snapshot:/home/alba/Zotero/storage/96AG3D5C/j.1365-2311.2006.00801.ht
-    \verb ml:text/html;Full Text PDF:/home/alba/Zotero/storage/WF8FE9I3/Westpha
-    \verb l et al. - 2006 - Foraging trip duration of bumblebees in relation t.
-    \verb pdf:application/pdf
-    \endverb
     \field{journaltitle}{Ecological Entomology}
     \field{year}{2006}
   \endentry

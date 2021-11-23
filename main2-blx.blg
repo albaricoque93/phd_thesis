@@ -17,51 +17,53 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 12645 items from 5000.
 Database file #1: main-blx.bib
 Database file #2: Bibliography.bib
-Warning--I didn't find a database entry for "briggs_variation_2018"
+Warning--I'm ignoring goulson_foraging_1999's extra "annote" field
+--line 1782 of file Bibliography.bib
 Biblatex version: 3.13
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 25 entries,
+You've used 55 entries,
             6365 wiz_defined-function locations,
-            1430 strings with 48716 characters,
-and the built_in function-call counts, 169341 in all, are:
-= -- 11775
-> -- 2955
-< -- 828
-+ -- 3275
-- -- 1256
-* -- 14446
-:= -- 17093
+            1572 strings with 22233 characters,
+and the built_in function-call counts, 425891 in all, are:
+= -- 31431
+> -- 7277
+< -- 2011
++ -- 9472
+- -- 2888
+* -- 35589
+:= -- 45608
 add.period$ -- 0
-call.type$ -- 25
-change.case$ -- 24
-chr.to.int$ -- 116
-cite$ -- 48
-duplicate$ -- 15602
-empty$ -- 16253
-format.name$ -- 1649
-if$ -- 35524
+call.type$ -- 55
+change.case$ -- 54
+chr.to.int$ -- 182
+cite$ -- 108
+duplicate$ -- 39841
+empty$ -- 38944
+format.name$ -- 4284
+if$ -- 88542
 int.to.chr$ -- 0
-int.to.str$ -- 69
+int.to.str$ -- 132
 missing$ -- 0
-newline$ -- 1096
-num.names$ -- 1168
-pop$ -- 8116
+newline$ -- 2127
+num.names$ -- 2594
+pop$ -- 19307
 preamble$ -- 1
-purify$ -- 525
+purify$ -- 1264
 quote$ -- 0
-skip$ -- 5186
+skip$ -- 11985
 stack$ -- 0
-substring$ -- 22905
-swap$ -- 4693
-text.length$ -- 730
-text.prefix$ -- 24
+substring$ -- 60776
+swap$ -- 10074
+text.length$ -- 1779
+text.prefix$ -- 54
 top$ -- 1
-type$ -- 837
+type$ -- 1857
 warning$ -- 0
-while$ -- 2049
+while$ -- 5581
 width$ -- 0
-write$ -- 1072
+write$ -- 2073
 (There was 1 warning)

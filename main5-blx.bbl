@@ -70,37 +70,12 @@
     \field{labeldatesource}{}
     \field{sortinit}{A}
     \field{sortinithash}{A}
-    \field{abstract}{%
-    To describe a predator–prey relationship, it is necessary to specify the
-  rate of prey consumption by an average predator. This functional response
-  largely determines dynamic stability, responses to environmental influences
-  and the nature of indirect effects in the food web containing the
-  predator–prey pair. Nevertheless, measurements of functional responses in
-  nature are quite rare. Recently, much work has been devoted to comparing two
-  idealized forms of the functional response: prey dependent and ratio
-  dependent. Although we agree that predator abundance often affects the
-  consumption rate of individual predators, this phenomenon requires more
-  attention. Disagreement remains over which of the two idealized responses
-  serves as a better starting point in building models when data on predator
-  dependence are absent.%
-    }
-    \field{issn}{0169-5347}
     \field{number}{8}
     \field{pages}{337\bibrangedash 341}
     \field{shorttitle}{The nature of predation}
     \field{title}{The nature of predation: prey dependent, ratio dependent or
   neither?}
     \field{volume}{15}
-    \verb{file}
-    \verb ScienceDirect Full Text PDF:/home/alba/Zotero/storage/6Q43TTIE/Abrams
-    \verb  and Ginzburg - 2000 - The nature of predation prey dependent, ratio
-    \verb dep.pdf:application/pdf;ScienceDirect Snapshot:/home/alba/Zotero/stor
-    \verb age/TCAWEMUU/S016953470001908X.html:text/html;ScienceDirect Full Text
-    \verb  PDF:/home/alba/Zotero/storage/TCU6ZHU6/Abrams and Ginzburg - 2000 -
-    \verb The nature of predation prey dependent, ratio dep.pdf:application/pdf
-    \verb ;ScienceDirect Snapshot:/home/alba/Zotero/storage/BWZY35GL/S016953470
-    \verb 001908X.html:text/html
-    \endverb
     \field{journaltitle}{Trends in Ecology \& Evolution}
     \field{month}{08}
     \field{year}{2000}
@@ -121,9 +96,6 @@
          giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{AFRMWF1}
     \strng{fullhash}{AFRMWF1}
     \field{labelnamesource}{author}
@@ -132,27 +104,10 @@
     \field{labeldatesource}{}
     \field{sortinit}{A}
     \field{sortinithash}{A}
-    \field{abstract}{%
-    How can measurements of population dynamics be used to deduce the
-  mechanisms of interaction in an assemblage of species? We present a technique
-  to use such measurements to distinguish among assemblages of species with no
-  direct interactions, sets of species influenced predominantly by pairwise
-  interactions, and communities with significant interaction modification. We
-  define the interaction coefficients and show that their dependence on the
-  population sizes of the various species reveals and pinpoints interactions.
-  Our technique distinguishes non-additivity in the statistical sense from
-  interaction modification in the biological sense.%
-    }
-    \field{issn}{00129658}
     \field{number}{6}
     \field{pages}{1552\bibrangedash 1559}
     \field{title}{A {General} {Test} for {Interaction} {Modification}}
     \field{volume}{75}
-    \verb{file}
-    \verb Adler and Morris - 1994 - A General Test for Interaction Modification
-    \verb .pdf:/home/alba/Zotero/storage/APPH7FRQ/Adler and Morris - 1994 - A G
-    \verb eneral Test for Interaction Modification.pdf:application/pdf
-    \endverb
     \field{journaltitle}{Ecology}
     \field{month}{09}
     \field{year}{1994}
@@ -236,9 +191,6 @@
          giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{BICTJ1}
     \strng{fullhash}{BICTJ1}
     \field{labelnamesource}{author}
@@ -247,39 +199,6 @@
     \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
-    \field{abstract}{%
-    The detection and significance of higher order interactions (HOIs) between
-  species has been a matter of debate and experimentation in community ecology
-  for several decades. HOIs are considered potentially significant because
-  their presence is assumed to mean that the dynamic behavior of a full
-  community of species is unpredictable based on observations of interactions
-  between subsets of the species within the community. Despite such attention,
-  the causal mechanisms that produce HOIs have been inadequately discussed. We
-  discuss three different usages of the term HOIs and provide insight as to why
-  HOIs might be found within a given community. HOIs may be detected for three
-  reasons: inappropriate assumptions made concerning species interactions that
-  influence statistical tests, unmeasured parameters and variables, and
-  interaction modifications (i.e., a functional change in the interaction of
-  two species caused by a third species. This confusion concerning the defining
-  attributes of HOIs has made their detection problematic. While the
-  statistical tests being used in the ecological experiments to detect HOIs are
-  described in detail in most papers, the dynamic models underlying these tests
-  are often not made explicit. Additionally, we demonstrate the equivalency of
-  three different statistical tests: the Case and Bender (1981) test, analysis
-  of variance, and a multiplicative test (Wootton 1994). However, the choice of
-  a response variable (i.e., population densities, population growth rates,
-  per—capita growth rates, etc.) and different data transformations applied
-  to these response variables alter the underlying dynamics model that is being
-  tested. The result is that the statistical test applied does not always
-  perform the intended comparison but instead tests a different and sometimes
-  unjustified or even inappropriate dynamic model. Finally, we review the
-  relationship between indirect effects and HOIs. Whereas some researchers have
-  lumped HOIs and indirect effects, we argue that the two represent completely
-  unique and separate phenomena. Additionally, indirect effects can complicate
-  detection of HOIs, and we review several methods by which to separate the two
-  processes.%
-    }
-    \field{issn}{1939-9170}
     \field{number}{6}
     \field{pages}{1529\bibrangedash 1543}
     \field{shorttitle}{Higher {Order} {Interactions} in {Ecological}
@@ -287,9 +206,6 @@
     \field{title}{Higher {Order} {Interactions} in {Ecological} {Communities}:
   {What} {Are} {They} and {How} {Can} {They} be {Detected}?}
     \field{volume}{75}
-    \verb{file}
-    \verb Snapshot:/home/alba/Zotero/storage/RMU5CXRE/1939614.html:text/html
-    \endverb
     \field{journaltitle}{Ecology}
     \field{year}{1994}
   \endentry
@@ -321,9 +237,6 @@
          giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \keyw{coexistence, competition, fitness differences, niche, annual plants,
   competitive outcomes, environmental heterogeneity, facilitation}
     \strng{namehash}{BMD+1}
@@ -334,53 +247,12 @@
     \field{labeldatesource}{}
     \field{sortinit}{B}
     \field{sortinithash}{B}
-    \field{abstract}{%
-    Coexistence between plant species is well known to depend on the outcomes
-  of species interactions within an environmental context. The incorporation of
-  environmental variation into empirical studies of coexistence are rare,
-  however, due to the complex experiments needed to do so and the lack of
-  feasible modelling approaches for determining how environmental factors alter
-  specific coexistence mechanisms. In this article, we present a simple
-  modelling framework for assessing how variation in species interactions
-  across environmental gradients impact on niche overlap and fitness
-  differences, two core determinants of coexistence. We use a novel formulation
-  of an annual plant population dynamics model that allows for competitive and
-  facilitative species interactions and for variation in the strength and
-  direction of these interactions across environmental gradients. Using this
-  framework, we examine outcomes of plant–plant interactions between four
-  commonly co-occurring annual plant species from Western Australian woodlands.
-  We then determine how niche overlap and fitness differences between these
-  species vary across three environmental gradients previously identified as
-  important for structuring diversity patterns in this system: soil phosphorus,
-  shade and water. We found facilitation to be a widespread phenomenon and that
-  interactions between most species pairs shift between competitive and
-  facilitative across multiple environmental gradients. Environmental
-  conditions also altered the strength, direction and relative variation of
-  both niche overlap and fitness differences in nonlinear and unpredictable
-  ways. Synthesis. We provide a simple framework for incorporating
-  environmental heterogeneity into explorations of coexistence mechanisms. Our
-  findings highlight the importance of the environment in determining the
-  outcome of species interactions and the potential for pairwise coexistence
-  between species. The prevalence of facilitation in our system indicates a
-  need to improve current theoretical frameworks of coexistence to include
-  noncompetitive interactions and ways of translating these effects into
-  explicit predictions of coexistence. Our study also suggests a need for
-  further research into determining which factors result in consistent
-  responses of niche overlap and fitness differences to environmental
-  variation. Such information will improve our ability to predict outcomes of
-  coexistence, invasion events and responses of whole communities to future
-  environmental change.%
-    }
-    \field{issn}{1365-2745}
     \field{number}{5}
     \field{pages}{1839\bibrangedash 1852}
     \field{title}{Accurate predictions of coexistence in natural systems
   require the inclusion of facilitative interactions and environmental
   dependency}
     \field{volume}{106}
-    \verb{file}
-    \verb Snapshot:/home/alba/Zotero/storage/D6355FIW/1365-2745.html:text/html
-    \endverb
     \field{journaltitle}{Journal of Ecology}
     \field{annotation}{%
     gradients%
@@ -494,9 +366,6 @@
          giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{CRM+1}
     \strng{fullhash}{CRMBRWCPKZLCJMRPLPFINBAETACKDCBJ1}
     \field{labelnamesource}{author}
@@ -505,36 +374,11 @@
     \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
-    \field{abstract}{%
-    Plants can have positive effects on each other1. For example, the
-  accumulation of nutrients, provision of shade, amelioration of disturbance,
-  or protection from herbivores by some species can enhance the performance of
-  neighbouring species. Thus the notion that the distributions and abundances
-  of plant species are independent of other species may be inadequate as a
-  theoretical underpinning for understanding species coexistence and
-  diversity2. But there have been no large-scale experiments designed to
-  examine the generality of positive interactions in plant communities and
-  their importance relative to competition. Here we show that the biomass,
-  growth and reproduction of alpine plant species are higher when other plants
-  are nearby. In an experiment conducted in subalpine and alpine plant
-  communities with 115 species in 11 different mountain ranges, we find that
-  competition generally, but not exclusively, dominates interactions at lower
-  elevations where conditions are less physically stressful. In contrast, at
-  high elevations where abiotic stress is high the interactions among plants
-  are predominantly positive. Furthermore, across all high and low sites
-  positive interactions are more important at sites with low temperatures in
-  the early summer, but competition prevails at warmer sites.%
-    }
-    \field{issn}{1476-4687}
     \field{number}{6891}
     \field{pages}{844\bibrangedash 848}
     \field{title}{Positive interactions among alpine plants increase with
   stress}
     \field{volume}{417}
-    \verb{file}
-    \verb Snapshot:/home/alba/Zotero/storage/B6C96HYA/nature00812.html:text/htm
-    \verb l
-    \endverb
     \field{journaltitle}{Nature}
     \field{annotation}{%
     plant%
@@ -564,9 +408,6 @@
          giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \keyw{interaction strength, Coefficient of variation, community context,
   conditionality, distributed outcomes, meta-analysis}
     \strng{namehash}{CSABJLRJA1}
@@ -577,38 +418,10 @@
     \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
-    \field{abstract}{%
-    The net effects of interspecific species interactions on individuals and
-  populations vary in both sign (−, 0, +) and magnitude (strong to weak).
-  Interaction outcomes are context-dependent when the sign and/or magnitude
-  change as a function of the biotic or abiotic context. While context
-  dependency appears to be common, its distribution in nature is poorly
-  described. Here, we used meta-analysis to quantify variation in species
-  interaction outcomes (competition, mutualism, or predation) for 247 published
-  articles. Contrary to our expectations, variation in the magnitude of effect
-  sizes did not differ among species interactions, and while mutualism was most
-  likely to change sign across contexts (and predation least likely), mutualism
-  did not strongly differ from competition. Both the magnitude and sign of
-  species interactions varied the most along spatial and abiotic gradients, and
-  least as a function of the presence/absence of a third species. However, the
-  degree of context dependency across these context types was not consistent
-  among mutualism, competition and predation studies. Surprisingly, study
-  location and ecosystem type varied in the degree of context dependency, with
-  laboratory studies showing the highest variation in outcomes. We urge that
-  studying context dependency per se, rather than focusing only on mean
-  outcomes, can provide a general method for describing patterns of variation
-  in nature.%
-    }
-    \field{issn}{1461-0248}
     \field{number}{7}
     \field{pages}{881\bibrangedash 890}
     \field{title}{How context dependent are species interactions?}
     \field{volume}{17}
-    \verb{file}
-    \verb Full Text PDF:/home/alba/Zotero/storage/I4EYKKKP/Chamberlain et al. -
-    \verb  2014 - How context dependent are species interactions.pdf:applicatio
-    \verb n/pdf;Snapshot:/home/alba/Zotero/storage/D6PYS4JW/ele.html:text/html
-    \endverb
     \field{journaltitle}{Ecology Letters}
     \field{annotation}{%
     species%
@@ -673,29 +486,6 @@
     \field{labeldatesource}{}
     \field{sortinit}{C}
     \field{sortinithash}{C}
-    \field{abstract}{%
-    The evolutionary trajectories of species with separate sexes depend on the
-  effects of genetic variation on female and male traits as well as the
-  direction and alignment of selection between the sexes. Classical theory has
-  shown that evolution is equally responsive to selection on females and males,
-  with natural selection increasing the product of the average relative fitness
-  of each sex over time. This simple rule underlies several important
-  predictions regarding the maintenance of genetic variation, the genetic basis
-  of adaptation, and the dynamics of “sexually antagonistic” alleles.
-  Nevertheless, theories of sex-specific selection overwhelmingly focus on
-  evolution in constant environments, and it remains unclear whether they apply
-  under changing conditions. We derived four simple models of sex-specific
-  selection in variable environments and explored how conditions of population
-  subdivision, the timing of dispersal, sex differences in dispersal, and the
-  nature of environmental change mediate the evolutionary dynamics of
-  sex-specific adaptation. We find that these dynamics are acutely sensitive to
-  ecological, demographic, and life-history attributes that vary widely among
-  species, with classical predictions breaking down in contexts of
-  environmental heterogeneity. The evolutionary rules governing sex-specific
-  adaptation may therefore differ between species, suggesting new avenues for
-  research on the evolution of sexual dimorphism.%
-    }
-    \field{issn}{0003-0147}
     \field{number}{1}
     \field{pages}{93\bibrangedash 105}
     \field{shorttitle}{Evolutionary {Consequences} of {Sex}-{Specific}
@@ -704,12 +494,6 @@
   in {Variable} {Environments}: {Four} {Simple} {Models} {Reveal} {Diverse}
   {Evolutionary} {Outcomes}}
     \field{volume}{193}
-    \verb{file}
-    \verb Full Text PDF:/home/alba/Zotero/storage/N9F6P8EK/Connallon et al. - 2
-    \verb 019 - Evolutionary Consequences of Sex-Specific Selectio.pdf:applicat
-    \verb ion/pdf;Snapshot:/home/alba/Zotero/storage/5RJ7FFHR/700720.html:text/
-    \verb html
-    \endverb
     \field{journaltitle}{The American Naturalist}
     \field{month}{01}
     \field{year}{2019}
@@ -1165,9 +949,6 @@
          giveni={M\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{KGLM1}
     \strng{fullhash}{KGLM1}
     \field{labelnamesource}{author}
@@ -1176,38 +957,12 @@
     \field{labeldatesource}{}
     \field{sortinit}{K}
     \field{sortinithash}{K}
-    \field{abstract}{%
-    Ecological niche construction, the process whereby an organism improves its
-  environment to enhance its growth and persistence, is an important missing
-  element of niche theory. Niche theory has mainly focused on
-  niche-deteriorating processes, such as resource consumption, predation and
-  competition, which have negative effects on population growth. Here, we
-  integrate niche construction explicitly into modern niche theory. We use a
-  graphical approach to analyse how a speciesÕ niche-improving impacts
-  interplay with nichedeteriorating impacts to modify its response to the
-  environment. In a model of two consumers that compete for one limiting
-  resource and one predator, we show how niche construction modiﬁes the
-  traditional nichedeteriorating impacts of its agent or of competing species,
-  and hence the potential for species coexistence. By altering the balance
-  between intraspeciﬁc and interspeciﬁc competitive effects, niche
-  construction can either generate net interspeciﬁc facilitation or
-  strengthen interspeciﬁc competition. The adaptive beneﬁt derived from
-  niche construction also strongly affects the realized niche of a
-  niche-constructing species.%
-    }
-    \field{issn}{1461023X}
     \field{number}{2}
     \field{pages}{82\bibrangedash 90}
     \field{shorttitle}{Niche construction in the light of niche theory}
     \field{title}{Niche construction in the light of niche theory: {Niche}
   construction in light of niche theory}
     \field{volume}{14}
-    \verb{file}
-    \verb Kylafis and Loreau - 2011 - Niche construction in the light of niche
-    \verb theory N.pdf:/home/alba/Zotero/storage/5RSJWA4W/Kylafis and Loreau -
-    \verb 2011 - Niche construction in the light of niche theory N.pdf:applicat
-    \verb ion/pdf
-    \endverb
     \field{journaltitle}{Ecology Letters}
     \field{month}{02}
     \field{year}{2011}
@@ -1319,9 +1074,6 @@
          giveni={O\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \keyw{mutualism, Coexistence, community assembly, demography, fitness,
   multitrophic interactions, niche, pollinators, salinity, spatial structure}
     \strng{namehash}{LJBBIGO1}
@@ -1332,39 +1084,12 @@
     \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
-    \field{abstract}{%
-    Theory argues that both soil conditions and aboveground trophic
-  interactions have equivalent potential to limit or promote plant diversity.
-  However, it remains unexplored how they jointly modify the niche differences
-  stabilising species coexistence and the average fitness differences driving
-  competitive dominance. We conducted a field study in Mediterranean annual
-  grasslands to parameterise population models of six competing plant species.
-  Spatially explicit floral visitor assemblages and soil salinity variation
-  were characterised for each species. Both floral visitors and soil salinity
-  modified species population dynamics via direct changes in seed production
-  and indirect changes in competitive responses. Although the magnitude and
-  sign of these changes were species-specific, floral visitors promoted
-  coexistence at neighbourhood scales, while soil salinity did so over larger
-  scales by changing the superior competitors’ identity. Our results show how
-  below and aboveground interactions maintain diversity in heterogeneous
-  landscapes through their opposing effects on the determinants of competitive
-  outcomes.%
-    }
-    \field{issn}{1461-0248}
     \field{number}{6}
     \field{pages}{865\bibrangedash 874}
     \field{title}{Opposing effects of floral visitors and soil conditions on
   the determinants of competitive outcomes maintain species diversity in
   heterogeneous landscapes}
     \field{volume}{21}
-    \verb{file}
-    \verb Full Text PDF:/home/alba/Zotero/storage/6XWM4SKZ/Lanuza et al. - 2018
-    \verb  - Opposing effects of floral visitors and soil condi.pdf:application
-    \verb /pdf;Snapshot:/home/alba/Zotero/storage/SU7MGX8B/ele.html:text/html;F
-    \verb ull Text PDF:/home/alba/Zotero/storage/XXM2XM6H/Lanuza et al. - 2018
-    \verb - Opposing effects of floral visitors and soil condi.pdf:application/
-    \verb pdf;Snapshot:/home/alba/Zotero/storage/Z5WFKZY6/ele.html:text/html
-    \endverb
     \field{journaltitle}{Ecology Letters}
     \field{year}{2018}
   \endentry
@@ -1384,9 +1109,6 @@
          giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \keyw{mechanistic models, Coexistence, higher-order interactions,
   Lotka–Volterra, non-additivity, resource competition}
     \strng{namehash}{LADSDB1}
@@ -1397,38 +1119,11 @@
     \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
-    \field{abstract}{%
-    Motivated by both analytical tractability and empirical practicality,
-  community ecologists have long treated the species pair as the fundamental
-  unit of study. This notwithstanding, the challenge of understanding more
-  complex systems has repeatedly generated interest in the role of so-called
-  higher-order interactions (HOIs) imposed by species beyond the focal pair.
-  Here we argue that HOIs – defined as non-additive effects of density on per
-  capita growth – are best interpreted as emergent properties of
-  phenomenological models (e.g. Lotka–Volterra competition) rather than as
-  distinct ‘ecological processes’ in their own right. Using simulations of
-  consumer-resource models, we explore the mechanisms and system properties
-  that give rise to HOIs in observational data. We demonstrate that HOIs emerge
-  under all but the most restrictive of assumptions, and that incorporating
-  non-additivity into phenomenological models improves the quantitative and
-  qualitative accuracy of model predictions. Notably, we also observe that HOIs
-  derive primarily from mechanisms and system properties that apply equally to
-  single-species or pairwise systems as they do to more diverse communities.
-  Consequently, there exists a strong mandate for further recognition of
-  non-additive effects in both theoretical and empirical research.%
-    }
-    \field{issn}{1461-0248}
     \field{number}{3}
     \field{pages}{423\bibrangedash 436}
     \field{title}{The mechanistic basis for higher-order interactions and
   non-additivity in competitive communities}
     \field{volume}{22}
-    \verb{file}
-    \verb Full Text PDF:/home/alba/Zotero/storage/49F9J42A/Letten and Stouffer
-    \verb - 2019 - The mechanistic basis for higher-order interaction.pdf:appli
-    \verb cation/pdf;Snapshot:/home/alba/Zotero/storage/DADYWQYN/ele.html:text/
-    \verb html
-    \endverb
     \field{journaltitle}{Ecology Letters}
     \field{year}{2019}
   \endentry
@@ -1460,9 +1155,6 @@
          giveni={S\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \strng{namehash}{LJM+1}
     \strng{fullhash}{LJMBJAPBAS1}
     \field{labelnamesource}{author}
@@ -1471,30 +1163,11 @@
     \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
-    \field{abstract}{%
-    The tremendous diversity of species in ecological communities has motivated
-  a century of research into the mechanisms that maintain biodiversity.
-  However, much of this work examines the coexistence of just pairs of
-  competitors. This approach ignores those mechanisms of coexistence that
-  emerge only in diverse competitive networks. Despite the potential for these
-  mechanisms to create conditions under which the loss of one competitor
-  triggers the loss of others, we lack the knowledge needed to judge their
-  importance for coexistence in nature. Progress requires borrowing insight
-  from the study of multitrophic interaction networks, and coupling empirical
-  data to models of competition.%
-    }
-    \field{issn}{1476-4687}
     \field{number}{7656}
     \field{pages}{56\bibrangedash 64}
     \field{title}{Beyond pairwise mechanisms of species coexistence in complex
   communities}
     \field{volume}{546}
-    \verb{file}
-    \verb Versión enviada:/home/alba/Zotero/storage/9TP3HPK7/Levine et al. - 2
-    \verb 017 - Beyond pairwise mechanisms of species coexistence .pdf:applicat
-    \verb ion/pdf;Snapshot:/home/alba/Zotero/storage/8NXRHFFI/nature22898.html:
-    \verb text/html
-    \endverb
     \field{journaltitle}{Nature}
     \field{annotation}{%
     communities%
@@ -1575,9 +1248,6 @@
          giveni={R\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \keyw{Complex Interaction, Complex System, Data Reduction, Environmental
   Protection, Relative Weight}
     \strng{namehash}{LRLR1}
@@ -1588,49 +1258,10 @@
     \field{labeldatesource}{}
     \field{sortinit}{L}
     \field{sortinithash}{L}
-    \field{abstract}{%
-    ConclusionsBiology above the level of the individual organism —
-  population ecology and genetics, community ecology, biogeography and
-  evolution — requires the study of intrinsically complex systems. But the
-  dominant philosophies of western science have proven to be inadequate for the
-  study of complexity:(1) The reductionist myth of simplicity leads its
-  advocates to isolate parts as completely as possible and study these parts.
-  It underestimates the importance of interactions in theory, and its
-  recommendations for practice (in agricultural programs or conservation and
-  environmental protection) are typically thwarted by the power of indirect and
-  unanticipated causes rather than by error in the detailed description of
-  their own objects of study. (2) Reductionism ignores properties of complex
-  wholes; the effects of these properties are therefore seen only as noise;
-  this randomness is elevated into an ontological principle which leads to the
-  blocking of investigation and the reification of statistics, so that data
-  reduction and statistical prediction often pass for explanation. (3) The
-  faith in the atomistic nature of the world makes the allocation of relative
-  weights to separate causes the main object of science, and makes it more
-  difficult to study the nature of interconnectedness. Where simple behaviors
-  emerge out of complex interactions, it takes that simplicity to deny the
-  complexity; where the behavior is bewilderingly complex it reifies its own
-  confusion into a denial of regularity.Both the internal theoretical needs of
-  ecology and the social demands that it inform our planned interactions with
-  nature require an ecology that makes the understanding of complexity the
-  central problem: it must cope with interdependence and relative autonomy,
-  with similarity and difference, with the general and the particular, with
-  chance and necessity, with equilbrium and change, with continuity and
-  discontinuity, with contradictory processes. It must become increasingly
-  self-conscious of its own philosophy, and that philosophy will be effective
-  to the extent that it becomes not only materialist, but dialectical.%
-    }
-    \field{issn}{1573-0964}
     \field{number}{1}
     \field{pages}{47\bibrangedash 78}
     \field{title}{Dialectics and reductionism in ecology}
     \field{volume}{43}
-    \verb{file}
-    \verb Springer Full Text PDF:/home/alba/Zotero/storage/JY3S3ENA/Levins and
-    \verb Lewontin - 1980 - Dialectics and reductionism in ecology.pdf:applicat
-    \verb ion/pdf;Springer Full Text PDF:/home/alba/Zotero/storage/LQA2HSUW/Lev
-    \verb ins and Lewontin - 1980 - Dialectics and reductionism in ecology.pdf:
-    \verb application/pdf
-    \endverb
     \field{journaltitle}{Synthese}
     \field{month}{01}
     \field{year}{1980}
@@ -1892,9 +1523,6 @@
          giveni={S\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \keyw{mutualism, structural stability, competition, environmental
   variability, antagonism, context-dependency, interaction switches,
   probability diagrams}
@@ -1906,34 +1534,8 @@
     \field{labeldatesource}{}
     \field{sortinit}{S}
     \field{sortinithash}{S}
-    \field{abstract}{%
-    Observational and experimental studies have shown that an interaction class
-  between two species (be it mutualistic, competitive, antagonistic, or
-  neutral) may switch to a different class, depending on the biotic and abiotic
-  factors within which species are observed. This complexity arising from the
-  evidence of context-dependencies has underscored a difficulty in establishing
-  a systematic analysis about the extent to which species interactions are
-  expected to switch in nature and experiments. Here, we propose an overarching
-  theoretical framework, by integrating probabilistic and structural
-  approaches, to establish null expectations about switches of interaction
-  classes across environmental contexts. This integration provides a systematic
-  platform upon which it is possible to establish new hypotheses, clear
-  predictions, and quantifiable expectations about the context-dependency of
-  species interactions.%
-    }
-    \field{issn}{0169-5347}
     \field{title}{Towards a {Probabilistic} {Understanding} {About} the
   {Context}-{Dependency} of {Species} {Interactions}}
-    \verb{file}
-    \verb ScienceDirect Snapshot:/home/alba/Zotero/storage/ELWCHS7C/S0169534719
-    \verb 303568.html:text/html;ScienceDirect Full Text PDF:/home/alba/Zotero/s
-    \verb torage/6CTH3JJK/Song et al. - 2020 - Towards a Probabilistic Understa
-    \verb nding About the Co.pdf:application/pdf;Song et al. - 2020 - Towards a
-    \verb  Probabilistic Understanding About the Co.pdf:/home/alba/Zotero/stora
-    \verb ge/J6K35G6P/Song et al. - 2020 - Towards a Probabilistic Understandin
-    \verb g About the Co.pdf:application/pdf;ScienceDirect Snapshot:/home/alba/
-    \verb Zotero/storage/P9D3W356/S0169534719303568.html:text/html
-    \endverb
     \field{journaltitle}{Trends in Ecology \& Evolution}
     \field{annotation}{%
     Context%
@@ -2110,9 +1712,6 @@
          giveni={N\bibinitperiod\bibinitdelim L\bibinitperiod},
       }}%
     }
-    \list{language}{1}{%
-      {en}%
-    }
     \keyw{asymmetry, ecological networks, interaction frequency, interaction
   strength, Monte desert, mutualism, plant–pollinator interactions,
   pollination, species impact}
@@ -2124,39 +1723,10 @@
     \field{labeldatesource}{}
     \field{sortinit}{V}
     \field{sortinithash}{V}
-    \field{abstract}{%
-    Recent studies of plant–animal mutualistic networks have assumed that
-  interaction frequency between mutualists predicts species impacts
-  (population-level effects), and that field estimates of interaction strength
-  (per-interaction effects) are unnecessary. Although existing evidence
-  supports this assumption for the effect of animals on plants, no studies have
-  evaluated it for the reciprocal effect of plants on animals. We evaluate this
-  assumption using data on the reproductive effects of pollinators on plants
-  and the reciprocal reproductive effects of plants on pollinators. The
-  magnitude of species impacts of plants on pollinators, the reciprocal impacts
-  of pollinators on plants, and their asymmetry were well predicted by
-  interaction frequency. However, interaction strength was a key determinant of
-  the sign of species impacts. These results underscore the importance of
-  quantifying interaction strength in studies of mutualistic networks. We also
-  show that the distributions of interaction strengths and species impacts are
-  highly skewed, with few strong and many weak interactions. This skewed
-  distribution matches the pattern observed in food webs, suggesting that the
-  community-wide organization of species interactions is fundamentally similar
-  between mutualistic and antagonistic interactions. Our results have profound
-  ecological implications, given the key role of interaction strength for
-  community stability.%
-    }
-    \field{issn}{1939-9170}
     \field{number}{4}
     \field{pages}{719\bibrangedash 725}
     \field{title}{The strength of plant–pollinator interactions}
     \field{volume}{93}
-    \verb{file}
-    \verb Full Text PDF:/home/alba/Zotero/storage/USJ7UPZR/Vázquez et al. - 20
-    \verb 12 - The strength of plant–pollinator interactions.pdf:application/
-    \verb pdf;Snapshot:/home/alba/Zotero/storage/URTU8Z3R/11-1356.html:text/htm
-    \verb l
-    \endverb
     \field{journaltitle}{Ecology}
     \field{year}{2012}
   \endentry
