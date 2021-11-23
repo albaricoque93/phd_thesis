@@ -13,14 +13,6 @@
 \contentsline {chapter}{\numberline {2}{The context dependency of pollinator interference: how environmental conditions and co-foraging species impact floral visitation}}{19}{chapter.2}%
 \defcounter {refsection}{3}\relax 
 \contentsline {chapter}{\numberline {3}{The interplay of environmental conditions, parameter sensitivity and structural sensitivity in predictions of species coexistence}}{45}{chapter.3}%
-\defcounter {refsection}{3}\relax 
-\contentsline {subsubsection}{\numberline {3.0.0.1}{Biologically-constrained feasibility domain}}{50}{subsubsection.3.0.0.1}%
-\defcounter {refsection}{3}\relax 
-\contentsline {subsubsection}{\numberline {3.0.0.2}{Relative coexistence ratio}}{52}{subsubsection.3.0.0.2}%
-\defcounter {refsection}{3}\relax 
-\contentsline {subsubsection}{\numberline {3.0.0.3}{An alternative model of density dependence}}{52}{subsubsection.3.0.0.3}%
-\defcounter {refsection}{3}\relax 
-\contentsline {subsection}{\numberline {3.0.1}{ Structural sensitivity, environmental context dependency \& parameter sensitivity }}{61}{subsection.3.0.1}%
 \defcounter {refsection}{4}\relax 
 \contentsline {chapter}{\numberline {4}{Coexistence of alleles}}{75}{chapter.4}%
 \defcounter {refsection}{0}\relax 

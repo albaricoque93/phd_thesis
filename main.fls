@@ -681,6 +681,12 @@ INPUT Chapters/Appendix_B.tex
 INPUT Chapters/Appendix_B.tex
 INPUT main7-blx.aux
 OUTPUT main7-blx.aux
+INPUT figures/appendixB_fig1.pdf
+INPUT ./figures/appendixB_fig1.pdf
+INPUT ./figures/appendixB_fig1.pdf
+INPUT figures/appendixB_fig2.pdf
+INPUT ./figures/appendixB_fig2.pdf
+INPUT ./figures/appendixB_fig2.pdf
 OUTPUT FrontBackMatter/Colophon.aux
 INPUT FrontBackMatter/Colophon.tex
 INPUT FrontBackMatter/Colophon.tex

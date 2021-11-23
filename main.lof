@@ -44,7 +44,7 @@
 \defcounter {refsection}{3}\relax 
 \contentsline {figure}{\numberline {3.4}{\ignorespaces Predictions made with different model combinations in the \textit {woody} environment}}{61}{figure.caption.12}%
 \defcounter {refsection}{3}\relax 
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Predictions of $\beta $, $\gamma $, $\rho $, and $\delta $ made while including the posterior distribution of each parameter separately and using the Beverton--Holt model for both species in both environments. The parameter names on the x-axis denote the parameter whose distribution was sampled from. The subscript $v$ in parameter names denotes the species \textit {Vellia rosea}, while the subscript $t$ denotes the species \textit {Trachymene cyanopetala}. The solid black line in each panel denotes predictions when all parameters are set to their median estimates. Each boxplot extends from the first to third quantiles of the corresponding posterior predictions and the line inside the box indicates the median posterior prediction. \relax }}{64}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Predictions of $\beta $, $\gamma $, $\rho $, and $\delta $ made while including the posterior distribution of each parameter separately and using the Beverton--Holt model for both species in both environments}}{64}{figure.caption.15}%
 \defcounter {refsection}{3}\relax 
 \ttl@tocsep 
 \defcounter {refsection}{4}\relax 
@@ -59,5 +59,11 @@
 \contentsline {figure}{\numberline {6.1}{\ignorespaces Posterior distribution of $\epsilon $ parameters from Eq.~\ref {energy}. Each parameter estimates the mean energetic gain per visit (in kilojoules), per flower type. We have also indicated the maximum gains per visit of the different flower types with an x. \relax }}{92}{figure.caption.17}%
 \defcounter {refsection}{6}\relax 
 \contentsline {figure}{\numberline {6.2}{\ignorespaces Relationship between the total number of visits made by an individual bee and its total energy gains during an experiment trial. In the top panel, the total energy consumed per trial is clearly an increasing function of the number of floral visits an individual makes during the trial. Each point corresponds to observations at the individual level. In the bottom panel, we show the same relationship with log-log axes. \relax }}{93}{figure.caption.18}%
+\defcounter {refsection}{7}\relax 
+\ttl@tocsep 
+\defcounter {refsection}{7}\relax 
+\contentsline {figure}{\numberline {7.1}{\ignorespaces The posterior distributions of competition coefficients and intrinsic fecundity in the Beverton--Holt model and the Ricker model for \textit {Vellia rosea}.}}{106}{figure.caption.23}%
+\defcounter {refsection}{7}\relax 
+\contentsline {figure}{\numberline {7.2}{\ignorespaces The posterior distributions of competition coefficients and intrinsic fecundity in the Beverton--Holt model and the Ricker model for \textit {Trachymene cyanopetala}}}{107}{figure.caption.24}%
 \defcounter {refsection}{7}\relax 
 \ttl@tocsep 

@@ -16,5 +16,76 @@
   {}
 \endgroup
 
-\datalist[entry]{nyt/global//global/global}\enddatalist
+\datalist[entry]{nyt/global//global/global}
+  \entry{Rcore}{manual}{}
+    \name{author}{1}{}{%
+      {{hash=R}{%
+         family={{R Core Team}},
+         familyi={R\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {R Foundation for Statistical Computing}%
+    }
+    \strng{namehash}{R1}
+    \strng{fullhash}{R1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{R: A Language and Environment for Statistical Computing}
+    \list{location}{1}{%
+      {Vienna, Austria}%
+    }
+    \field{year}{2013}
+  \endentry
+
+  \entry{towers2021variable}{article}{}
+    \name{author}{5}{}{%
+      {{hash=TIR}{%
+         family={Towers},
+         familyi={T\bibinitperiod},
+         given={Isaac\bibnamedelima Ray},
+         giveni={I\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=MDJ}{%
+         family={Merritt},
+         familyi={M\bibinitperiod},
+         given={David\bibnamedelima J},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=ETE}{%
+         family={Erikson},
+         familyi={E\bibinitperiod},
+         given={Todd\bibnamedelima E},
+         giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=MMM}{%
+         family={Mayfield},
+         familyi={M\bibinitperiod},
+         given={Margaret\bibnamedelima M},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=DJM}{%
+         family={Dwyer},
+         familyi={D\bibinitperiod},
+         given={John\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TIR+1}
+    \strng{fullhash}{TIRMDJETEMMMDJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Variable Seed Bed Microsite Conditions and Light Influence
+  Germination in Australian Winter Annuals}
+    \field{year}{2021}
+  \endentry
+\enddatalist
 \endinput

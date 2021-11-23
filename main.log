@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  23 NOV 2021 23:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 NOV 2021 12:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1722,7 +1722,7 @@ it/9 P[] \OMS/zplm/m/n/9 ^^@ \OT1/pplx/m/n/9 1\OT1/zplm/m/n/9 ) + [] [] \OML/zp
 lm/m/it/9 c[]P[][]$  
  []
 
-<figures/chapter2_fig1.pdf, id=559, 397.485pt x 505.89pt>
+<figures/chapter2_fig1.pdf, id=563, 397.485pt x 505.89pt>
 File: figures/chapter2_fig1.pdf Graphic file (type pdf)
 <use figures/chapter2_fig1.pdf>
 Package pdftex.def Info: figures/chapter2_fig1.pdf  used on input line 56.
@@ -1752,7 +1752,7 @@ cri-te-rion (WAIC) showed
  []
 
 [29]
-<figures/chapter2_fig2.pdf, id=675, 540.0175pt x 505.89pt>
+<figures/chapter2_fig2.pdf, id=679, 540.0175pt x 505.89pt>
 File: figures/chapter2_fig2.pdf Graphic file (type pdf)
 <use figures/chapter2_fig2.pdf>
 Package pdftex.def Info: figures/chapter2_fig2.pdf  used on input line 191.
@@ -1762,7 +1762,7 @@ Overfull \vbox (5.00452pt too high) has occurred while \output is active []
 
 
 [31 <./figures/chapter2_fig2.pdf>]
-<figures/chapter2_fig3.pdf, id=703, 505.89pt x 505.89pt>
+<figures/chapter2_fig3.pdf, id=707, 505.89pt x 505.89pt>
 File: figures/chapter2_fig3.pdf Graphic file (type pdf)
 <use figures/chapter2_fig3.pdf>
 Package pdftex.def Info: figures/chapter2_fig3.pdf  used on input line 204.
@@ -1779,7 +1779,7 @@ Package epstopdf Info: Source file: <figures/chapter2_fig4.eps>
 converted-to.pdf figures/chapter2_fig4.eps>
 (epstopdf)             \includegraphics on input line 214.
 Package epstopdf Info: Output file is already uptodate.
-<figures/chapter2_fig4-eps-converted-to.pdf, id=708, 505.89pt x 349.305pt>
+<figures/chapter2_fig4-eps-converted-to.pdf, id=712, 505.89pt x 349.305pt>
 File: figures/chapter2_fig4-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/chapter2_fig4-eps-converted-to.pdf>
 Package pdftex.def Info: figures/chapter2_fig4-eps-converted-to.pdf  used on in
@@ -1826,13 +1826,13 @@ Chapter 3.
 
 
 ] [45] [46] [47] [48] [49] [50]
-<figures/chapter3_fig1.pdf, id=987, 722.7pt x 216.81pt>
+<figures/chapter3_fig1.pdf, id=991, 722.7pt x 216.81pt>
 File: figures/chapter3_fig1.pdf Graphic file (type pdf)
 <use figures/chapter3_fig1.pdf>
 Package pdftex.def Info: figures/chapter3_fig1.pdf  used on input line 121.
 (pdftex.def)             Requested size: 311.0pt x 93.29926pt.
  [51 <./figures/chapter3_fig1.pdf>]
-<figures/chapter3_fig2.pdf, id=1009, 578.16pt x 433.62pt>
+<figures/chapter3_fig2.pdf, id=1015, 578.16pt x 433.62pt>
 File: figures/chapter3_fig2.pdf Graphic file (type pdf)
 <use figures/chapter3_fig2.pdf>
 Package pdftex.def Info: figures/chapter3_fig2.pdf  used on input line 149.
@@ -1849,19 +1849,19 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 220--220
  []
 
 [56] [57] [58]
-<figures/chapter3_fig3.pdf, id=1108, 578.16pt x 578.16pt>
+<figures/chapter3_fig3.pdf, id=1116, 578.16pt x 578.16pt>
 File: figures/chapter3_fig3.pdf Graphic file (type pdf)
 <use figures/chapter3_fig3.pdf>
 Package pdftex.def Info: figures/chapter3_fig3.pdf  used on input line 276.
 (pdftex.def)             Requested size: 311.0pt x 310.99313pt.
  [59]
-<figures/chapter3_fig4.pdf, id=1113, 578.16pt x 578.16pt>
+<figures/chapter3_fig4.pdf, id=1122, 578.16pt x 578.16pt>
 File: figures/chapter3_fig4.pdf Graphic file (type pdf)
 <use figures/chapter3_fig4.pdf>
 Package pdftex.def Info: figures/chapter3_fig4.pdf  used on input line 282.
 (pdftex.def)             Requested size: 311.0pt x 310.99313pt.
  [60 <./figures/chapter3_fig3.pdf>] [61 <./figures/chapter3_fig4.pdf>] [62]
-<figures/chapter3_fig5.pdf, id=1166, 433.62pt x 722.7pt>
+<figures/chapter3_fig5.pdf, id=1174, 433.62pt x 722.7pt>
 File: figures/chapter3_fig5.pdf Graphic file (type pdf)
 <use figures/chapter3_fig5.pdf>
 Package pdftex.def Info: figures/chapter3_fig5.pdf  used on input line 345.
@@ -1959,12 +1959,12 @@ Chapter 6.
 
 
 ]
-<figures/appendixA_fig1.pdf, id=1485, 433.62pt x 271.0125pt>
+<figures/appendixA_fig1.pdf, id=1510, 433.62pt x 271.0125pt>
 File: figures/appendixA_fig1.pdf Graphic file (type pdf)
 <use figures/appendixA_fig1.pdf>
 Package pdftex.def Info: figures/appendixA_fig1.pdf  used on input line 43.
 (pdftex.def)             Requested size: 279.8981pt x 174.94438pt.
-<figures/appendixA_fig2.pdf, id=1488, 361.35pt x 578.16pt>
+<figures/appendixA_fig2.pdf, id=1513, 361.35pt x 578.16pt>
 File: figures/appendixA_fig2.pdf Graphic file (type pdf)
 <use figures/appendixA_fig2.pdf>
 Package pdftex.def Info: figures/appendixA_fig2.pdf  used on input line 50.
@@ -1999,18 +1999,44 @@ the size of the biologically-
 
 
 
-] [100]
-Overfull \hbox (120.54666pt too wide) detected at line 100
- $\OML/zplm/m/it/9 R \OT1/zplm/m/n/9 = [] \OT1/pplx/m/n/9 .$  
+] [100] [101]
+Overfull \hbox (22.46169pt too wide) detected at line 138
+ $\OML/zplm/m/it/9 R[] \OT1/zplm/m/n/9 = \OML/zplm/m/it/9 []g[]N[] \OT1/zplm/m
+/n/9 + \OT1/pplx/m/n/9 2\OML/zplm/m/it/9 [][]g[]N[]g[]N[] \OT1/zplm/m/n/9 + \
+OML/zplm/m/it/9 []g[]N[] \OT1/zplm/m/n/9 + \OML/zplm/m/it/9 []g[]N[] \OT1/zpl
+m/m/n/9 + \OT1/pplx/m/n/9 2\OML/zplm/m/it/9 [][]g[]N[]g[]N[] \OT1/zplm/m/n/9 
++ \OML/zplm/m/it/9 []g[]N[]$  
  []
 
 
-Overfull \hbox (130.04482pt too wide) detected at line 109
- $\OML/zplm/m/it/9 R \OT1/zplm/m/n/9 = [] \OT1/pplx/m/n/9 .$  
+Overfull \hbox (26.53453pt too wide) in alignment at lines 152--155
+ [][][] []
  []
 
-Package biblatex Info: Reference section=0 on input line 115.
-) [101] [102
+[102] [103] [104]
+Overfull \hbox (21.59987pt too wide) in paragraph at lines 211--220
+ [][] 
+ []
+
+<figures/appendixB_fig1.pdf, id=1620, 578.16pt x 578.16pt>
+File: figures/appendixB_fig1.pdf Graphic file (type pdf)
+<use figures/appendixB_fig1.pdf>
+Package pdftex.def Info: figures/appendixB_fig1.pdf  used on input line 231.
+(pdftex.def)             Requested size: 311.0pt x 310.99313pt.
+[105] [106 <./figures/appendixB_fig1.pdf>]
+<figures/appendixB_fig2.pdf, id=1642, 578.16pt x 578.16pt>
+File: figures/appendixB_fig2.pdf Graphic file (type pdf)
+<use figures/appendixB_fig2.pdf>
+Package pdftex.def Info: figures/appendixB_fig2.pdf  used on input line 239.
+(pdftex.def)             Requested size: 311.0pt x 310.99313pt.
+ [107
+
+ <./figures/appendixB_fig2.pdf>] [108
+
+
+]
+Package biblatex Info: Reference section=0 on input line 246.
+) [109] [110
 
 
 
@@ -2036,7 +2062,7 @@ Overfull \hbox (4.51491pt too wide) in paragraph at lines 13--14
 look-and-feel \T1/fvm/m/n/9 classicthesis
  []
 
-) [103
+) [111
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
@@ -2060,13 +2086,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 161.
  ) 
 Here is how much of TeX's memory you used:
- 33197 strings out of 480608
- 623896 string characters out of 5903631
- 1436684 words of memory out of 5000000
- 47009 multiletter control sequences out of 15000+600000
+ 33246 strings out of 480608
+ 624976 string characters out of 5903631
+ 1436292 words of memory out of 5000000
+ 47039 multiletter control sequences out of 15000+600000
  699445 words of font info for 858 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,22n,98p,10099b,3212s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,22n,98p,10099b,3191s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{cite.6@edwards_revisiting_2007} has been referenc
 ed but does not exist, replaced by a fixed one
 
@@ -2085,10 +2111,10 @@ fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/t
 ype1/public/bera/fvmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw
 /palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palati
 no/uplri8a.pfb>
-Output written on main.pdf (119 pages, 1839365 bytes).
+Output written on main.pdf (127 pages, 2378820 bytes).
 PDF statistics:
- 1789 PDF objects out of 2073 (max. 8388607)
- 1592 compressed objects within 16 object streams
- 460 named destinations out of 1000 (max. 500000)
- 99557 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 1886 PDF objects out of 2073 (max. 8388607)
+ 1674 compressed objects within 17 object streams
+ 477 named destinations out of 1000 (max. 500000)
+ 99559 words of extra memory for PDF output out of 106986 (max. 10000000)
 
