@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  22 NOV 2021 16:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  23 NOV 2021 15:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1293,7 +1293,9 @@ Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'british'.
  (./main.aux (./FrontBackMatter/Titlepage.aux) (./FrontBackMatter/Titleback.aux
 )
-(./FrontBackMatter/Dedication.aux) (./Chapters/Introduction.aux)
+(./FrontBackMatter/Dedication.aux) (./FrontBackMatter/Abstract.aux)
+(./FrontBackMatter/Publications.aux) (./FrontBackMatter/Acknowledgments.aux)
+(./FrontBackMatter/Contents.aux) (./Chapters/Introduction.aux)
 (./Chapters/Bee_foraging.aux) (./Chapters/Bayesian_competition.aux)
 (./Chapters/Coexistence_alleles.aux) (./Chapters/Discussion.aux)
 (./FrontBackMatter/Colophon.aux))
@@ -1514,23 +1516,97 @@ Package microtype Info: Loading generic protrusion settings for font family
 \openout2 = `FrontBackMatter/Titleback.aux'.
 
 
-(./FrontBackMatter/Titleback.tex
-Underfull \hbox (badness 10000) in paragraph at lines 20--22
-
- []
-
-) [2
+(./FrontBackMatter/Titleback.tex) [2
 
 
 ]
 \openout2 = `FrontBackMatter/Dedication.aux'.
 
- (./FrontBackMatter/Dedication.tex) [3
+ (./FrontBackMatter/Dedication.tex)
+[3
 
 
 
 
 ] [4
+
+
+
+]
+\openout2 = `FrontBackMatter/Abstract.aux'.
+
+ (./FrontBackMatter/Abstract.tex) [5
+
+
+
+] [6]
+\openout2 = `FrontBackMatter/Publications.aux'.
+
+
+(./FrontBackMatter/Publications.tex) [7
+
+
+
+
+
+
+] [8
+
+
+
+]
+\openout2 = `FrontBackMatter/Acknowledgments.aux'.
+
+
+(./FrontBackMatter/Acknowledgments.tex) [9
+
+] [10
+
+
+
+]
+\openout2 = `FrontBackMatter/Contents.aux'.
+
+
+(./FrontBackMatter/Contents.tex
+Package tocbasic Info: character protrusion at toc deactivated on input line 10
+.
+ (./main.toc
+Overfull \hbox (8.4933pt too wide) in paragraph at lines 9--9
+ [][] []\T1/pplj/m/sc/9/80ls (-20) the context-dependency of pol-li-na-tor in-t
+er-fer-ence []  
+ []
+
+)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+
+1: section
+1: chapter
+1: chapter
+1: section
+[11
+
+
+
+]
+Package tocbasic Info: character protrusion at lof deactivated on input line 28
+.
+ (./main.lof)
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+ [12
+
+]
+Package tocbasic Info: character protrusion at lot deactivated on input line 39
+.
+ (./main.lot)
+\tf@lot=\write7
+\openout7 = `main.lot'.
+
+ [13]) [14
 
 
 
@@ -1546,12 +1622,6 @@ Package biblatex Info: Reference section=1 on input line 1.
 Package biblatex Info: Setting label 'refsection:1' on input line 1.
 
 Chapter 1.
-
-Overfull \hbox (1.12988pt too wide) in paragraph at lines 6--7
-\T1/pplj/m/n/10 (-20) ``useful fictions'' ([]Box, Luceño, and Carmen Paniagua-Q
-uinones, [][]2011[][]) in
- []
-
 [1
 
 
@@ -1560,7 +1630,10 @@ uinones, [][]2011[][]) in
 
 
 
-] [2] [3] [4] [5] [6]
+] [2] [3] [4] [5] [6
+
+
+]
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplj/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1570,10 +1643,7 @@ Overfull \hbox (4.62468pt too wide) in paragraph at lines 42--42
 n-trol by mon-i-tor-ing and ad-just-ment\T1/pplj/m/n/10 (-20) . Vol. 700.
  []
 
-[7
-
-
-]
+[7]
 Overfull \hbox (6.58456pt too wide) in paragraph at lines 42--42
 [][]\T1/pplj/m/n/10 (-20) D'Andrea, Rafael, An-nette Ostling, and James P O'Dwy
 er (2018). `  Translu-
@@ -1669,7 +1739,7 @@ Chapter 5.
 
 
 ]
-LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
+LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <9> not available
 (Font)              Font shape `T1/pplj/m/it' tried instead on input line 4.
  [21] [22] [23] [24] [25] [26
 
@@ -1699,11 +1769,17 @@ LaTeX Font Info:    Trying to load font information for T1+fvm on input line 13
 File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
 )
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 8.50006pt on input line 13.
+(Font)              scaled to size 7.65005pt on input line 13.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `fvm' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+
+Overfull \hbox (4.51491pt too wide) in paragraph at lines 13--14
+\T1/pplj/m/n/9 (-20) This doc-u-ment was type-set us-ing the ty-po-graph-i-cal 
+look-and-feel \T1/fvm/m/n/9 classicthesis
+ []
+
 ) [31
 
 
@@ -1714,12 +1790,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
- (./main.aux
-(./FrontBackMatter/Titlepage.aux) (./FrontBackMatter/Titleback.aux)
-(./FrontBackMatter/Dedication.aux) (./Chapters/Introduction.aux)
-(./Chapters/Bee_foraging.aux) (./Chapters/Bayesian_competition.aux)
-(./Chapters/Coexistence_alleles.aux) (./Chapters/Discussion.aux)
-(./FrontBackMatter/Colophon.aux))
+ (./main.aux (./FrontBackMatter/Titlepage.aux)
+(./FrontBackMatter/Titleback.aux) (./FrontBackMatter/Dedication.aux)
+(./FrontBackMatter/Abstract.aux) (./FrontBackMatter/Publications.aux)
+(./FrontBackMatter/Acknowledgments.aux) (./FrontBackMatter/Contents.aux)
+(./Chapters/Introduction.aux) (./Chapters/Bee_foraging.aux)
+(./Chapters/Bayesian_competition.aux) (./Chapters/Coexistence_alleles.aux)
+(./Chapters/Discussion.aux) (./FrontBackMatter/Colophon.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 156.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 156.
 Package rerunfilecheck Info: File `main.out' has not changed.
@@ -1730,13 +1807,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 156.
  ) 
 Here is how much of TeX's memory you used:
- 31105 strings out of 480608
- 577595 string characters out of 5903631
- 1342422 words of memory out of 5000000
- 45797 multiletter control sequences out of 15000+600000
- 643625 words of font info for 457 fonts, out of 8000000 for 9000
+ 31481 strings out of 480608
+ 582375 string characters out of 5903631
+ 1354584 words of memory out of 5000000
+ 45866 multiletter control sequences out of 15000+600000
+ 664757 words of font info for 660 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,22n,98p,10099b,3171s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,21n,98p,10099b,3181s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
 exlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/local/texl
 ive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/te
@@ -1745,10 +1822,10 @@ texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/
 2020/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2020/tex
 mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist
 /fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (35 pages, 162114 bytes).
+Output written on main.pdf (45 pages, 169420 bytes).
 PDF statistics:
- 559 PDF objects out of 1000 (max. 8388607)
- 510 compressed objects within 6 object streams
- 167 named destinations out of 1000 (max. 500000)
- 72761 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 644 PDF objects out of 1000 (max. 8388607)
+ 585 compressed objects within 6 object streams
+ 183 named destinations out of 1000 (max. 500000)
+ 85097 words of extra memory for PDF output out of 89155 (max. 10000000)
 

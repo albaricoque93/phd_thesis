@@ -5,6 +5,10 @@ The style file: biblatex.bst
 A level-1 auxiliary file: FrontBackMatter/Titlepage.aux
 A level-1 auxiliary file: FrontBackMatter/Titleback.aux
 A level-1 auxiliary file: FrontBackMatter/Dedication.aux
+A level-1 auxiliary file: FrontBackMatter/Abstract.aux
+A level-1 auxiliary file: FrontBackMatter/Publications.aux
+A level-1 auxiliary file: FrontBackMatter/Acknowledgments.aux
+A level-1 auxiliary file: FrontBackMatter/Contents.aux
 A level-1 auxiliary file: Chapters/Introduction.aux
 A level-1 auxiliary file: Chapters/Bee_foraging.aux
 A level-1 auxiliary file: Chapters/Bayesian_competition.aux
@@ -33,7 +37,7 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 1 entry,
             6365 wiz_defined-function locations,
-            1202 strings with 9137 characters,
+            1206 strings with 9260 characters,
 and the built_in function-call counts, 1557 in all, are:
 = -- 73
 > -- 73
