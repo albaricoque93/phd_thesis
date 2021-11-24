@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 NOV 2021 21:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 NOV 2021 21:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1941,19 +1941,19 @@ Chapter 5.
 
 
 ]
-Overfull \hbox (0.49228pt too wide) in paragraph at lines 49--49
+Overfull \hbox (0.49228pt too wide) in paragraph at lines 47--47
 \T1/pplj/m/n/10 (-20) struc-tured en-vi-ron-ments: a syn-the-sis.' In: \T1/pplj
 /m/it/10 (-20) Ecol-ogy let-ters \T1/pplj/m/n/10 (-20) 6.12, pp. 1109^^U
  []
 
 
-Overfull \hbox (6.58456pt too wide) in paragraph at lines 49--49
+Overfull \hbox (6.58456pt too wide) in paragraph at lines 47--47
 [][]\T1/pplj/m/n/10 (-20) D'Andrea, Rafael, An-nette Ostling, and James P O'Dwy
 er (2018). `  Translu-
  []
 
 [111] [112] [113]
-Package biblatex Info: Reference section=0 on input line 49.
+Package biblatex Info: Reference section=0 on input line 47.
 ) [114] [115
 
 
@@ -1992,9 +1992,15 @@ Overfull \hbox (11.99986pt too wide) in paragraph at lines 67--85
  [][] 
  []
 
-[120] [121] [122]
+[120] [121] [122] [123] [124
+
+]
 Package biblatex Info: Reference section=0 on input line 178.
-) [123] [124]
+) [125
+
+
+
+]
 \openout2 = `Chapters/Appendix_B.aux'.
 
  (./Chapters/Appendix_B.tex
@@ -2006,18 +2012,18 @@ Package biblatex Info: Reference section=7 on input line 1.
 Package biblatex Info: Setting label 'refsection:7' on input line 1.
 
 Chapter 7.
+[126
 
+
+
+
+]
 Overfull \hbox (2.60645pt too wide) in paragraph at lines 7--8
 \T1/pplj/m/n/9 (-20) We used Monte-Carlo in-te-gra-tion meth-ods to es-ti-mate 
 the size of the biologically-
  []
 
-[125
-
-
-
-
-] [126] [127]
+[127] [128] [129]
 Overfull \hbox (22.46169pt too wide) detected at line 138
  $\OML/zplm/m/it/9 R[] \OT1/zplm/m/n/9 = \OML/zplm/m/it/9 []g[]N[] \OT1/zplm/m
 /n/9 + \OT1/pplx/m/n/9 2\OML/zplm/m/it/9 [][]g[]N[]g[]N[] \OT1/zplm/m/n/9 + \
@@ -2031,30 +2037,30 @@ Overfull \hbox (26.53453pt too wide) in alignment at lines 152--155
  [][][] []
  []
 
-[128] [129] [130]
+[130] [131] [132]
 Overfull \hbox (21.59987pt too wide) in paragraph at lines 211--220
  [][] 
  []
 
-<figures/appendixB_fig1.pdf, id=2036, 578.16pt x 578.16pt>
+<figures/appendixB_fig1.pdf, id=2045, 578.16pt x 578.16pt>
 File: figures/appendixB_fig1.pdf Graphic file (type pdf)
 <use figures/appendixB_fig1.pdf>
 Package pdftex.def Info: figures/appendixB_fig1.pdf  used on input line 231.
 (pdftex.def)             Requested size: 311.0pt x 310.99313pt.
-[131] [132 <./figures/appendixB_fig1.pdf>]
-<figures/appendixB_fig2.pdf, id=2057, 578.16pt x 578.16pt>
+[133] [134 <./figures/appendixB_fig1.pdf>]
+<figures/appendixB_fig2.pdf, id=2065, 578.16pt x 578.16pt>
 File: figures/appendixB_fig2.pdf Graphic file (type pdf)
 <use figures/appendixB_fig2.pdf>
 Package pdftex.def Info: figures/appendixB_fig2.pdf  used on input line 239.
 (pdftex.def)             Requested size: 311.0pt x 310.99313pt.
- [133
+ [135
 
- <./figures/appendixB_fig2.pdf>] [134
+ <./figures/appendixB_fig2.pdf>] [136
 
 
 ]
 Package biblatex Info: Reference section=0 on input line 246.
-) [135] [136
+) [137] [138
 
 
 
@@ -2080,7 +2086,7 @@ Overfull \hbox (4.51491pt too wide) in paragraph at lines 13--14
 look-and-feel \T1/fvm/m/n/9 classicthesis
  []
 
-) [137
+) [139
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
@@ -2104,35 +2110,32 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 161.
  ) 
 Here is how much of TeX's memory you used:
- 33838 strings out of 480608
- 640352 string characters out of 5903631
- 1477573 words of memory out of 5000000
- 47482 multiletter control sequences out of 15000+600000
+ 33844 strings out of 480608
+ 640505 string characters out of 5903631
+ 1477613 words of memory out of 5000000
+ 47486 multiletter control sequences out of 15000+600000
  701844 words of font info for 889 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,22n,98p,10099b,3192s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{cite.6@edwards_revisiting_2007} has been referenc
-ed but does not exist, replaced by a fixed one
-
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/tex
-live/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/local/texliv
-e/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/texl
-ive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texli
-ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texliv
-e/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/
-2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
-020/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/texlive
-/2020/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/local/texlive/2020
-/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2020/tex
-mf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2020/texmf-dist/
-fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/t
-ype1/public/bera/fvmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw
-/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palati
-no/uplri8a.pfb>
-Output written on main.pdf (151 pages, 2680098 bytes).
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
+exlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/local/texl
+ive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/local/te
+xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/tex
+live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texl
+ive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texliv
+e/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
+/2020/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/local/texli
+ve/2020/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/local/texlive/20
+20/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2020/t
+exmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2020/texmf-dis
+t/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2020/texmf-dist/fonts
+/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/u
+rw/palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/pala
+tino/uplri8a.pfb>
+Output written on main.pdf (153 pages, 2681274 bytes).
 PDF statistics:
- 2324 PDF objects out of 2487 (max. 8388607)
- 2070 compressed objects within 21 object streams
- 583 named destinations out of 1000 (max. 500000)
+ 2332 PDF objects out of 2487 (max. 8388607)
+ 2076 compressed objects within 21 object streams
+ 585 named destinations out of 1000 (max. 500000)
  99584 words of extra memory for PDF output out of 106986 (max. 10000000)
 

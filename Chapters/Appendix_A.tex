@@ -147,12 +147,12 @@ Across all models, we assumed that the times between floral visits followed an e
 \gamma &\sim& {\textrm{LKJcorr}}(1)
   \end{eqnarray}
 
-
-  	\begin{sidewaystable}
+\begin{landscape}
+  	\begin{table}[H]
   	\centering
   	\caption[Statistical models fitted to the data]{Statistical models fitted to the data. Each model includes fixed and random effects that together determine the time between floral visits. The \textit{null} model assumes that neither co-foraging species nor environmental conditions change the times between floral visits. The \textit{interference} model allows the number of visits to change only due to the number of co-foraging bees (i.e.\ it treats interference as constant across environmental conditions). Finally, the \textit{treatments} model allows the environmental conditions to have an effect on both the density-independent and density-dependent parameters.}
   	\label{tab:random}
-  	\begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}} clll}
+  	\begin{tabular*}{\textheight}{l @{\extracolsep{\fill}} clll}
   	\toprule
   	Model         & Eqn. in main text    & Parameter class & Fixed effects    & Random effects  \\ \midrule
   	\textit{null} & \ref{null} & density-independent & $\alpha$ & $\Delta \alpha_{b}$ \\
@@ -171,8 +171,8 @@ Across all models, we assumed that the times between floral visits followed an e
   	& & heterospecific-dependent & $ \beta_{j}, \beta_{jr} , \beta_{je}$ & $\Delta \beta_{jb},  \Delta \beta_{jrb} , \Delta\beta_{jeb}$ \\
    \bottomrule
   	\end{tabular*}
-  \end{sidewaystable}
+  \end{table}
+\end{landscape}
 
-
-
+\printbibliography
 \end{refsection}
