@@ -30,11 +30,11 @@
 \defcounter {refsection}{3}\relax 
 \ttl@tocsep 
 \defcounter {refsection}{3}\relax 
-\contentsline {table}{\numberline {3.1}{\ignorespaces Equilibrium growth rates and model constraints for the two models we used used to make coexistence predictions}}{54}{table.caption.9}%
+\contentsline {table}{\numberline {3.1}{\ignorespaces Equilibrium growth rates and model constraints for the two models we used used to make coexistence predictions}}{55}{table.caption.9}%
 \defcounter {refsection}{3}\relax 
-\contentsline {table}{\numberline {3.2}{\ignorespaces Model comparison in the \emph {open} and \emph {woody} environments}}{58}{table.caption.10}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Model comparison in the \emph {open} and \emph {woody} environments}}{59}{table.caption.10}%
 \defcounter {refsection}{3}\relax 
-\contentsline {table}{\numberline {3.3}{\ignorespaces Combined LOOIC, weights and proportion of coexistence for different model combinations in the \textit {open} environment}}{62}{table.caption.13}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Combined LOOIC, weights and proportion of coexistence for different model combinations in the \textit {open} environment}}{63}{table.caption.13}%
 \defcounter {refsection}{3}\relax 
 \contentsline {table}{\numberline {3.4}{\ignorespaces Combined LOOIC, weights and proportion of coexistence for different model combinations in the \textit {woody} environment}}{63}{table.caption.14}%
 \defcounter {refsection}{3}\relax 
@@ -44,7 +44,7 @@
 \defcounter {refsection}{4}\relax 
 \contentsline {table}{\numberline {4.1}{\ignorespaces Parameters used in our simulations to control the effect sizes of fluctuations in population sizes ($\sigma _{g}$) and selection values ($\sigma _{w}$) and their respective correlations ($\rho _{g}$ and $\rho _{w}$)}}{81}{table.caption.16}%
 \defcounter {refsection}{4}\relax 
-\contentsline {table}{\numberline {4.2}{\ignorespaces Functional decomposition of the growth rate of allele $j$. As defined in Eqn.~(\ref {functional_decomp_2}), the partition of the average population growth rate is made up of the variation free growth rate ($\mathcal {E}^{0}_{j}$), main effects of each variable fluctuating, and the interaction between fluctuations in correlated variables. \relax }}{85}{table.caption.17}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Functional decomposition of the growth rate of allele $j$}}{85}{table.caption.17}%
 \defcounter {refsection}{4}\relax 
 \ttl@tocsep 
 \defcounter {refsection}{5}\relax 

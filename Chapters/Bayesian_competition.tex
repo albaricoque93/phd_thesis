@@ -7,7 +7,7 @@
 \begin{enumerate}
     \item Centre for Integrative Ecology, School of Biological Sciences, University of Canterbury, New Zealand
     \item School of Biological Sciences, University of Queensland, Brisbane, Australia
-    \item Aix Marseille Univ., Université de Toulon,  Marseille, France
+    \item Université de Toulon,  Marseille, France
 \end{enumerate}
 
 \section*{Abstract}
@@ -117,12 +117,6 @@ In addition, the Beverton--Holt model implicitly imposes further biological cons
 
 Building upon previous approaches, we called the parameter space where both species can have positive abundances given a) intra and interspecific competition, b) constraints on species abundances, and c) the constraints imposed by each phenomenological model of competition, the biologically-constrained feasibility domain. In the two species case,  the biologically-constrained feasibility domain can also be expressed as an area, that we called $\beta$. We estimated the size of $\beta$ using Monte Carlo integration methods as described in \autoref{appendix_B}, and show an example in Fig.~\ref{fig:domain}.
 
-\begin{figure}[H]
-  \centerline{\includegraphics[width=1\textwidth]{figures/chapter3_fig1.pdf}}
-  \caption[Estimation of the biologically-constrained feasibility domain]{Estimation of the biologically-constrained feasibility domain ($\beta$). A) We show the feasibility domain (green) given a hypothetical competition matrix with intraspecific competition coefficients equal to $1$ and interspecific competition coefficients equal to $0.5$. B) Part of the parameter space corresponds to species equilibrium abundances that are greater than specified abundance constraints (red). For simplicity, we used the same hypothetical abundance constraints for both species of $N^* \le 1.5$. C) Part of the the parameter space also falls outside model-based constraints (blue), assuming both species' density dependence is described by the Beverton--Holt model. D) The space of the feasibility domain that does not overlap with abundance or model-based constraints gives the biologically-constrained feasibility domain ($\beta$, green). }
-  \label{fig:domain}
-\end{figure}
-
 
 \subsubsection*{Distance from the edge}
 
@@ -132,6 +126,15 @@ If two species' set of growth rates $r_{i}$ and $r_{j}$ are inside $\beta$, the 
 \subsubsection*{Relative coexistence ratio}
 
 As a basis of comparison, it is also convenient to quantify the parameter space that allows both species to grow in monoculture. Importantly, this parameter space can also be expressed as an area, and this area is also subject to abundance and model constraints. We called this area $\gamma$, and mathematical details of how to calculate the size of it can be found in \autoref{appendix_B}. By comparing the size of the parameter space where both species can coexist ($\beta$) to the size of the space where species can grow in monoculture ($\gamma$), we can quantify the importance of interspecific interactions relative to intraspecific interactions. This comparison can be expressed as a ratio $\rho$ that we call the relative coexistence ratio. If this ratio is equal to one, then species coexistence is as likely as species growing in monoculture; if this ratio is lower than one, then the parameter space where the two species can coexist is smaller than the parameter space where each species can grow in monoculture,  and it is less likely they can coexist when interacting; finally, ratios bigger than one imply that species facilitate each other, and it is more likely for them to coexist when interacting than to grow in monoculture. We show an example of how different values of $\beta$ and $\gamma$ determine the values of $\rho$, as well as their relationship to the distance from the edge $\delta$ in Fig.~\ref{fig:rho_delta}.
+
+\begin{landscape}
+\begin{figure}[H]
+  \centerline{\includegraphics[width=1.7\textwidth]{figures/chapter3_fig1.pdf}}
+  \caption[Estimation of the biologically-constrained feasibility domain]{Estimation of the biologically-constrained feasibility domain ($\beta$). A) We show the feasibility domain (green) given a hypothetical competition matrix with intraspecific competition coefficients equal to $1$ and interspecific competition coefficients equal to $0.5$. B) Part of the parameter space corresponds to species equilibrium abundances that are greater than specified abundance constraints (red). For simplicity, we used the same hypothetical abundance constraints for both species of $N^* \le 1.5$. C) Part of the the parameter space also falls outside model-based constraints (blue), assuming both species' density dependence is described by the Beverton--Holt model. D) The space of the feasibility domain that does not overlap with abundance or model-based constraints gives the biologically-constrained feasibility domain ($\beta$, green). }
+  \label{fig:domain}
+\end{figure}
+\end{landscape}
+
 
 \subsubsection*{An alternative model of density dependence}
 
@@ -145,13 +148,6 @@ The Beverton--Holt model is only one of many phenomenological models used to des
 where the interpretation of the parameters remains the same as previously described \citep{ricker1954effects}. The Ricker model is known to be a biologically plausible and versatile model to quantify density dependence in annual plant communities, plus it has the virtue of being better able to capture both competitive and facilitative interactions \citep{mayfield2017higher,bimler_accurate_2018}.
 
 
-\begin{figure}[H]
-  \centerline{\includegraphics[width=1.1\textwidth]{figures/chapter3_fig2.pdf}}
-  \caption[Examples of how different values of the biologically--constrained feasibility domain ($\beta$), the area in monoculture ($\gamma$), and species growth rates ($r_i$ and $r_j$) determine the values of the relative coexistence ratio ($\rho$) and the minimum distance from the edge ($\delta$).]{Examples of how different values of the biologically--constrained feasibility domain ($\beta$), the area in monoculture ($\gamma$), and species growth rates ($r_i$ and $r_j$) determine the values of the relative coexistence ratio ($\rho$) and the minimum distance from the edge ($\delta$). In A), B), and C) we show three hypothetical combinations of the biologically-constrained feasibility domain ($\beta$ in green), the parameter space where species can grow in monoculture ($\gamma$ in light grey), and a set of species growth rates (black circles). D) We show how the examples shown in A, B, and C correspond to different values of the relative coexistence ratio ($\rho$) and the distance from the edge ($\delta$).  }
-  \label{fig:rho_delta}
-\end{figure}
-
-
 Similar to the process we followed from Eqns.~\ref{bh_equilibrium} to ~\ref{abundances}, the Ricker model has its own expression of growth rate at equilibrium. For species $i$, it is given by:
 %\begin{equation}
 %  r_{i} = 1 - \left(\frac{1-(1-g_{i})s_{i}}{g_{i}\lambda_{i}} \right).
@@ -162,6 +158,17 @@ Similar to the process we followed from Eqns.~\ref{bh_equilibrium} to ~\ref{abun
   r_{i}=\ln\left(\frac{g_{i}\lambda_{i}}{1-(1-g_{i})s_{i}}\right).
 \end{equation}
 This expression necessarily implies that the model constraints on growth rates are different when using the Ricker model than when using  the Beverton--Holt model: it has no model-based constraints on the lower and upper bounds of species growth rates. We summarize each of the models presented so far, their expressions of growth rates at equilibrium, and their lower and upper bounds in Table \ref{tab:definitions}
+
+\subsubsection*{Multi-model predictions of species coexistence}
+
+By parameterizing a phenomenological model of plant competition, like the Beverton--Holt (Eqn.~\ref{Beverton-Holt}), we get a description of how seed set decreases with neighbor density. Perhaps more importantly, by linking this model to  Eqn.~\ref{annual_plant} we can make a prediction about whether or not two species are able to coexist. So far, we have been working with the implicit assumption that the same model describes the density dependence of the two species. However, there is no \textit{a priori} reason to assume this is the case, especially in an empirical case where different models can provide comparable fits \citep{hart2018quantify}.
+
+
+\begin{figure}[H]
+  \centerline{\includegraphics[width=1.1\textwidth]{figures/chapter3_fig2.pdf}}
+  \caption[Examples of how different values of the biologically--constrained feasibility domain ($\beta$), the area in monoculture ($\gamma$), and species growth rates ($r_i$ and $r_j$) determine the values of the relative coexistence ratio ($\rho$) and the minimum distance from the edge ($\delta$).]{Examples of how different values of the biologically--constrained feasibility domain ($\beta$), the area in monoculture ($\gamma$), and species growth rates ($r_i$ and $r_j$) determine the values of the relative coexistence ratio ($\rho$) and the minimum distance from the edge ($\delta$). In A), B), and C) we show three hypothetical combinations of the biologically-constrained feasibility domain ($\beta$ in green), the parameter space where species can grow in monoculture ($\gamma$ in light grey), and a set of species growth rates (black circles). D) We show how the examples shown in A, B, and C correspond to different values of the relative coexistence ratio ($\rho$) and the distance from the edge ($\delta$).  }
+  \label{fig:rho_delta}
+\end{figure}
 
 
 \begin{table}[h]
@@ -181,9 +188,6 @@ Ricker    & $\ln\left(\frac{g_{i}\lambda{i}}{1-(1-g_{i})s_{i}}\right)$  &   -Inf
 \end{tabular*}
 \end{table}
 
-\subsubsection*{Multi-model predictions of species coexistence}
-
-By parameterizing a phenomenological model of plant competition, like the Beverton--Holt (Eqn.~\ref{Beverton-Holt}), we get a description of how seed set decreases with neighbor density. Perhaps more importantly, by linking this model to  Eqn.~\ref{annual_plant} we can make a prediction about whether or not two species are able to coexist. So far, we have been working with the implicit assumption that the same model describes the density dependence of the two species. However, there is no \textit{a priori} reason to assume this is the case, especially in an empirical case where different models can provide comparable fits \citep{hart2018quantify}.
 
 
 To predict coexistence using a different density-dependence model per species, we still must solve for species equilibrium abundances as a function of growth rates and competition (Eqn.~\ref{abundances}). Unlike the single-model approach, each species' growth rate has its own formulation based on the model describing each species realized fecundity (Table \ref{tab:definitions}). As in the previous approach, if Eqn.~\ref{abundances} predicts positive abundances for both species within the bounds of each species' model and abundance constraints, species are predicted to coexist. Importantly, both $\beta$ and $\gamma$ become a function of four potential constraints: the set of lower and upper bounds per species. Having imposed those constraints, the relative coexistence ratio $\rho$ and the distance from the edge $\delta$ can again be calculated as described previously.
@@ -272,6 +276,14 @@ The consequences of structural sensitivity were different when interactions took
 
 In the \textit{woody} environment, estimates of $\delta$ were mostly negative (Fig.~\ref{fig:woody}). That is, for most of the model combinations we examined, species growth rates were far away from the biologically-constrained feasibility domain, and the coexistence outcome unlikely to change given small perturbations. These values of $\delta$ seem to be driving the changes in coexistence outcomes regardless of the values of $\rho$. Similar to the \textit{open} environment, the value of $\delta$ was positive and close to zero in the one instance where we predicted species coexistence.
 
+\subsection*{ Structural sensitivity, environmental context dependency \& parameter sensitivity }
+
+Predictions made with the posterior distribution of parameter values could be quantitatively and qualitatively very different to predictions made with median parameter values (Figs.~\ref{fig:open} and \ref{fig:woody}). Importantly, the extent of parameter sensitivity depended on the models used and the environment where interactions took place. When species were interacting in the \textit{open} environment, we predicted both competitive exclusion and coexistence regardless of the outcome of the median prediction (Fig.~\ref{fig:open}). For posterior predictions of competitive exclusion, the species predicted to competitively exclude the other varied between model combinations and posterior draws (Fig.~\ref{fig:open}). The proportion of posterior draws that predicted coexistence ranged from 96\% to 33\%, depending on the model combination used to make predictions (Table~\ref{tab:proportions_open}).
+
+In contrast, when interactions took place in the \textit{woody} environment  most of the posterior predictions resulted in competitive exclusion (Fig.~\ref{fig:woody}). For 3 out of 4 model combinations examined, the proportion of posterior draws that predicted coexistence was less than 10\% (Table~\ref{tab:proportions_woody}). However, the outcome of competitive exclusion varied  between  posterior predictions. That is, even if species were predicted to be confidently experiencing competitive exclusion, the outcome of competition was uncertain (Fig.~\ref{fig:woody}).
+
+The probability of predicting species coexistence given each phenomenological model used and the proportion of posterior predictions of coexistence was 67\% in the \textit{open} environment when we used the Beverton--Holt model to describe the dynamics of both species (Table~\ref{tab:proportions_open}). Other model combinations had little statistical support  (Table~\ref{tab:proportions_open}). Similarly, in th \textit{woody} environment, the model combination where the Beverton--Holt model described the dynamics of both species had most of the statistical support (Table~\ref{tab:proportions_woody}). However, that model combination also confidently predicted competitive exclusion (Table~\ref{tab:proportions_woody}). Other model combinations in the \textit{woody} environment varied in their extent of posterior draws that predicted coexistence, however, they also had little statistical support (Table~\ref{tab:proportions_woody}).
+
 \begin{figure}[H]
   \centerline{\includegraphics[width=1\textwidth]{figures/chapter3_fig3}}
   \caption[Predictions made with different model combinations in the \textit{open} environment]{Predictions made with different model combinations in the \textit{open} environment. Each panel corresponds to a different model combination, labels on the top indicate the model used for the species \textit{Vellia rosea}, and labels on the right show  the model used for \textit{Trachymene cyanopetala}.  In each panel, we show median estimates of $\rho$ and $\delta$ (triangles), and the color of these estimates indicates coexistence (green), competitive exclusion by \textit{Vellia rosea} (yellow), and competitive exclusion by \textit{Trachymene cyanopetala} (blue). Finally, we show the 500 predictions made using posterior draws of parameter values (circles) with the same color scheme.  }
@@ -283,18 +295,7 @@ In the \textit{woody} environment, estimates of $\delta$ were mostly negative (F
   \caption[Predictions made with different model combinations in the \textit{woody} environment]{Predictions made with different model combinations in the \textit{woody} environment. Each panel corresponds to a different model combination, labels on the top indicate the model used for the species \textit{Vellia rosea}, and labels on the right show  the model used for \textit{Trachymene cyanopetala}.  In each panel, we show median estimates of $\rho$ and $\delta$ (triangles), and the color of these estimates indicates coexistence (green), competitive exclusion by \textit{Vellia rosea} (yellow), and competitive exclusion by \textit{Trachymene cyanopetala} (blue). Finally, we show the 500 predictions made using posterior draws of parameter values (circles) with the same color scheme.}
     \label{fig:woody}
 \end{figure}
-
-\subsection*{ Structural sensitivity, environmental context dependency \& parameter sensitivity }
-
-Predictions made with the posterior distribution of parameter values could be quantitatively and qualitatively very different to predictions made with median parameter values (Figs.~\ref{fig:open} and \ref{fig:woody}). Importantly, the extent of parameter sensitivity depended on the models used and the environment where interactions took place. When species were interacting in the \textit{open} environment, we predicted both competitive exclusion and coexistence regardless of the outcome of the median prediction (Fig.~\ref{fig:open}). For posterior predictions of competitive exclusion, the species predicted to competitively exclude the other varied between model combinations and posterior draws (Fig.~\ref{fig:open}). The proportion of posterior draws that predicted coexistence ranged from 96\% to 33\%, depending on the model combination used to make predictions (Table~\ref{tab:proportions_open}).
-
-
-In contrast, when interactions took place in the \textit{woody} environment  most of the posterior predictions resulted in competitive exclusion (Fig.~\ref{fig:woody}). For 3 out of 4 model combinations examined, the proportion of posterior draws that predicted coexistence was less than 10\% (Table~\ref{tab:proportions_woody}). However, the outcome of competitive exclusion varied  between  posterior predictions. That is, even if species were predicted to be confidently experiencing competitive exclusion, the outcome of competition was uncertain (Fig.~\ref{fig:woody}).
-
-
-The probability of predicting species coexistence given each phenomenological model used and the proportion of posterior predictions of coexistence was 67\% in the \textit{open} environment when we used the Beverton--Holt model to describe the dynamics of both species (Table~\ref{tab:proportions_open}). Other model combinations had little statistical support  (Table~\ref{tab:proportions_open}). Similarly, in th \textit{woody} environment, the model combination where the Beverton--Holt model described the dynamics of both species had most of the statistical support (Table~\ref{tab:proportions_woody}). However, that model combination also confidently predicted competitive exclusion (Table~\ref{tab:proportions_woody}). Other model combinations in the \textit{woody} environment varied in their extent of posterior draws that predicted coexistence, however, they also had little statistical support (Table~\ref{tab:proportions_woody}).
-
-
+%HERE
 \begin{table}[H]
 %\begin{table}[]
 \caption[Combined LOOIC, weights and proportion of coexistence for different model combinations in the \textit{open} environment]{Combined LOOIC, weights and proportion of coexistence for different model combinations in the \textit{open} environment. Combined LOOIC and weights were calculated as the sum and product of both model's LOOIC and weights, respectively. Proportion of coexistence quantifies the proportion of coexistence predictions relative to competitive exclusion predictions for each model combination.}
@@ -312,7 +313,7 @@ Ricker         & Ricker                 & 3066.79       & 0.00            & 0.01
 %\end{table}
 \end{table}
 
-\vspace{10mm}
+
 
 % DBS: Need to add columns below for competitive exclusion of each species
 

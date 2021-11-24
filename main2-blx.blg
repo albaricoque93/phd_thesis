@@ -21,49 +21,49 @@ Reallocated field_info (elt_size=4) to 12645 items from 5000.
 Database file #1: main-blx.bib
 Database file #2: Bibliography.bib
 Warning--I'm ignoring goulson_foraging_1999's extra "annote" field
---line 1818 of file Bibliography.bib
+--line 1761 of file Bibliography.bib
 Biblatex version: 3.13
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 55 entries,
             6365 wiz_defined-function locations,
-            1572 strings with 22233 characters,
-and the built_in function-call counts, 425891 in all, are:
-= -- 31431
-> -- 7277
-< -- 2011
-+ -- 9472
-- -- 2888
-* -- 35589
-:= -- 45608
+            1571 strings with 22208 characters,
+and the built_in function-call counts, 422390 in all, are:
+= -- 31322
+> -- 7021
+< -- 1919
++ -- 9334
+- -- 2840
+* -- 35339
+:= -- 45251
 add.period$ -- 0
 call.type$ -- 55
 change.case$ -- 54
-chr.to.int$ -- 182
+chr.to.int$ -- 44
 cite$ -- 108
-duplicate$ -- 39841
-empty$ -- 38944
-format.name$ -- 4284
-if$ -- 88542
+duplicate$ -- 39424
+empty$ -- 38701
+format.name$ -- 4276
+if$ -- 87983
 int.to.chr$ -- 0
-int.to.str$ -- 132
+int.to.str$ -- 131
 missing$ -- 0
-newline$ -- 2127
-num.names$ -- 2594
-pop$ -- 19307
+newline$ -- 2096
+num.names$ -- 2592
+pop$ -- 19315
 preamble$ -- 1
-purify$ -- 1264
+purify$ -- 1263
 quote$ -- 0
-skip$ -- 11985
+skip$ -- 11913
 stack$ -- 0
-substring$ -- 60776
-swap$ -- 10074
-text.length$ -- 1779
+substring$ -- 60436
+swap$ -- 9849
+text.length$ -- 1732
 text.prefix$ -- 54
 top$ -- 1
 type$ -- 1857
 warning$ -- 0
-while$ -- 5581
+while$ -- 5437
 width$ -- 0
-write$ -- 2073
+write$ -- 2042
 (There was 1 warning)

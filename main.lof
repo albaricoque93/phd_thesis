@@ -36,13 +36,13 @@
 \defcounter {refsection}{3}\relax 
 \ttl@tocsep 
 \defcounter {refsection}{3}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Estimation of the biologically-constrained feasibility domain}}{51}{figure.caption.7}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Estimation of the biologically-constrained feasibility domain}}{52}{figure.caption.7}%
 \defcounter {refsection}{3}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Examples of how different values of the biologically--constrained feasibility domain ($\beta $), the area in monoculture ($\gamma $), and species growth rates ($r_i$ and $r_j$) determine the values of the relative coexistence ratio ($\rho $) and the minimum distance from the edge ($\delta $).}}{53}{figure.caption.8}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Examples of how different values of the biologically--constrained feasibility domain ($\beta $), the area in monoculture ($\gamma $), and species growth rates ($r_i$ and $r_j$) determine the values of the relative coexistence ratio ($\rho $) and the minimum distance from the edge ($\delta $).}}{54}{figure.caption.8}%
 \defcounter {refsection}{3}\relax 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Predictions made with different model combinations in the \textit {open} environment}}{60}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Predictions made with different model combinations in the \textit {open} environment}}{61}{figure.caption.11}%
 \defcounter {refsection}{3}\relax 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Predictions made with different model combinations in the \textit {woody} environment}}{61}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Predictions made with different model combinations in the \textit {woody} environment}}{62}{figure.caption.12}%
 \defcounter {refsection}{3}\relax 
 \contentsline {figure}{\numberline {3.5}{\ignorespaces Predictions of $\beta $, $\gamma $, $\rho $, and $\delta $ made while including the posterior distribution of each parameter separately and using the Beverton--Holt model for both species in both environments}}{64}{figure.caption.15}%
 \defcounter {refsection}{3}\relax 
@@ -68,9 +68,9 @@
 \defcounter {refsection}{6}\relax 
 \ttl@tocsep 
 \defcounter {refsection}{6}\relax 
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Posterior distribution of $\epsilon $ parameters from Eq.~\ref {energy}. Each parameter estimates the mean energetic gain per visit (in kilojoules), per flower type. We have also indicated the maximum gains per visit of the different flower types with an x. \relax }}{118}{figure.caption.24}%
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Posterior distribution of $\epsilon $ parameters from Eq.~\ref {energy}}}{118}{figure.caption.24}%
 \defcounter {refsection}{6}\relax 
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Relationship between the total number of visits made by an individual bee and its total energy gains during an experiment trial. In the top panel, the total energy consumed per trial is clearly an increasing function of the number of floral visits an individual makes during the trial. Each point corresponds to observations at the individual level. In the bottom panel, we show the same relationship with log-log axes. \relax }}{119}{figure.caption.25}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Relationship between the total number of visits made by an individual bee and its total energy gains during an experiment trial.}}{119}{figure.caption.25}%
 \defcounter {refsection}{7}\relax 
 \ttl@tocsep 
 \defcounter {refsection}{7}\relax 

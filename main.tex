@@ -84,23 +84,23 @@
 
 \include{FrontBackMatter/Titleback} % Back of the title page
 
-\cleardoublepage\include{FrontBackMatter/Dedication} % Dedication page
+\include{FrontBackMatter/Dedication} % Dedication page
 
 %\cleardoublepage\include{FrontBackMatter/Foreword} % Uncomment and create a Foreword.tex to include a foreword
 
-\cleardoublepage\include{FrontBackMatter/Abstract} % Abstract page
+\include{FrontBackMatter/Abstract} % Abstract page
 
-\cleardoublepage\include{FrontBackMatter/Publications} % Publications from the thesis page
+%\include{FrontBackMatter/Publications} % Publications from the thesis page
 
-\cleardoublepage\include{FrontBackMatter/Declaration} % Declaration
-
-\cleardoublepage\include{FrontBackMatter/Acknowledgments} % Acknowledgements page
+\include{FrontBackMatter/Declaration} % Declaration
+\include{FrontBackMatter/Publications}
+\include{FrontBackMatter/Acknowledgments} % Acknowledgements page
 
 \pagestyle{scrheadings} % Show chapter titles as headings
 
 \cleardoublepage\include{FrontBackMatter/Contents} % Contents, list of figures/tables/listings and acronyms
 
-\cleardoublepage
+
 
 \pagenumbering{arabic} % Arabic page numbering for thesis content (1, 2, 3, etc)
 %\setcounter{page}{1}
@@ -114,7 +114,7 @@
 
 %\part{General introduction} % First part of the thesis
 
-\cleardoublepage % Empty page before the start of the next part
+ % Empty page before the start of the next part
 
 %------------------------------------------------ % Second part of the thesis
 \part{Introduction}

@@ -30,42 +30,42 @@ while executing---line 2805 of file biblatex.bst
 You've used 56 entries,
             6365 wiz_defined-function locations,
             1542 strings with 19459 characters,
-and the built_in function-call counts, 412706 in all, are:
+and the built_in function-call counts, 412187 in all, are:
 = -- 30725
-> -- 7538
-< -- 2637
-+ -- 8765
-- -- 2584
-* -- 31998
-:= -- 40697
+> -- 7482
+< -- 2617
++ -- 8744
+- -- 2573
+* -- 31963
+:= -- 40656
 add.period$ -- 0
 call.type$ -- 56
 change.case$ -- 55
-chr.to.int$ -- 74
+chr.to.int$ -- 44
 cite$ -- 110
-duplicate$ -- 38711
-empty$ -- 37753
+duplicate$ -- 38651
+empty$ -- 37718
 format.name$ -- 4003
-if$ -- 88247
+if$ -- 88167
 int.to.chr$ -- 0
 int.to.str$ -- 174
 missing$ -- 0
-newline$ -- 1990
+newline$ -- 1985
 num.names$ -- 3510
-pop$ -- 19171
+pop$ -- 19176
 preamble$ -- 1
 purify$ -- 2008
 quote$ -- 0
-skip$ -- 15043
+skip$ -- 15028
 stack$ -- 0
-substring$ -- 56142
-swap$ -- 10365
-text.length$ -- 1660
+substring$ -- 56112
+swap$ -- 10320
+text.length$ -- 1650
 text.prefix$ -- 56
 top$ -- 1
 type$ -- 1892
 warning$ -- 0
-while$ -- 4805
+while$ -- 4780
 width$ -- 0
-write$ -- 1935
+write$ -- 1930
 (There were 2 error messages)

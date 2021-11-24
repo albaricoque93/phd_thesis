@@ -49,7 +49,6 @@
   neither?}
     \field{volume}{15}
     \field{journaltitle}{Trends in Ecology \& Evolution}
-    \field{month}{08}
     \field{year}{2000}
   \endentry
 
@@ -88,7 +87,6 @@
   decision-making in trapline foraging}
     \field{volume}{29}
     \field{journaltitle}{Behavioral Ecology}
-    \field{month}{07}
     \field{year}{2018}
   \endentry
 
@@ -225,7 +223,6 @@
     \field{annotation}{%
     side%
     }
-    \field{month}{05}
     \field{year}{2012}
   \endentry
 
@@ -290,7 +287,6 @@
     \field{annotation}{%
     reproductive%
     }
-    \field{month}{08}
     \field{year}{2013}
   \endentry
 
@@ -359,7 +355,6 @@
     \field{annotation}{%
     Modeling%
     }
-    \field{month}{10}
     \field{year}{2017}
   \endentry
 
@@ -569,7 +564,6 @@
   functional responses for pollination mutualism and seed parasitism}
     \field{volume}{191}
     \field{journaltitle}{Ecological Modelling}
-    \field{month}{02}
     \field{year}{2006}
   \endentry
 
@@ -812,7 +806,6 @@
     \field{annotation}{%
     evolution%
     }
-    \field{month}{01}
     \field{year}{1999}
   \endentry
 
@@ -822,14 +815,6 @@
          family={Goulson},
          familyi={G\bibinitperiod},
          given={Dave},
-         giveni={D\bibinitperiod},
-      }}%
-    }
-    \name{editor}{1}{}{%
-      {{hash=KD}{%
-         family={Kleijn},
-         familyi={K\bibinitperiod},
-         given={David},
          giveni={D\bibinitperiod},
       }}%
     }
@@ -844,11 +829,10 @@
     \field{number}{4}
     \field{pages}{977\bibrangedash 987}
     \field{shorttitle}{{REVIEW}}
-    \field{title}{{REVIEW}: {An} overview of the environmental risks posed by
-  neonicotinoid insecticides}
+    \field{title}{An overview of the environmental risks posed by neonicotinoid
+  insecticides}
     \field{volume}{50}
     \field{journaltitle}{Journal of Applied Ecology}
-    \field{month}{08}
     \field{year}{2013}
   \endentry
 
@@ -886,7 +870,6 @@
     \field{annotation}{%
     pollination%
     }
-    \field{month}{09}
     \field{year}{2006}
   \endentry
 
@@ -915,7 +898,6 @@
   {Bumblebees}}
     \field{volume}{57}
     \field{journaltitle}{Ecology}
-    \field{month}{08}
     \field{year}{1976}
   \endentry
 
@@ -945,7 +927,6 @@
     \field{annotation}{%
     movement%
     }
-    \field{month}{01}
     \field{year}{1979}
   \endentry
 
@@ -1081,7 +1062,6 @@
     \field{annotation}{%
     Bees%
     }
-    \field{month}{04}
     \field{year}{2012}
   \endentry
 
@@ -1115,7 +1095,6 @@
   pollination mutualisms}
     \field{volume}{126}
     \field{journaltitle}{Oecologia}
-    \field{month}{02}
     \field{year}{2001}
   \endentry
 
@@ -1260,7 +1239,6 @@
   species}
     \field{volume}{65}
     \field{journaltitle}{Behavioral Ecology and Sociobiology}
-    \field{month}{04}
     \field{year}{2011}
   \endentry
 
@@ -1427,7 +1405,6 @@
     \field{annotation}{%
     Examples%
     }
-    \field{month}{01}
     \field{year}{2018}
   \endentry
 
@@ -1487,7 +1464,6 @@
     \field{annotation}{%
     bumblebees%
     }
-    \field{month}{09}
     \field{year}{2009}
   \endentry
 
@@ -1557,7 +1533,6 @@
   {Behavioral} {Factors}}
     \field{volume}{197}
     \field{journaltitle}{Science}
-    \field{month}{08}
     \field{year}{1977}
   \endentry
 
@@ -1648,7 +1623,6 @@
     \field{title}{On the structural stability of mutualistic systems}
     \field{volume}{345}
     \field{journaltitle}{Science}
-    \field{month}{07}
     \field{year}{2014}
   \endentry
 
@@ -1674,7 +1648,6 @@
   {Pollinators} and {Africanized} {Honey} {Bees}}
     \field{volume}{201}
     \field{journaltitle}{Science}
-    \field{month}{09}
     \field{year}{1978}
   \endentry
 
@@ -1844,7 +1817,6 @@
   the {Anthropocene}}
     \field{volume}{38}
     \field{journaltitle}{Current Opinion in Insect Science}
-    \field{month}{04}
     \field{year}{2020}
   \endentry
 
@@ -1885,7 +1857,6 @@
   experiments: shifts in feeding location and efficiency}
     \field{volume}{71}
     \field{journaltitle}{Oecologia}
-    \field{month}{01}
     \field{year}{1987}
   \endentry
 
@@ -1912,7 +1883,6 @@
   on the visitation rates of traplining pollinators {ofAralia} hispida}
     \field{volume}{2}
     \field{journaltitle}{Evolutionary Ecology}
-    \field{month}{01}
     \field{year}{1988}
   \endentry
 
@@ -2009,7 +1979,6 @@
     \field{annotation}{%
     Comment: Minor revision for improved clarity%
     }
-    \field{month}{05}
     \field{year}{2020}
   \endentry
 
