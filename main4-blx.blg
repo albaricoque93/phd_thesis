@@ -17,49 +17,55 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 10699 items from 5000.
 Database file #1: main-blx.bib
 Database file #2: Bibliography.bib
 Biblatex version: 3.13
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 1 entry,
+Too many commas in name 1 of "Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA" for entry hedrick1986genetic
+while executing---line 2805 of file biblatex.bst
+Too many commas in name 1 of "Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA" for entry hedrick1986genetic
+while executing---line 2805 of file biblatex.bst
+You've used 41 entries,
             6365 wiz_defined-function locations,
-            1193 strings with 8893 characters,
-and the built_in function-call counts, 1557 in all, are:
-= -- 73
-> -- 73
-< -- 1
-+ -- 52
-- -- 30
-* -- 32
-:= -- 373
+            1448 strings with 16352 characters,
+and the built_in function-call counts, 280999 in all, are:
+= -- 20442
+> -- 5374
+< -- 1904
++ -- 5947
+- -- 1789
+* -- 21229
+:= -- 27133
 add.period$ -- 0
-call.type$ -- 1
-change.case$ -- 0
-chr.to.int$ -- 44
-cite$ -- 0
-duplicate$ -- 11
-empty$ -- 104
-format.name$ -- 0
-if$ -- 333
+call.type$ -- 41
+change.case$ -- 40
+chr.to.int$ -- 68
+cite$ -- 80
+duplicate$ -- 27041
+empty$ -- 25783
+format.name$ -- 2798
+if$ -- 60356
 int.to.chr$ -- 0
-int.to.str$ -- 0
+int.to.str$ -- 128
 missing$ -- 0
-newline$ -- 20
-num.names$ -- 0
-pop$ -- 47
+newline$ -- 1399
+num.names$ -- 2568
+pop$ -- 13831
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 1454
 quote$ -- 0
-skip$ -- 78
+skip$ -- 10919
 stack$ -- 0
-substring$ -- 155
-swap$ -- 1
-text.length$ -- 20
-text.prefix$ -- 0
+substring$ -- 36037
+swap$ -- 7392
+text.length$ -- 1179
+text.prefix$ -- 41
 top$ -- 1
-type$ -- 22
+type$ -- 1382
 warning$ -- 0
-while$ -- 65
+while$ -- 3283
 width$ -- 0
-write$ -- 20
+write$ -- 1359
+(There were 2 error messages)

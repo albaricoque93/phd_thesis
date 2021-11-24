@@ -16,5 +16,1424 @@
   {}
 \endgroup
 
-\datalist[entry]{nyt/global//global/global}\enddatalist
+\datalist[entry]{nyt/global//global/global}
+  \entry{armstrong1980competitive}{article}{}
+    \name{author}{2}{}{%
+      {{hash=ARA}{%
+         family={Armstrong},
+         familyi={A\bibinitperiod},
+         given={Robert\bibnamedelima A},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={McGehee},
+         familyi={M\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Chicago Press}%
+    }
+    \strng{namehash}{ARAMR1}
+    \strng{fullhash}{ARAMR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{151\bibrangedash 170}
+    \field{title}{Competitive exclusion}
+    \field{volume}{115}
+    \field{journaltitle}{The American Naturalist}
+    \field{year}{1980}
+  \endentry
+
+  \entry{arnqvist2013sexual}{book}{}
+    \name{author}{2}{}{%
+      {{hash=AG}{%
+         family={Arnqvist},
+         familyi={A\bibinitperiod},
+         given={G{\"o}ran},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=RL}{%
+         family={Rowe},
+         familyi={R\bibinitperiod},
+         given={Locke},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Princeton University Press}%
+    }
+    \strng{namehash}{AGRL1}
+    \strng{fullhash}{AGRL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Sexual conflict}
+    \field{year}{2013}
+  \endentry
+
+  \entry{barabas_chessons_2018}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BG}{%
+         family={Barabás},
+         familyi={B\bibinitperiod},
+         given={György},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=DR}{%
+         family={D'Andrea},
+         familyi={D\bibinitperiod},
+         given={Rafael},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SSM}{%
+         family={Stump},
+         familyi={S\bibinitperiod},
+         given={Simon\bibnamedelima Maccracken},
+         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \keyw{average fitness differences, community ecology, competitive
+  advantage, equalizing effect, growth-density covariance, relative
+  nonlinearity, stabilization, storage effect, theoretical ecology, variable
+  environment theory}
+    \strng{namehash}{BGDRSSM1}
+    \strng{fullhash}{BGDRSSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{3}
+    \field{pages}{277\bibrangedash 303}
+    \field{title}{Chesson's coexistence theory}
+    \field{volume}{88}
+    \field{journaltitle}{Ecological Monographs}
+    \field{year}{2018}
+  \endentry
+
+  \entry{chesson_multispecies_1994}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CP}{%
+         family={Chesson},
+         familyi={C\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CP1}
+    \strng{fullhash}{CP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{3}
+    \field{pages}{227\bibrangedash 276}
+    \field{title}{Multispecies {Competition} in {Variable} {Environments}}
+    \field{volume}{45}
+    \field{journaltitle}{Theoretical Population Biology}
+    \field{month}{06}
+    \field{year}{1994}
+  \endentry
+
+  \entry{chesson2000mechanisms}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CP}{%
+         family={Chesson},
+         familyi={C\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Annual Reviews}%
+    }
+    \strng{namehash}{CP2}
+    \strng{fullhash}{CP2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1}
+    \field{pages}{343\bibrangedash 366}
+    \field{title}{Mechanisms of maintenance of species diversity}
+    \field{volume}{31}
+    \field{journaltitle}{Annual review of Ecology and Systematics}
+    \field{year}{2000}
+  \endentry
+
+  \entry{chippindale2001negative}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CAK}{%
+         family={Chippindale},
+         familyi={C\bibinitperiod},
+         given={Adam\bibnamedelima K},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=GJR}{%
+         family={Gibson},
+         familyi={G\bibinitperiod},
+         given={Jonathan\bibnamedelima R},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=RWR}{%
+         family={Rice},
+         familyi={R\bibinitperiod},
+         given={William\bibnamedelima R},
+         giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {National Acad Sciences}%
+    }
+    \strng{namehash}{CAKGJRRWR1}
+    \strng{fullhash}{CAKGJRRWR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2001}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{4}
+    \field{pages}{1671\bibrangedash 1675}
+    \field{title}{Negative genetic correlation for adult fitness between sexes
+  reveals ontogenetic conflict in Drosophila}
+    \field{volume}{98}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences}
+    \field{year}{2001}
+  \endentry
+
+  \entry{connallon2012general}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CT}{%
+         family={Connallon},
+         familyi={C\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=CAG}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={Andrew\bibnamedelima G},
+         giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{CTCAG1}
+    \strng{fullhash}{CTCAG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{4}
+    \field{pages}{1477\bibrangedash 1489}
+    \field{title}{A general population genetic framework for antagonistic
+  selection that accounts for demography and recurrent mutation}
+    \field{volume}{190}
+    \field{journaltitle}{Genetics}
+    \field{year}{2012}
+  \endentry
+
+  \entry{connallon2014balancing}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CT}{%
+         family={Connallon},
+         familyi={C\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=CAG}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={Andrew\bibnamedelima G},
+         giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{CTCAG1}
+    \strng{fullhash}{CTCAG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{3}
+    \field{pages}{991\bibrangedash 1006}
+    \field{title}{Balancing selection in species with separate sexes: insights
+  from Fisher’s geometric model}
+    \field{volume}{197}
+    \field{journaltitle}{Genetics}
+    \field{year}{2014}
+  \endentry
+
+  \entry{connallon2018environmental}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CT}{%
+         family={Connallon},
+         familyi={C\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HMD}{%
+         family={Hall},
+         familyi={H\bibinitperiod},
+         given={Matthew\bibnamedelima D},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Cancer Society}%
+    }
+    \strng{namehash}{CTHMD1}
+    \strng{fullhash}{CTHMD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{pages}{1\bibrangedash 7}
+    \field{title}{Environmental changes and sexually antagonistic selection}
+    \field{journaltitle}{eLS}
+    \field{year}{2018}
+  \endentry
+
+  \entry{connallon_evolutionary_2019}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CT}{%
+         family={Connallon},
+         familyi={C\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Sharma},
+         familyi={S\bibinitperiod},
+         given={Shefali},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=OC}{%
+         family={Olito},
+         familyi={O\bibinitperiod},
+         given={Colin},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CTSSOC1}
+    \strng{fullhash}{CTSSOC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1}
+    \field{pages}{93\bibrangedash 105}
+    \field{shorttitle}{Evolutionary {Consequences} of {Sex}-{Specific}
+  {Selection} in {Variable} {Environments}}
+    \field{title}{Evolutionary {Consequences} of {Sex}-{Specific} {Selection}
+  in {Variable} {Environments}: {Four} {Simple} {Models} {Reveal} {Diverse}
+  {Evolutionary} {Outcomes}}
+    \field{volume}{193}
+    \field{journaltitle}{The American Naturalist}
+    \field{month}{01}
+    \field{year}{2019}
+  \endentry
+
+  \entry{curtsinger1994antagonistic}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CJW}{%
+         family={Curtsinger},
+         familyi={C\bibinitperiod},
+         given={James\bibnamedelima W},
+         giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=SPM}{%
+         family={Service},
+         familyi={S\bibinitperiod},
+         given={Philip\bibnamedelima M},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PT}{%
+         family={Prout},
+         familyi={P\bibinitperiod},
+         given={Timothy},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Chicago Press}%
+    }
+    \strng{namehash}{CJWSPMPT1}
+    \strng{fullhash}{CJWSPMPT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{2}
+    \field{pages}{210\bibrangedash 228}
+    \field{title}{Antagonistic pleiotropy, reversal of dominance, and genetic
+  polymorphism}
+    \field{volume}{144}
+    \field{journaltitle}{The American Naturalist}
+    \field{year}{1994}
+  \endentry
+
+  \entry{dean2005protecting}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DAM}{%
+         family={Dean},
+         familyi={D\bibinitperiod},
+         given={Antony\bibnamedelima M},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{DAM1}
+    \strng{fullhash}{DAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2005}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{number}{2}
+    \field{pages}{1147\bibrangedash 1156}
+    \field{title}{Protecting haploid polymorphisms in temporally variable
+  environments}
+    \field{volume}{169}
+    \field{journaltitle}{Genetics}
+    \field{year}{2005}
+  \endentry
+
+  \entry{dempster1955maintenance}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=DER}{%
+         family={Dempster},
+         familyi={D\bibinitperiod},
+         given={Everett\bibnamedelima R},
+         giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Cold Spring Harbor Laboratory Press}%
+    }
+    \strng{namehash}{DER1}
+    \strng{fullhash}{DER1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1955}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{booktitle}{Cold Spring Harbor Symposia on Quantitative Biology}
+    \field{pages}{25\bibrangedash 32}
+    \field{title}{Maintenance of genetic heterogeneity}
+    \field{volume}{20}
+    \field{year}{1955}
+  \endentry
+
+  \entry{ellner2016quantify}{article}{}
+    \name{author}{3}{}{%
+      {{hash=ESP}{%
+         family={Ellner},
+         familyi={E\bibinitperiod},
+         given={Stephen\bibnamedelima P},
+         giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=SRE}{%
+         family={Snyder},
+         familyi={S\bibinitperiod},
+         given={Robin\bibnamedelima E},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=APB}{%
+         family={Adler},
+         familyi={A\bibinitperiod},
+         given={Peter\bibnamedelima B},
+         giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{ESPSREAPB1}
+    \strng{fullhash}{ESPSREAPB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{11}
+    \field{pages}{1333\bibrangedash 1342}
+    \field{title}{How to quantify the temporal storage effect using simulations
+  instead of math}
+    \field{volume}{19}
+    \field{journaltitle}{Ecology letters}
+    \field{year}{2016}
+  \endentry
+
+  \entry{ellner_expanded_2019}{article}{}
+    \name{author}{4}{}{%
+      {{hash=ESP}{%
+         family={Ellner},
+         familyi={E\bibinitperiod},
+         given={Stephen\bibnamedelima P.},
+         giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=SRE}{%
+         family={Snyder},
+         familyi={S\bibinitperiod},
+         given={Robin\bibnamedelima E.},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=APB}{%
+         family={Adler},
+         familyi={A\bibinitperiod},
+         given={Peter\bibnamedelima B.},
+         giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Hooker},
+         familyi={H\bibinitperiod},
+         given={Giles},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \keyw{competition, Coexistence, environmental variability, model, theory}
+    \strng{namehash}{ESP+1}
+    \strng{fullhash}{ESPSREAPBHG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{1}
+    \field{pages}{3\bibrangedash 18}
+    \field{title}{An expanded modern coexistence theory for empirical
+  applications}
+    \field{volume}{22}
+    \field{journaltitle}{Ecology Letters}
+    \field{annotation}{%
+    ecology%
+    }
+    \field{year}{2019}
+  \endentry
+
+  \entry{ellner1994role}{article}{}
+    \name{author}{2}{}{%
+      {{hash=ES}{%
+         family={Ellner},
+         familyi={E\bibinitperiod},
+         given={Stephen},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HJNG}{%
+         family={Hairston\bibnamedelima Jr},
+         familyi={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+         given={Nelson\bibnamedelima G},
+         giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Chicago Press}%
+    }
+    \strng{namehash}{ESHJNG1}
+    \strng{fullhash}{ESHJNG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1994}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{3}
+    \field{pages}{403\bibrangedash 417}
+    \field{title}{Role of overlapping generations in maintaining genetic
+  variation in a fluctuating environment}
+    \field{volume}{143}
+    \field{journaltitle}{The American Naturalist}
+    \field{year}{1994}
+  \endentry
+
+  \entry{ellner1996patterns}{article}{}
+    \name{author}{2}{}{%
+      {{hash=ES}{%
+         family={Ellner},
+         familyi={E\bibinitperiod},
+         given={Stephen},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sasaki},
+         familyi={S\bibinitperiod},
+         given={Akira},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{ESSA1}
+    \strng{fullhash}{ESSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{1}
+    \field{pages}{31\bibrangedash 65}
+    \field{title}{Patterns of genetic polymorphism maintained by fluctuating
+  selection with overlapping generations}
+    \field{volume}{50}
+    \field{journaltitle}{theoretical population biology}
+    \field{year}{1996}
+  \endentry
+
+  \entry{gavrilets2014sexual}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GS}{%
+         family={Gavrilets},
+         familyi={G\bibinitperiod},
+         given={Sergey},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cold Spring Harbor Lab}%
+    }
+    \strng{namehash}{GS1}
+    \strng{fullhash}{GS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{12}
+    \field{pages}{a017723}
+    \field{title}{Is sexual conflict an “engine of speciation”?}
+    \field{volume}{6}
+    \field{journaltitle}{Cold Spring Harbor perspectives in biology}
+    \field{year}{2014}
+  \endentry
+
+  \entry{hedrick1974genetic}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HPW}{%
+         family={Hedrick},
+         familyi={H\bibinitperiod},
+         given={Philip\bibnamedelima W},
+         giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{HPW1}
+    \strng{fullhash}{HPW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1974}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{2}
+    \field{pages}{757\bibrangedash 770}
+    \field{title}{Genetic variation in a heterogeneous environment. I. Temporal
+  heterogeneity and the absolute dominance model}
+    \field{volume}{78}
+    \field{journaltitle}{Genetics}
+    \field{year}{1974}
+  \endentry
+
+  \entry{hedrick1986genetic}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HPW}{%
+         family={Hedrick},
+         familyi={H\bibinitperiod},
+         given={Philip\bibnamedelima W},
+         giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA
+  94303-0139, USA}%
+    }
+    \strng{namehash}{HPW1}
+    \strng{fullhash}{HPW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1986}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{1}
+    \field{pages}{535\bibrangedash 566}
+    \field{title}{Genetic polymorphism in heterogeneous environments: a decade
+  later}
+    \field{volume}{17}
+    \field{journaltitle}{Annual review of ecology and systematics}
+    \field{year}{1986}
+  \endentry
+
+  \entry{hedrick1999antagonistic}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HPW}{%
+         family={Hedrick},
+         familyi={H\bibinitperiod},
+         given={Philip\bibnamedelima W},
+         giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{HPW1}
+    \strng{fullhash}{HPW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{2}
+    \field{pages}{126\bibrangedash 133}
+    \field{title}{Antagonistic pleiotropy and genetic polymorphism: a
+  perspective}
+    \field{volume}{82}
+    \field{journaltitle}{Heredity}
+    \field{year}{1999}
+  \endentry
+
+  \entry{hedrick2007balancing}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HPW}{%
+         family={Hedrick},
+         familyi={H\bibinitperiod},
+         given={Philip\bibnamedelima W},
+         giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{HPW1}
+    \strng{fullhash}{HPW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{7}
+    \field{pages}{R230\bibrangedash R231}
+    \field{title}{Balancing selection}
+    \field{volume}{17}
+    \field{journaltitle}{Current Biology}
+    \field{year}{2007}
+  \endentry
+
+  \entry{immler2012ploidally}{article}{}
+    \name{author}{3}{}{%
+      {{hash=IS}{%
+         family={Immler},
+         familyi={I\bibinitperiod},
+         given={Simone},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=AG}{%
+         family={Arnqvist},
+         familyi={A\bibinitperiod},
+         given={G{\"o}ran},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=OSP}{%
+         family={Otto},
+         familyi={O\bibinitperiod},
+         given={Sarah\bibnamedelima Perin},
+         giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{ISAGOSP1}
+    \strng{fullhash}{ISAGOSP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{number}{1}
+    \field{pages}{55\bibrangedash 65}
+    \field{title}{Ploidally antagonistic selection maintains stable genetic
+  polymorphism}
+    \field{volume}{66}
+    \field{journaltitle}{Evolution: International Journal of Organic Evolution}
+    \field{year}{2012}
+  \endentry
+
+  \entry{kasumovic2008spatial}{article}{}
+    \name{author}{4}{}{%
+      {{hash=KMM}{%
+         family={Kasumovic},
+         familyi={K\bibinitperiod},
+         given={Michael\bibnamedelima M},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BMJ}{%
+         family={Bruce},
+         familyi={B\bibinitperiod},
+         given={Matthew\bibnamedelima J},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=AMC}{%
+         family={Andrade},
+         familyi={A\bibinitperiod},
+         given={Maydianne\bibnamedelima CB},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=HME}{%
+         family={Herberstein},
+         familyi={H\bibinitperiod},
+         given={Marie\bibnamedelima E},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{KMM+1}
+    \strng{fullhash}{KMMBMJAMCHME1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{9}
+    \field{pages}{2316\bibrangedash 2325}
+    \field{title}{Spatial and temporal demographic variation drives
+  within-season fluctuations in sexual selection}
+    \field{volume}{62}
+    \field{journaltitle}{Evolution: International Journal of Organic Evolution}
+    \field{year}{2008}
+  \endentry
+
+  \entry{kidwell1977regions}{article}{}
+    \name{author}{4}{}{%
+      {{hash=KJ}{%
+         family={Kidwell},
+         familyi={K\bibinitperiod},
+         given={JF},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Clegg},
+         familyi={C\bibinitperiod},
+         given={MT},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Stewart},
+         familyi={S\bibinitperiod},
+         given={FM},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=PT}{%
+         family={Prout},
+         familyi={P\bibinitperiod},
+         given={T},
+         giveni={T},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{KJ+1}
+    \strng{fullhash}{KJCMSFPT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1977}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{number}{1}
+    \field{pages}{171\bibrangedash 183}
+    \field{title}{Regions of stable equilibria for models of differential
+  selection in the two sexes under random mating}
+    \field{volume}{85}
+    \field{journaltitle}{Genetics}
+    \field{year}{1977}
+  \endentry
+
+  \entry{lande1980sexual}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LR}{%
+         family={Lande},
+         familyi={L\bibinitperiod},
+         given={Russell},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {JSTOR}%
+    }
+    \strng{namehash}{LR1}
+    \strng{fullhash}{LR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1980}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{pages}{292\bibrangedash 305}
+    \field{title}{Sexual dimorphism, sexual selection, and adaptation in
+  polygenic characters}
+    \field{journaltitle}{Evolution}
+    \field{year}{1980}
+  \endentry
+
+  \entry{levins1979coexistence}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LR}{%
+         family={Levins},
+         familyi={L\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Chicago Press}%
+    }
+    \strng{namehash}{LR2}
+    \strng{fullhash}{LR2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1979}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{6}
+    \field{pages}{765\bibrangedash 783}
+    \field{title}{Coexistence in a variable environment}
+    \field{volume}{114}
+    \field{journaltitle}{The American Naturalist}
+    \field{year}{1979}
+  \endentry
+
+  \entry{mitchell-olds_which_2007}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MOT}{%
+         family={Mitchell-Olds},
+         familyi={M\bibinithyphendelim O\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=WJH}{%
+         family={Willis},
+         familyi={W\bibinitperiod},
+         given={John\bibnamedelima H.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=GDB}{%
+         family={Goldstein},
+         familyi={G\bibinitperiod},
+         given={David\bibnamedelima B.},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MOTWJHGDB1}
+    \strng{fullhash}{MOTWJHGDB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{11}
+    \field{pages}{845\bibrangedash 856}
+    \field{title}{Which evolutionary processes influence natural genetic
+  variation for phenotypic traits?}
+    \field{volume}{8}
+    \field{journaltitle}{Nature Reviews Genetics}
+    \field{month}{11}
+    \field{year}{2007}
+  \endentry
+
+  \entry{mori2017sexual}{article}{}
+    \name{author}{3}{}{%
+      {{hash=ME}{%
+         family={Mori},
+         familyi={M\bibinitperiod},
+         given={Emiliano},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MG}{%
+         family={Mazza},
+         familyi={M\bibinitperiod},
+         given={Giuseppe},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Lovari},
+         familyi={L\bibinitperiod},
+         given={Sandro},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MEMGLS1}
+    \strng{fullhash}{MEMGLS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{pages}{1\bibrangedash 7}
+    \field{title}{Sexual dimorphism}
+    \field{journaltitle}{Encyclopedia of Animal Cognition and Behavior (J.
+  Vonk, and T. Shakelford, Eds). Springer International Publishing,
+  Switzerland}
+    \field{year}{2017}
+  \endentry
+
+  \entry{nunney2002effective}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NL}{%
+         family={Nunney},
+         familyi={N\bibinitperiod},
+         given={Leonard},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The University of Chicago Press}%
+    }
+    \strng{namehash}{NL1}
+    \strng{fullhash}{NL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{number}{2}
+    \field{pages}{195\bibrangedash 204}
+    \field{title}{The effective size of annual plant populations: the
+  interaction of a seed bank with fluctuating population size in maintaining
+  genetic variation}
+    \field{volume}{160}
+    \field{journaltitle}{The American Naturalist}
+    \field{year}{2002}
+  \endentry
+
+  \entry{pamilo1979genic}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PP}{%
+         family={Pamilo},
+         familyi={P\bibinitperiod},
+         given={Pekka},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{PP1}
+    \strng{fullhash}{PP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1979}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{1}
+    \field{pages}{129\bibrangedash 133}
+    \field{title}{Genic variation at sex-linked loci: Quantification of regular
+  selection models}
+    \field{volume}{91}
+    \field{journaltitle}{Hereditas}
+    \field{year}{1979}
+  \endentry
+
+  \entry{patten2010fitness}{article}{}
+    \name{author}{3}{}{%
+      {{hash=PMM}{%
+         family={Patten},
+         familyi={P\bibinitperiod},
+         given={Manus\bibnamedelima M},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=HD}{%
+         family={Haig},
+         familyi={H\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=UF}{%
+         family={Ubeda},
+         familyi={U\bibinitperiod},
+         given={Francisco},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{PMMHDUF1}
+    \strng{fullhash}{PMMHDUF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{12}
+    \field{pages}{3638\bibrangedash 3642}
+    \field{title}{Fitness variation due to sexual antagonism and linkage
+  disequilibrium}
+    \field{volume}{64}
+    \field{journaltitle}{Evolution: International Journal of Organic Evolution}
+    \field{year}{2010}
+  \endentry
+
+  \entry{pemberton1996maintenance}{article}{}
+    \name{author}{9}{}{%
+      {{hash=PJ}{%
+         family={Pemberton},
+         familyi={P\bibinitperiod},
+         given={Josephine},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CTN}{%
+         family={Coulson},
+         familyi={C\bibinitperiod},
+         given={Tim\bibnamedelima N},
+         giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=MTC}{%
+         family={Marshall},
+         familyi={M\bibinitperiod},
+         given={Tristan\bibnamedelima C},
+         giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Slate},
+         familyi={S\bibinitperiod},
+         given={Jon},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Paterson},
+         familyi={P\bibinitperiod},
+         given={Steve},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Albon},
+         familyi={A\bibinitperiod},
+         given={SD},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CBTH}{%
+         family={Clutton-Brock},
+         familyi={C\bibinithyphendelim B\bibinitperiod},
+         given={Timothy\bibnamedelima Hugh},
+         giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=SPHA}{%
+         family={Sneath},
+         familyi={S\bibinitperiod},
+         given={Peter Henry\bibnamedelima Andrews},
+         giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The Royal Society London}%
+    }
+    \strng{namehash}{PJ+1}
+    \strng{fullhash}{PJSJCTNMTCSJPSASCBTHSPHA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1996}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{1341}
+    \field{pages}{745\bibrangedash 752}
+    \field{title}{The maintenance of genetic polymorphism in small island
+  populations: large mammals in the Hebrides}
+    \field{volume}{351}
+    \field{journaltitle}{Philosophical Transactions of the Royal Society of
+  London. Series B: Biological Sciences}
+    \field{year}{1996}
+  \endentry
+
+  \entry{reinhold2000maintenance}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RK}{%
+         family={Reinhold},
+         familyi={R\bibinitperiod},
+         given={Klaus},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{RK1}
+    \strng{fullhash}{RK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{6}
+    \field{pages}{1009\bibrangedash 1014}
+    \field{title}{Maintenance of a genetic polymorphism by fluctuating
+  selection on sex-limited traits}
+    \field{volume}{13}
+    \field{journaltitle}{Journal of Evolutionary Biology}
+    \field{year}{2000}
+  \endentry
+
+  \entry{schreiber2010interactive}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SSJ}{%
+         family={Schreiber},
+         familyi={S\bibinitperiod},
+         given={Sebastian\bibnamedelima J},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The Royal Society}%
+    }
+    \strng{namehash}{SSJ1}
+    \strng{fullhash}{SSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{1689}
+    \field{pages}{1907\bibrangedash 1914}
+    \field{title}{Interactive effects of temporal correlations, spatial
+  heterogeneity and dispersal on population persistence}
+    \field{volume}{277}
+    \field{journaltitle}{Proceedings of the Royal Society B: Biological
+  Sciences}
+    \field{year}{2010}
+  \endentry
+
+  \entry{schreiber2021positively}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SSJ}{%
+         family={Schreiber},
+         familyi={S\bibinitperiod},
+         given={Sebastian\bibnamedelima J},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The University of Chicago Press Chicago, IL}%
+    }
+    \strng{namehash}{SSJ1}
+    \strng{fullhash}{SSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{4}
+    \field{pages}{405\bibrangedash 414}
+    \field{title}{Positively and negatively autocorrelated environmental
+  fluctuations have opposing effects on species coexistence}
+    \field{volume}{197}
+    \field{journaltitle}{The American Naturalist}
+    \field{year}{2021}
+  \endentry
+
+  \entry{shoemaker2020}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SLG}{%
+         family={Shoemaker},
+         familyi={S\bibinitperiod},
+         given={Lauren\bibnamedelima G},
+         giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=BAK}{%
+         family={Barner},
+         familyi={B\bibinitperiod},
+         given={Allison\bibnamedelima K},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=BLS}{%
+         family={Bittleston},
+         familyi={B\bibinitperiod},
+         given={Leonora\bibnamedelima S},
+         giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=TAI}{%
+         family={Teufel},
+         familyi={T\bibinitperiod},
+         given={Ashley\bibnamedelima I},
+         giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{SLG+1}
+    \strng{fullhash}{SLGBAKBLSTAI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{6}
+    \field{pages}{939\bibrangedash 950}
+    \field{title}{Quantifying the relative importance of variation in predation
+  and the environment for species coexistence}
+    \field{volume}{23}
+    \field{journaltitle}{Ecology letters}
+    \field{year}{2020}
+  \endentry
+
+  \entry{walsh_evolution_2018}{book}{}
+    \name{author}{2}{}{%
+      {{hash=WB}{%
+         family={Walsh},
+         familyi={W\bibinitperiod},
+         given={Bruce},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Lynch},
+         familyi={L\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {OUP Oxford}%
+    }
+    \strng{namehash}{WBLM1}
+    \strng{fullhash}{WBLM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Evolution and {Selection} of {Quantitative} {Traits}}
+    \field{month}{06}
+    \field{year}{2018}
+  \endentry
+
+  \entry{whitlock1992temporal}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WMC}{%
+         family={Whitlock},
+         familyi={W\bibinitperiod},
+         given={Michael\bibnamedelima C},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{WMC1}
+    \strng{fullhash}{WMC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1992}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{3}
+    \field{pages}{608\bibrangedash 615}
+    \field{title}{Temporal fluctuations in demographic parameters and the
+  genetic variance among populations}
+    \field{volume}{46}
+    \field{journaltitle}{Evolution}
+    \field{year}{1992}
+  \endentry
+
+  \entry{zepeda2019fluctuation}{article}{}
+    \name{author}{2}{}{%
+      {{hash=ZV}{%
+         family={Zepeda},
+         familyi={Z\bibinitperiod},
+         given={Ver{\'o}nica},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Martorell},
+         familyi={M\bibinitperiod},
+         given={Carlos},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{ZVMC1}
+    \strng{fullhash}{ZVMC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{number}{8}
+    \field{pages}{e02726}
+    \field{title}{Fluctuation-independent niche differentiation and relative
+  non-linearity drive coexistence in a species-rich grassland}
+    \field{volume}{100}
+    \field{journaltitle}{Ecology}
+    \field{year}{2019}
+  \endentry
+\enddatalist
 \endinput
