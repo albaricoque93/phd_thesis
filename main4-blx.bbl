@@ -122,6 +122,80 @@
     \field{year}{2018}
   \endentry
 
+  \entry{bildstein1989consequences}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BKL}{%
+         family={Bildstein},
+         familyi={B\bibinitperiod},
+         given={Keith\bibnamedelima L},
+         giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=MSG}{%
+         family={McDowell},
+         familyi={M\bibinitperiod},
+         given={Susan\bibnamedelima G},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=BIL}{%
+         family={Brisbin},
+         familyi={B\bibinitperiod},
+         given={I\bibnamedelima Lehr},
+         giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{BKLMSGBIL1}
+    \strng{fullhash}{BKLMSGBIL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{pages}{133\bibrangedash 139}
+    \field{title}{Consequences of sexual dimorphism in sand fiddler crabs, Uca
+  pugilator: differential vulnerability to avian predation}
+    \field{volume}{37}
+    \field{journaltitle}{Animal Behaviour}
+    \field{year}{1989}
+  \endentry
+
+  \entry{bonduriansky2009intralocus}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BR}{%
+         family={Bonduriansky},
+         familyi={B\bibinitperiod},
+         given={Russell},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CSF}{%
+         family={Chenoweth},
+         familyi={C\bibinitperiod},
+         given={Stephen\bibnamedelima F},
+         giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{BRCSF1}
+    \strng{fullhash}{BRCSF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{5}
+    \field{pages}{280\bibrangedash 288}
+    \field{title}{Intralocus sexual conflict}
+    \field{volume}{24}
+    \field{journaltitle}{Trends in ecology \& evolution}
+    \field{year}{2009}
+  \endentry
+
   \entry{chesson_multispecies_1994}{article}{}
     \name{author}{1}{}{%
       {{hash=CP}{%
@@ -176,6 +250,35 @@
     \field{year}{2000}
   \endentry
 
+  \entry{chesson2003quantifying}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CP}{%
+         family={Chesson},
+         familyi={C\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{CP2}
+    \strng{fullhash}{CP2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{3}
+    \field{pages}{345\bibrangedash 357}
+    \field{title}{Quantifying and testing coexistence mechanisms arising from
+  recruitment fluctuations}
+    \field{volume}{64}
+    \field{journaltitle}{Theoretical Population Biology}
+    \field{year}{2003}
+  \endentry
+
   \entry{chippindale2001negative}{article}{}
     \name{author}{3}{}{%
       {{hash=CAK}{%
@@ -215,6 +318,48 @@
     \field{volume}{98}
     \field{journaltitle}{Proceedings of the National Academy of Sciences}
     \field{year}{2001}
+  \endentry
+
+  \entry{cockburn2008swingin}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CA}{%
+         family={Cockburn},
+         familyi={C\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=OHL}{%
+         family={Osmond},
+         familyi={O\bibinitperiod},
+         given={Helen\bibnamedelima L},
+         giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=DMC}{%
+         family={Double},
+         familyi={D\bibinitperiod},
+         given={Michael\bibnamedelima C},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The Royal Society London}%
+    }
+    \strng{namehash}{CAOHLDMC1}
+    \strng{fullhash}{CAOHLDMC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{1635}
+    \field{pages}{605\bibrangedash 612}
+    \field{title}{Swingin'in the rain: condition dependence and sexual
+  selection in a capricious world}
+    \field{volume}{275}
+    \field{journaltitle}{Proceedings of the Royal Society B: Biological
+  Sciences}
+    \field{year}{2008}
   \endentry
 
   \entry{connallon2012general}{article}{}
@@ -458,6 +603,84 @@
     \field{year}{1955}
   \endentry
 
+  \entry{elgar2003male}{article}{}
+    \name{author}{9}{}{%
+      {{hash=EMA}{%
+         family={Elgar},
+         familyi={E\bibinitperiod},
+         given={Mark\bibnamedelima A},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BMJ}{%
+         family={Bruce},
+         familyi={B\bibinitperiod},
+         given={Mathew\bibnamedelima J},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=DCFEC}{%
+         family={De\bibnamedelima Crespigny},
+         familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={Fleur E\bibnamedelima Champion},
+         giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim
+  C\bibinitperiod},
+      }}%
+      {{hash=CAR}{%
+         family={Cutler},
+         familyi={C\bibinitperiod},
+         given={Anna\bibnamedelima R},
+         giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=CCL}{%
+         family={Cutler},
+         familyi={C\bibinitperiod},
+         given={Cathryn\bibnamedelima L},
+         giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=GAC}{%
+         family={Gaskett},
+         familyi={G\bibinitperiod},
+         given={Anne\bibnamedelima C},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=HME}{%
+         family={Herberstein},
+         familyi={H\bibinitperiod},
+         given={Marie\bibnamedelima E},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Ramamurthy},
+         familyi={R\bibinitperiod},
+         given={Sharada},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SJM}{%
+         family={Schneider},
+         familyi={S\bibinitperiod},
+         given={Jutta\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {CSIRO Publishing}%
+    }
+    \strng{namehash}{EMA+1}
+    \strng{fullhash}{EMABMJDCFECCARCCLGACHMERSSJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{number}{4}
+    \field{pages}{357\bibrangedash 365}
+    \field{title}{Male mate choice and patterns of paternity in the
+  polyandrous, sexually cannibalistic orb-web spider, Nephila plumipes}
+    \field{volume}{51}
+    \field{journaltitle}{Australian Journal of Zoology}
+    \field{year}{2003}
+  \endentry
+
   \entry{ellner2016quantify}{article}{}
     \name{author}{3}{}{%
       {{hash=ESP}{%
@@ -617,6 +840,65 @@
     \field{year}{1996}
   \endentry
 
+  \entry{foerster2007sexually}{article}{}
+    \name{author}{6}{}{%
+      {{hash=FK}{%
+         family={Foerster},
+         familyi={F\bibinitperiod},
+         given={Katharina},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=CT}{%
+         family={Coulson},
+         familyi={C\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SBC}{%
+         family={Sheldon},
+         familyi={S\bibinitperiod},
+         given={Ben\bibnamedelima C},
+         giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=PJM}{%
+         family={Pemberton},
+         familyi={P\bibinitperiod},
+         given={Josephine\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=CBTH}{%
+         family={Clutton-Brock},
+         familyi={C\bibinithyphendelim B\bibinitperiod},
+         given={Tim\bibnamedelima H},
+         giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=KLE}{%
+         family={Kruuk},
+         familyi={K\bibinitperiod},
+         given={Loeske\bibnamedelima EB},
+         giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{FK+1}
+    \strng{fullhash}{FKCTSBCPJMCBTHKLE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{number}{7148}
+    \field{pages}{1107\bibrangedash 1110}
+    \field{title}{Sexually antagonistic genetic variation for fitness in red
+  deer}
+    \field{volume}{447}
+    \field{journaltitle}{Nature}
+    \field{year}{2007}
+  \endentry
+
   \entry{gavrilets2014sexual}{article}{}
     \name{author}{1}{}{%
       {{hash=GS}{%
@@ -643,6 +925,51 @@
     \field{volume}{6}
     \field{journaltitle}{Cold Spring Harbor perspectives in biology}
     \field{year}{2014}
+  \endentry
+
+  \entry{gotmark1997natural}{article}{}
+    \name{author}{4}{}{%
+      {{hash=GF}{%
+         family={G{\"o}tmark},
+         familyi={G\bibinitperiod},
+         given={Frank},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=PP}{%
+         family={Post},
+         familyi={P\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=OJ}{%
+         family={Olsson},
+         familyi={O\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HD}{%
+         family={Himmelmann},
+         familyi={H\bibinitperiod},
+         given={Dick},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {JSTOR}%
+    }
+    \strng{namehash}{GF+1}
+    \strng{fullhash}{GFPPOJHD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{pages}{540\bibrangedash 548}
+    \field{title}{Natural selection and sexual dimorphism: sex-biased
+  sparrowhawk predation favours crypsis in female chaffinches}
+    \field{journaltitle}{Oikos}
+    \field{year}{1997}
   \endentry
 
   \entry{hedrick1974genetic}{article}{}
@@ -802,6 +1129,40 @@
     \field{year}{2012}
   \endentry
 
+  \entry{innocenti2010sexually}{article}{}
+    \name{author}{2}{}{%
+      {{hash=IP}{%
+         family={Innocenti},
+         familyi={I\bibinitperiod},
+         given={Paolo},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MEH}{%
+         family={Morrow},
+         familyi={M\bibinitperiod},
+         given={Edward\bibnamedelima H},
+         giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Public Library of Science San Francisco, USA}%
+    }
+    \strng{namehash}{IPMEH1}
+    \strng{fullhash}{IPMEH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{number}{3}
+    \field{pages}{e1000335}
+    \field{title}{The sexually antagonistic genes of Drosophila melanogaster}
+    \field{volume}{8}
+    \field{journaltitle}{PLoS biology}
+    \field{year}{2010}
+  \endentry
+
   \entry{kasumovic2008spatial}{article}{}
     \name{author}{4}{}{%
       {{hash=KMM}{%
@@ -951,6 +1312,41 @@
     \field{year}{1979}
   \endentry
 
+  \entry{matter2002experimental}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MSF}{%
+         family={Matter},
+         familyi={M\bibinitperiod},
+         given={Stephen\bibnamedelima F},
+         giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={Roland},
+         familyi={R\bibinitperiod},
+         given={Jens},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{MSFRJ1}
+    \strng{fullhash}{MSFRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2002}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{308\bibrangedash 316}
+    \field{title}{An experimental examination of the effects of habitat quality
+  on the dispersal and local abundance of the butterfly Parnassius smintheus}
+    \field{volume}{27}
+    \field{journaltitle}{Ecological Entomology}
+    \field{year}{2002}
+  \endentry
+
   \entry{mitchell-olds_which_2007}{article}{}
     \name{author}{3}{}{%
       {{hash=MOT}{%
@@ -1025,6 +1421,35 @@
   Vonk, and T. Shakelford, Eds). Springer International Publishing,
   Switzerland}
     \field{year}{2017}
+  \endentry
+
+  \entry{morrissey2016meta}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MMB}{%
+         family={Morrissey},
+         familyi={M\bibinitperiod},
+         given={Michael\bibnamedelima B},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{MMB1}
+    \strng{fullhash}{MMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{10}
+    \field{pages}{1882\bibrangedash 1904}
+    \field{title}{Meta-analysis of magnitudes, differences and variation in
+  evolutionary parameters}
+    \field{volume}{29}
+    \field{journaltitle}{Journal of Evolutionary Biology}
+    \field{year}{2016}
   \endentry
 
   \entry{nunney2002effective}{article}{}
@@ -1206,6 +1631,78 @@
     \field{year}{1996}
   \endentry
 
+  \entry{promislow1992mortality}{article}{}
+    \name{author}{3}{}{%
+      {{hash=PDE}{%
+         family={Promislow},
+         familyi={P\bibinitperiod},
+         given={Daniel\bibnamedelima EL},
+         giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Montgomerie},
+         familyi={M\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MTE}{%
+         family={Martin},
+         familyi={M\bibinitperiod},
+         given={Thomas\bibnamedelima E},
+         giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The Royal Society London}%
+    }
+    \strng{namehash}{PDEMRMTE1}
+    \strng{fullhash}{PDEMRMTE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1992}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{1328}
+    \field{pages}{143\bibrangedash 150}
+    \field{title}{Mortality costs of sexual dimorphism in birds}
+    \field{volume}{250}
+    \field{journaltitle}{Proceedings of the Royal Society of London. Series B:
+  Biological Sciences}
+    \field{year}{1992}
+  \endentry
+
+  \entry{radwan_maintenance_2008}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RJ}{%
+         family={Radwan},
+         familyi={R\bibinitperiod},
+         given={Jacek},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{Additive genetic variance, Condition-dependence, Epigamic traits,
+  Genetic polymorphism, Heterozygosity, Mate choice, Mutation, Ontogenetic
+  conflict, Pleiotropy, Sexual selection}
+    \strng{namehash}{RJ1}
+    \strng{fullhash}{RJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{number}{1}
+    \field{pages}{113\bibrangedash 127}
+    \field{shorttitle}{Maintenance of genetic variation in sexual ornaments}
+    \field{title}{Maintenance of genetic variation in sexual ornaments: a
+  review of the mechanisms}
+    \field{volume}{134}
+    \field{journaltitle}{Genetica}
+    \field{month}{09}
+    \field{year}{2008}
+  \endentry
+
   \entry{reinhold2000maintenance}{article}{}
     \name{author}{1}{}{%
       {{hash=RK}{%
@@ -1341,6 +1838,62 @@
     \field{year}{2020}
   \endentry
 
+  \entry{steele1985comparison}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SJH}{%
+         family={Steele},
+         familyi={S\bibinitperiod},
+         given={John\bibnamedelima H},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{SJH1}
+    \strng{fullhash}{SJH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1985}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{6001}
+    \field{pages}{355\bibrangedash 358}
+    \field{title}{A comparison of terrestrial and marine ecological systems}
+    \field{volume}{313}
+    \field{journaltitle}{Nature}
+    \field{year}{1985}
+  \endentry
+
+  \entry{van2009intralocus}{article}{}
+    \name{author}{1}{}{%
+      {{hash=VDGS}{%
+         family={Van\bibnamedelima Doorn},
+         familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod},
+         given={G\bibnamedelima Sander},
+         giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Blackwell Publishing Inc Malden, USA}%
+    }
+    \strng{namehash}{VDGS1}
+    \strng{fullhash}{VDGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{1}
+    \field{pages}{52\bibrangedash 71}
+    \field{title}{Intralocus sexual conflict}
+    \field{volume}{1168}
+    \field{journaltitle}{Annals of the New York Academy of Sciences}
+    \field{year}{2009}
+  \endentry
+
   \entry{walsh_evolution_2018}{book}{}
     \name{author}{2}{}{%
       {{hash=WB}{%
@@ -1399,6 +1952,59 @@
     \field{volume}{46}
     \field{journaltitle}{Evolution}
     \field{year}{1992}
+  \endentry
+
+  \entry{wittmann2017seasonally}{article}{}
+    \name{author}{5}{}{%
+      {{hash=WMJ}{%
+         family={Wittmann},
+         familyi={W\bibinitperiod},
+         given={Meike\bibnamedelima J},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BAO}{%
+         family={Bergland},
+         familyi={B\bibinitperiod},
+         given={Alan\bibnamedelima O},
+         giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+      {{hash=FMW}{%
+         family={Feldman},
+         familyi={F\bibinitperiod},
+         given={Marcus\bibnamedelima W},
+         giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=SPS}{%
+         family={Schmidt},
+         familyi={S\bibinitperiod},
+         given={Paul\bibnamedelima S},
+         giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=PDA}{%
+         family={Petrov},
+         familyi={P\bibinitperiod},
+         given={Dmitri\bibnamedelima A},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {National Acad Sciences}%
+    }
+    \strng{namehash}{WMJ+1}
+    \strng{fullhash}{WMJBAOFMWSPSPDA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{46}
+    \field{pages}{E9932\bibrangedash E9941}
+    \field{title}{Seasonally fluctuating selection can maintain polymorphism at
+  many loci via segregation lift}
+    \field{volume}{114}
+    \field{journaltitle}{Proceedings of the National Academy of Sciences}
+    \field{year}{2017}
   \endentry
 
   \entry{zepeda2019fluctuation}{article}{}

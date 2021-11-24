@@ -16,12 +16,12 @@
 \defcounter {refsection}{4}\relax 
 \contentsline {chapter}{\numberline {4}{Quantifying the relative contributions of environmental fluctuations to the maintenance of a sexually antagonistic polymorphism}}{75}{chapter.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{\numberline {iii}{Final words}}{87}{part.3}%
+\contentsline {part}{\numberline {iii}{Final words}}{103}{part.3}%
 \defcounter {refsection}{5}\relax 
-\contentsline {chapter}{\numberline {5}{Conclusion}}{89}{chapter.5}%
+\contentsline {chapter}{\numberline {5}{Conclusion}}{105}{chapter.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {part}{\numberline {iv}{Appendices}}{99}{part.4}%
+\contentsline {part}{\numberline {iv}{Appendices}}{115}{part.4}%
 \defcounter {refsection}{6}\relax 
-\contentsline {chapter}{\numberline {6}{Appendix A}}{101}{chapter.6}%
+\contentsline {chapter}{\numberline {6}{Appendix A}}{117}{chapter.6}%
 \defcounter {refsection}{7}\relax 
-\contentsline {chapter}{\numberline {7}{Appendix B}}{109}{chapter.7}%
+\contentsline {chapter}{\numberline {7}{Appendix B}}{125}{chapter.7}%

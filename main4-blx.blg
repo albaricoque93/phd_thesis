@@ -17,7 +17,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 10699 items from 5000.
+Reallocated field_info (elt_size=4) to 12784 items from 5000.
 Database file #1: main-blx.bib
 Database file #2: Bibliography.bib
 Biblatex version: 3.13
@@ -27,45 +27,45 @@ Too many commas in name 1 of "Annual Reviews 4139 El Camino Way, PO Box 10139, P
 while executing---line 2805 of file biblatex.bst
 Too many commas in name 1 of "Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA" for entry hedrick1986genetic
 while executing---line 2805 of file biblatex.bst
-You've used 41 entries,
+You've used 56 entries,
             6365 wiz_defined-function locations,
-            1448 strings with 16352 characters,
-and the built_in function-call counts, 280999 in all, are:
-= -- 20442
-> -- 5374
-< -- 1904
-+ -- 5947
-- -- 1789
-* -- 21229
-:= -- 27133
+            1542 strings with 19459 characters,
+and the built_in function-call counts, 412706 in all, are:
+= -- 30725
+> -- 7538
+< -- 2637
++ -- 8765
+- -- 2584
+* -- 31998
+:= -- 40697
 add.period$ -- 0
-call.type$ -- 41
-change.case$ -- 40
-chr.to.int$ -- 68
-cite$ -- 80
-duplicate$ -- 27041
-empty$ -- 25783
-format.name$ -- 2798
-if$ -- 60356
+call.type$ -- 56
+change.case$ -- 55
+chr.to.int$ -- 74
+cite$ -- 110
+duplicate$ -- 38711
+empty$ -- 37753
+format.name$ -- 4003
+if$ -- 88247
 int.to.chr$ -- 0
-int.to.str$ -- 128
+int.to.str$ -- 174
 missing$ -- 0
-newline$ -- 1399
-num.names$ -- 2568
-pop$ -- 13831
+newline$ -- 1990
+num.names$ -- 3510
+pop$ -- 19171
 preamble$ -- 1
-purify$ -- 1454
+purify$ -- 2008
 quote$ -- 0
-skip$ -- 10919
+skip$ -- 15043
 stack$ -- 0
-substring$ -- 36037
-swap$ -- 7392
-text.length$ -- 1179
-text.prefix$ -- 41
+substring$ -- 56142
+swap$ -- 10365
+text.length$ -- 1660
+text.prefix$ -- 56
 top$ -- 1
-type$ -- 1382
+type$ -- 1892
 warning$ -- 0
-while$ -- 3283
+while$ -- 4805
 width$ -- 0
-write$ -- 1359
+write$ -- 1935
 (There were 2 error messages)

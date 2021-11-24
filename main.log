@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 NOV 2021 13:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 NOV 2021 16:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1620,6 +1620,12 @@ Overfull \hbox (1.35336pt too wide) in paragraph at lines 31--31
 l co-forager 
  []
 
+
+Overfull \hbox (11.99031pt too wide) in paragraph at lines 57--57
+ [][] []\T1/pplj/m/n/9 (-20) Distribution of $\OML/zplm/m/it/9 ^^N$ \T1/pplj/m/
+n/9 (-20) val-ues across the pa-ram-e-ter space []  
+ []
+
 [14
 
 ])
@@ -1722,7 +1728,7 @@ it/9 P[] \OMS/zplm/m/n/9 ^^@ \OT1/pplx/m/n/9 1\OT1/zplm/m/n/9 ) + [] [] \OML/zp
 lm/m/it/9 c[]P[][]$  
  []
 
-<figures/chapter2_fig1.pdf, id=570, 397.485pt x 505.89pt>
+<figures/chapter2_fig1.pdf, id=580, 397.485pt x 505.89pt>
 File: figures/chapter2_fig1.pdf Graphic file (type pdf)
 <use figures/chapter2_fig1.pdf>
 Package pdftex.def Info: figures/chapter2_fig1.pdf  used on input line 56.
@@ -1752,7 +1758,7 @@ cri-te-rion (WAIC) showed
  []
 
 [29]
-<figures/chapter2_fig2.pdf, id=685, 540.0175pt x 505.89pt>
+<figures/chapter2_fig2.pdf, id=695, 540.0175pt x 505.89pt>
 File: figures/chapter2_fig2.pdf Graphic file (type pdf)
 <use figures/chapter2_fig2.pdf>
 Package pdftex.def Info: figures/chapter2_fig2.pdf  used on input line 191.
@@ -1762,7 +1768,7 @@ Overfull \vbox (5.00452pt too high) has occurred while \output is active []
 
 
 [31 <./figures/chapter2_fig2.pdf>]
-<figures/chapter2_fig3.pdf, id=713, 505.89pt x 505.89pt>
+<figures/chapter2_fig3.pdf, id=723, 505.89pt x 505.89pt>
 File: figures/chapter2_fig3.pdf Graphic file (type pdf)
 <use figures/chapter2_fig3.pdf>
 Package pdftex.def Info: figures/chapter2_fig3.pdf  used on input line 204.
@@ -1779,7 +1785,7 @@ Package epstopdf Info: Source file: <figures/chapter2_fig4.eps>
 converted-to.pdf figures/chapter2_fig4.eps>
 (epstopdf)             \includegraphics on input line 214.
 Package epstopdf Info: Output file is already uptodate.
-<figures/chapter2_fig4-eps-converted-to.pdf, id=718, 505.89pt x 349.305pt>
+<figures/chapter2_fig4-eps-converted-to.pdf, id=728, 505.89pt x 349.305pt>
 File: figures/chapter2_fig4-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/chapter2_fig4-eps-converted-to.pdf>
 Package pdftex.def Info: figures/chapter2_fig4-eps-converted-to.pdf  used on in
@@ -1826,13 +1832,13 @@ Chapter 3.
 
 
 ] [45] [46] [47] [48] [49] [50]
-<figures/chapter3_fig1.pdf, id=997, 722.7pt x 216.81pt>
+<figures/chapter3_fig1.pdf, id=1008, 722.7pt x 216.81pt>
 File: figures/chapter3_fig1.pdf Graphic file (type pdf)
 <use figures/chapter3_fig1.pdf>
 Package pdftex.def Info: figures/chapter3_fig1.pdf  used on input line 121.
 (pdftex.def)             Requested size: 311.0pt x 93.29926pt.
  [51 <./figures/chapter3_fig1.pdf>]
-<figures/chapter3_fig2.pdf, id=1021, 578.16pt x 433.62pt>
+<figures/chapter3_fig2.pdf, id=1031, 578.16pt x 433.62pt>
 File: figures/chapter3_fig2.pdf Graphic file (type pdf)
 <use figures/chapter3_fig2.pdf>
 Package pdftex.def Info: figures/chapter3_fig2.pdf  used on input line 149.
@@ -1849,19 +1855,19 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 220--220
  []
 
 [56] [57] [58]
-<figures/chapter3_fig3.pdf, id=1122, 578.16pt x 578.16pt>
+<figures/chapter3_fig3.pdf, id=1132, 578.16pt x 578.16pt>
 File: figures/chapter3_fig3.pdf Graphic file (type pdf)
 <use figures/chapter3_fig3.pdf>
 Package pdftex.def Info: figures/chapter3_fig3.pdf  used on input line 276.
 (pdftex.def)             Requested size: 311.0pt x 310.99313pt.
  [59]
-<figures/chapter3_fig4.pdf, id=1128, 578.16pt x 578.16pt>
+<figures/chapter3_fig4.pdf, id=1138, 578.16pt x 578.16pt>
 File: figures/chapter3_fig4.pdf Graphic file (type pdf)
 <use figures/chapter3_fig4.pdf>
 Package pdftex.def Info: figures/chapter3_fig4.pdf  used on input line 282.
 (pdftex.def)             Requested size: 311.0pt x 310.99313pt.
  [60 <./figures/chapter3_fig3.pdf>] [61 <./figures/chapter3_fig4.pdf>] [62]
-<figures/chapter3_fig5.pdf, id=1180, 433.62pt x 722.7pt>
+<figures/chapter3_fig5.pdf, id=1190, 433.62pt x 722.7pt>
 File: figures/chapter3_fig5.pdf Graphic file (type pdf)
 <use figures/chapter3_fig5.pdf>
 Package pdftex.def Info: figures/chapter3_fig5.pdf  used on input line 345.
@@ -1899,16 +1905,53 @@ Chapter 4.
 
 
 ] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85]
-Package biblatex Info: Reference section=0 on input line 285.
-) [86] [87
+<figures/chapter4_fig1.pdf, id=1536, 505.89pt x 505.89pt>
+File: figures/chapter4_fig1.pdf Graphic file (type pdf)
+<use figures/chapter4_fig1.pdf>
+Package pdftex.def Info: figures/chapter4_fig1.pdf  used on input line 290.
+(pdftex.def)             Requested size: 311.0pt x 311.00084pt.
+ [86] [87 <./figures/chapter4_fig1.pdf>]
+<figures/chapter4_fig2.pdf, id=1573, 433.62pt x 433.62pt>
+File: figures/chapter4_fig2.pdf Graphic file (type pdf)
+<use figures/chapter4_fig2.pdf>
+Package pdftex.def Info: figures/chapter4_fig2.pdf  used on input line 306.
+(pdftex.def)             Requested size: 311.0pt x 311.01518pt.
+ [88]
+<figures/chapter4_fig3.pdf, id=1580, 483.8075pt x 743.77875pt>
+File: figures/chapter4_fig3.pdf Graphic file (type pdf)
+<use figures/chapter4_fig3.pdf>
+Package pdftex.def Info: figures/chapter4_fig3.pdf  used on input line 312.
+(pdftex.def)             Requested size: 311.0pt x 478.12772pt.
+ [89 <./figures/chapter4_fig2.pdf>]
+Overfull \vbox (79.14816pt too high) has occurred while \output is active []
+
+
+[90 <./figures/chapter4_fig3.pdf>]
+<figures/chapter4_fig4.pdf, id=1603, 578.16pt x 361.35pt>
+File: figures/chapter4_fig4.pdf Graphic file (type pdf)
+<use figures/chapter4_fig4.pdf>
+Package pdftex.def Info: figures/chapter4_fig4.pdf  used on input line 319.
+(pdftex.def)             Requested size: 311.0pt x 194.37071pt.
+<figures/chapter4_fig5.pdf, id=1604, 578.16pt x 361.35pt>
+File: figures/chapter4_fig5.pdf Graphic file (type pdf)
+<use figures/chapter4_fig5.pdf>
+Package pdftex.def Info: figures/chapter4_fig5.pdf  used on input line 327.
+(pdftex.def)             Requested size: 311.0pt x 194.37071pt.
+ [91 <./figures/chapter4_fig4.pdf>] [92 <./figures/chapter4_fig5.pdf>] [93] [94
+] [95] [96] [97
+
+
+] [98] [99] [100]
+Package biblatex Info: Reference section=0 on input line 364.
+) [101]
+[102
 
 
 
-] [88]
+] [103] [104]
 \openout2 = `Chapters/Discussion.aux'.
 
-
-(./Chapters/Discussion.tex
+ (./Chapters/Discussion.tex
 \blx@maxsegment@5=\count471
 \blx@sectionciteorder@5=\count472
 Package biblatex Info: Reference section=5 on input line 1.
@@ -1917,11 +1960,11 @@ Package biblatex Info: Reference section=5 on input line 1.
 Package biblatex Info: Setting label 'refsection:5' on input line 1.
 
 Chapter 5.
-[89
+[105
 
 
 
-] [90] [91] [92] [93] [94
+] [106] [107] [108] [109] [110
 
 
 ]
@@ -1936,15 +1979,15 @@ Overfull \hbox (6.58456pt too wide) in paragraph at lines 49--49
 er (2018). `  Translu-
  []
 
-[95] [96] [97]
+[111] [112] [113]
 Package biblatex Info: Reference section=0 on input line 49.
-) [98] [99
+) [114] [115
 
 
 
 
 
-] [100]
+] [116]
 \openout2 = `Chapters/Appendix_A.aux'.
 
  (./Chapters/Appendix_A.tex
@@ -1956,29 +1999,29 @@ Package biblatex Info: Reference section=6 on input line 1.
 Package biblatex Info: Setting label 'refsection:6' on input line 1.
 
 Chapter 6.
-[101
+[117
 
 
 
 ]
-<figures/appendixA_fig1.pdf, id=1714, 433.62pt x 271.0125pt>
+<figures/appendixA_fig1.pdf, id=1934, 433.62pt x 271.0125pt>
 File: figures/appendixA_fig1.pdf Graphic file (type pdf)
 <use figures/appendixA_fig1.pdf>
 Package pdftex.def Info: figures/appendixA_fig1.pdf  used on input line 43.
 (pdftex.def)             Requested size: 279.8981pt x 174.94438pt.
-<figures/appendixA_fig2.pdf, id=1717, 361.35pt x 578.16pt>
+<figures/appendixA_fig2.pdf, id=1937, 361.35pt x 578.16pt>
 File: figures/appendixA_fig2.pdf Graphic file (type pdf)
 <use figures/appendixA_fig2.pdf>
 Package pdftex.def Info: figures/appendixA_fig2.pdf  used on input line 50.
 (pdftex.def)             Requested size: 231.86421pt x 370.98407pt.
- [102 <./figures/appendixA_fig1.pdf>] [103 <./figures/appendixA_fig2.pdf>]
+ [118 <./figures/appendixA_fig1.pdf>] [119 <./figures/appendixA_fig2.pdf>]
 Overfull \hbox (11.99986pt too wide) in paragraph at lines 67--85
  [][] 
  []
 
-[104] [105] [106]
+[120] [121] [122]
 Package biblatex Info: Reference section=0 on input line 178.
-) [107] [108]
+) [123] [124]
 \openout2 = `Chapters/Appendix_B.aux'.
 
  (./Chapters/Appendix_B.tex
@@ -1996,12 +2039,12 @@ Overfull \hbox (2.60645pt too wide) in paragraph at lines 7--8
 the size of the biologically-
  []
 
-[109
+[125
 
 
 
 
-] [110] [111]
+] [126] [127]
 Overfull \hbox (22.46169pt too wide) detected at line 138
  $\OML/zplm/m/it/9 R[] \OT1/zplm/m/n/9 = \OML/zplm/m/it/9 []g[]N[] \OT1/zplm/m
 /n/9 + \OT1/pplx/m/n/9 2\OML/zplm/m/it/9 [][]g[]N[]g[]N[] \OT1/zplm/m/n/9 + \
@@ -2015,30 +2058,30 @@ Overfull \hbox (26.53453pt too wide) in alignment at lines 152--155
  [][][] []
  []
 
-[112] [113] [114]
+[128] [129] [130]
 Overfull \hbox (21.59987pt too wide) in paragraph at lines 211--220
  [][] 
  []
 
-<figures/appendixB_fig1.pdf, id=1825, 578.16pt x 578.16pt>
+<figures/appendixB_fig1.pdf, id=2045, 578.16pt x 578.16pt>
 File: figures/appendixB_fig1.pdf Graphic file (type pdf)
 <use figures/appendixB_fig1.pdf>
 Package pdftex.def Info: figures/appendixB_fig1.pdf  used on input line 231.
 (pdftex.def)             Requested size: 311.0pt x 310.99313pt.
-[115] [116 <./figures/appendixB_fig1.pdf>]
-<figures/appendixB_fig2.pdf, id=1845, 578.16pt x 578.16pt>
+[131] [132 <./figures/appendixB_fig1.pdf>]
+<figures/appendixB_fig2.pdf, id=2065, 578.16pt x 578.16pt>
 File: figures/appendixB_fig2.pdf Graphic file (type pdf)
 <use figures/appendixB_fig2.pdf>
 Package pdftex.def Info: figures/appendixB_fig2.pdf  used on input line 239.
 (pdftex.def)             Requested size: 311.0pt x 310.99313pt.
- [117
+ [133
 
- <./figures/appendixB_fig2.pdf>] [118
+ <./figures/appendixB_fig2.pdf>] [134
 
 
 ]
 Package biblatex Info: Reference section=0 on input line 246.
-) [119] [120
+) [135] [136
 
 
 
@@ -2064,7 +2107,7 @@ Overfull \hbox (4.51491pt too wide) in paragraph at lines 13--14
 look-and-feel \T1/fvm/m/n/9 classicthesis
  []
 
-) [121
+) [137
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
@@ -2088,135 +2131,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 161.
  ) 
 Here is how much of TeX's memory you used:
- 33500 strings out of 480608
- 630772 string characters out of 5903631
- 1462359 words of memory out of 5000000
- 47203 multiletter control sequences out of 15000+600000
- 700700 words of font info for 873 fonts, out of 8000000 for 9000
+ 33842 strings out of 480608
+ 640392 string characters out of 5903631
+ 1478806 words of memory out of 5000000
+ 47484 multiletter control sequences out of 15000+600000
+ 701844 words of font info for 889 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,22n,98p,10099b,3191s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{cite.6@edwards_revisiting_2007} has been referenc
 ed but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@kasumovic2008spatial} has been referenced bu
-t does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@connallon_evolutionary_2019} has been refere
-nced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@patten2010fitness} has been referenced but d
-oes not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@shoemaker2020} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@ellner_expanded_2019} has been referenced bu
-t does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@schreiber2021positively} has been referenced
- but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@zepeda2019fluctuation} has been referenced b
-ut does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@chesson_multispecies_1994} has been referenc
-ed but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@schreiber2010interactive} has been reference
-d but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@levins1979coexistence} has been referenced b
-ut does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@chesson2000mechanisms} has been referenced b
-ut does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@barabas_chessons_2018} has been referenced b
-ut does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@armstrong1980competitive} has been reference
-d but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@ellner2016quantify} has been referenced but 
-does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@pemberton1996maintenance} has been reference
-d but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@nunney2002effective} has been referenced but
- does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@whitlock1992temporal} has been referenced bu
-t does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@reinhold2000maintenance} has been referenced
- but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@ellner1996patterns} has been referenced but 
-does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@ellner1994role} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@dean2005protecting} has been referenced but 
-does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@hedrick1986genetic} has been referenced but 
-does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@hedrick1974genetic} has been referenced but 
-does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@dempster1955maintenance} has been referenced
- but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@immler2012ploidally} has been referenced but
- does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@pamilo1979genic} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@kidwell1977regions} has been referenced but 
-does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@hedrick1999antagonistic} has been referenced
- but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@curtsinger1994antagonistic} has been referen
-ced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@connallon2012general} has been referenced bu
-t does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@mori2017sexual} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@connallon2018environmental} has been referen
-ced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@gavrilets2014sexual} has been referenced but
- does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@chippindale2001negative} has been referenced
- but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@lande1980sexual} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@arnqvist2013sexual} has been referenced but 
-does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@connallon2014balancing} has been referenced 
-but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@mitchell-olds_which_2007} has been reference
-d but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@hedrick2007balancing} has been referenced bu
-t does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.4@walsh_evolution_2018} has been referenced bu
-t does not exist, replaced by a fixed one
 
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/tex
 live/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/local/texliv
@@ -2233,10 +2156,10 @@ fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/t
 ype1/public/bera/fvmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw
 /palatino/uplr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/palati
 no/uplri8a.pfb>
-Output written on main.pdf (137 pages, 2429168 bytes).
+Output written on main.pdf (153 pages, 2681342 bytes).
 PDF statistics:
- 2104 PDF objects out of 2487 (max. 8388607)
- 1879 compressed objects within 19 object streams
- 549 named destinations out of 1000 (max. 500000)
- 99559 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 2332 PDF objects out of 2487 (max. 8388607)
+ 2076 compressed objects within 21 object streams
+ 585 named destinations out of 1000 (max. 500000)
+ 99584 words of extra memory for PDF output out of 106986 (max. 10000000)
 
